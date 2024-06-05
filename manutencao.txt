@@ -2,7 +2,6 @@ A4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|1|MI-103|P10.9|05.06.2024
 A4211731|Maquina Carregando E Ijetando Ao Mesmo T|Corretiva|1|IJ-139|P10.9|05.06.2024  10:48:32|05.06.2024  14:11:02|00.00.0000  00:00:00|Marco Aurelio Maciel Zucoloto|MECA|Jefferson Da|||
 A4211749|Falha No Cilindro Giratorio De Extracao|Corretiva|1|MF-43|P10.6|05.06.2024  15:18:36|05.06.2024  16:05:09|00.00.0000  00:00:00|Felipe Candido|MECA|Luiz Francis|||
 V4211528|Extrator Nao Sobe / Falha De Pressao|Corretiva|0|IJ-135|P10.11|31.05.2024  03:25:26|31.05.2024  04:18:14|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Ezequiel Apa|||
-V4211703|Rosca Da Camisa De Injecao Danificado|Corretiva|1|IJ-112|P10.10|05.06.2024  06:37:18|05.06.2024  06:53:59|05.06.2024  10:37:46|Paulo R. Oliveira|MECA|Luiz Fernand|||
 V4211702|Maquina Nao Esta Realizando A Gravacao|Corretiva|1|AL-06|P10.7|05.06.2024  06:36:12|05.06.2024  06:52:09|05.06.2024  11:08:24|Tiago S. Muchon|ELET|Ezequiel Apa|||
 V4211713|Maquina Nao Inicia|Corretiva|1|MF-19|P10.9|05.06.2024  09:11:17|05.06.2024  09:24:13|05.06.2024  12:27:04|Rosenildo Santiago|ELET|Jefferson Da|||
 V4211707|Falha No Gerador - Oscilacao|Corretiva|1|PLA-01|P10.11|05.06.2024  07:37:15|05.06.2024  07:45:17|05.06.2024  12:57:42|Bruno H. Oliveira|ELET|Fernando Hen|||
@@ -14,6 +13,7 @@ W4211747|Fio Ligaco 65 Solto|Corretiva|1|IJ-039|P10.7|05.06.2024  14:28:06|00.00
 W4211750|Falha Na Reversao|Corretiva|1|IJ-129|P10.3|05.06.2024  15:20:00|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Elaine Crist|||
 W4211750|Falha Na Reversao|Corretiva|1|IJ-129|P10.3|05.06.2024  15:20:00|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Elaine Crist|||
 W4211748|Falha Na Formacao De Vacuo|Corretiva|1|PLA-03|P10.10|05.06.2024  14:55:35|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luiz Fernand|||
+W4211751|Maquina Nao Inicializa|Corretiva|1|MF-42|P10.8|05.06.2024  16:39:06|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Felipe Ibane|||
 O4211294|Quebra Dos Parafusos Do Cilindro|Corretiva|MOD-6/13|P10.2|Tiago S. Muchon|Conserto Externo|25.05.2024|||
 O4211459|Barulho Anormal No Motor|Corretiva|CL-03|P10.14|Washington J.O. Chaves||29.05.2024|||
 O4211459|Barulho Anormal No Motor|Corretiva|CL-03|P10.14|Paulo R. Oliveira|Aguardando Material/peca|29.05.2024|||
