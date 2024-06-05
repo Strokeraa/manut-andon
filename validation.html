@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Em Validação</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        text-align: center;
+      }
+      table {
+        width: 100%;
+        font-size: 12px;
+      }
+      th,
+      td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+        background-color: green;
+        color: white;
+      }
+      th {
+        background-color: #292929;
+        color: white;
+      }
+
+      .sabo {
+        margin-top: 20px;
+        width: 220px;
+      }
+
+      .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 10px;
+        font-weight: bold;
+      }
+
+      .title-center {
+        text-align: center;
+        margin: 20px 397px 10px 150px;
+        font-size: 24px;
+      }
+
+      .titulo {
+        text-align: center;
+        font-weight: bold;
+        font-size: 35px;
+        margin-top: -10px;
+        margin-bottom: 10px;
+      }
+
+      .relogio {
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+        margin-bottom: 15px;
+      }
+
+      .pagination {
+        text-align: center;
+        margin-top: 10px;
+      }
+
+      .pagination button {
+        margin: 5px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <img class="sabo" src="assets/Sabó claro recortado.png" alt="Logo" />
+      <h1 class="title-center">ATENDIMENTO DAS ORDENS DE MANUTENÇÃO</h1>
+    </div>
+    <p class="titulo">Em Validação</p>
+    <div class="relogio" id="relogio"></div>
+    <table>
+      <thead>
+        <tr>
+          <th>Ordem</th>
+          <th>Descrição</th>
+          <th>Prioridade</th>
+          <th>Equipamento</th>
+          <th>Local</th>
+          <th>Data/Hora Nota</th>
+          <th>Data/Hora Ini. Atendimento</th>
+          <th>Data/Hora Fim Atendimento</th>
+          <th>Mantenedor</th>
+          <th>Função Mant.</th>
+          <th>Notificador</th>
+        </tr>
+      </thead>
+      <tbody id="data-container">
+        <!-- Os dados serão preenchidos aqui pelo JavaScript -->
+      </tbody>
+    </table>
+
+    <script>
+      const itemsPerPage = 10;
+      let currentPage = 1;
+      let totalPages = 1;
+
+      window.onload = function () {
+        fetchAndDisplayData("V", currentPage);
+        setInterval(autoPaginate, 1000); // Define o intervalo de 10 segundos
+        updateClock(); // Atualiza o relógio imediatamente
+        setInterval(updateClock, 1000); // Atualiza o relógio a cada segundo
+      };
+
+      function fetchAndDisplayData(status, page) {
+        fetch("formatado.txt")
+          .then((response) => response.text())
+          .then((data) => {
+            const rows = data.split("\n");
+            const filteredRows = rows.filter((row) => row.startsWith(status));
+            totalPages = Math.ceil(filteredRows.length / itemsPerPage);
+            const startIndex = (page - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const slicedRows = filteredRows.slice(startIndex, endIndex);
+            const formattedData = slicedRows
+              .map((row) => {
+                const rowData = row.split("|");
+                // Remover a letra da coluna "Ordem"
+                rowData[0] = rowData[0].replace(/[^\d]/g, "");
+                return "<tr><td>" + rowData.join("</td><td>") + "</td></tr>";
+              })
+              .join("");
+            document.getElementById("data-container").innerHTML = formattedData;
+          })
+          .catch((error) => console.error("Erro ao ler o arquivo:", error));
+      }
+
+      function autoPaginate() {
+        if (currentPage < totalPages) {
+          currentPage++;
+        } else {
+          // Redirecionar para a página inprogress.html
+          window.location.href = "inprogress.html";
+          return; // Termina a execução da função aqui para evitar a busca e exibição de dados extras.
+        }
+        fetchAndDisplayData("V", currentPage);
+      }
+
+      function updateClock() {
+        const now = new Date();
+        const formattedDate = now.toLocaleDateString("pt-BR");
+        const formattedTime = now.toLocaleTimeString("pt-BR");
+        document.getElementById(
+          "relogio"
+        ).innerText = `Data: ${formattedDate} Hora: ${formattedTime}`;
+      }
+    </script>
+  </body>
+</html>

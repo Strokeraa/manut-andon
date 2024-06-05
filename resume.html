@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Atendimento das Ordens de Manutenção</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      .header,
+      .footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        font-size: 10px;
+        font-weight: bold;
+      }
+      .header img {
+        width: 250px; /* Aumenta o tamanho da logo */
+        margin-top: 20px;
+      }
+      .title {
+        margin-right: -72px;
+        font-size: 24px;
+        font-weight: bold;
+      }
+      .subtitle {
+        text-align: center;
+        font-size: 30px; /* Aumenta o tamanho da escrita */
+        font-weight: bold;
+        margin-top: -5px;
+        margin-bottom: 10px;
+      }
+      .relogio {
+        font-size: 18px; /* Aumenta o tamanho do relógio */
+        margin-right: 50px; /* Move o relógio para a esquerda */
+        margin-top: 20px;
+      }
+      table {
+        width: 100%;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      th,
+      td {
+        border: 2px solid black;
+        padding: 8px;
+        text-align: center;
+      }
+      th {
+        background-color: #292929;
+        color: white;
+      }
+      .em-atendimento {
+        background-color: blue;
+        color: white;
+      }
+      .em-validacao {
+        background-color: green;
+        color: white;
+      }
+      .aguardando-atendimento {
+        background-color: yellow;
+        color: black;
+      }
+      .pausadas {
+        background-color: brown;
+        color: white;
+      }
+      .nao-validadas {
+        background-color: red;
+        color: white;
+      }
+      .pagination {
+        text-align: center;
+        margin-top: 10px;
+      }
+      .pagination button {
+        margin: 5px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <img class="sabo" src="assets/Sabó claro recortado.png" alt="Logo" />
+      <div class="title">ATENDIMENTO DAS ORDENS DE MANUTENÇÃO</div>
+      <div class="relogio">28 MAI 24 - 14:00:46 - PÁG.01</div>
+    </div>
+    <div class="subtitle">- TOTAL GERAL -</div>
+    <table>
+      <thead>
+        <tr>
+          <th>TIPO DE ORDEM</th>
+          <th>QUANTIDADE</th>
+          <th>PERCENTUAL</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="em-atendimento">
+          <td>TOTAL DE ORDENS EM ATENDIMENTO:</td>
+          <td>4</td>
+          <td>21,05%</td>
+        </tr>
+        <tr class="em-validacao">
+          <td>TOTAL DE ORDENS EM VALIDACAO:</td>
+          <td>8</td>
+          <td>42,10%</td>
+        </tr>
+        <tr class="aguardando-atendimento">
+          <td>TOTAL DE ORDENS AGUARDANDO ATENDIMENTO:</td>
+          <td>4</td>
+          <td>21,05%</td>
+        </tr>
+        <tr class="pausadas">
+          <td>TOTAL DE ORDENS PAUSADAS:</td>
+          <td>3</td>
+          <td>15,78%</td>
+        </tr>
+        <tr class="nao-validadas">
+          <td>TOTAL DE ORDENS NAO VALIDADAS:</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="2">TOTAL DE ORDENS:</td>
+          <td>19</td>
+        </tr>
+      </tbody>
+    </table>
+    <script>
+      window.onload = function () {
+        updateClock();
+        setInterval(updateClock, 1000);
+      };
+
+      function updateClock() {
+        const now = new Date();
+        const formattedDate = now.toLocaleDateString("pt-BR");
+        const formattedTime = now.toLocaleTimeString("pt-BR");
+        document.querySelector(
+          ".relogio"
+        ).innerText = `Data: ${formattedDate} Hora: ${formattedTime}`;
+      }
+
+      // Função para redirecionar após 15 segundos
+      setTimeout(function () {
+        window.location.href = "validation.html";
+      }, 1500); // 15 segundos em milissegundos
+    </script>
+  </body>
+</html>
