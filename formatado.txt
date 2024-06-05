@@ -1,40 +1,22 @@
-A4211710|Vazamento De Oleo Na Mangueira Do Cilind|1|IJ-114|P10.6|05.06.2024  08:04:28|05.06.2024  09:52:10|Marcus V. Nunes|MECA|Heverton Sie
-A4211701|Cilindro Travado Devido A Queda De Energ|1|MEM-01|P10.10|05.06.2024  06:35:32|05.06.2024  07:04:36|Bruno H. Oliveira|MECA|Fernando Hen
-A4211689|Quebra Do Pistao De Acinomento|2|PH-27|P10.14|04.06.2024  13:32:14|05.06.2024  10:43:23|Paulo R. Oliveira|MECA|ANTONIO MARC
-V4210531|Perda De Referencia|0|IJ-138|P10.11|08.05.2024  01:23:10|08.05.2024  03:01:49|00.00.0000  00:00:00|Willians A. Rocha|ELET|Mariana Mart
+A4211715|Falha No Drive Do Cilindro Eletrico|1|MI-103|P10.9|05.06.2024  09:28:47|05.06.2024  13:57:52|Rosenildo Santiago|ELET|Fabricia Oli
+A4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|05.06.2024  14:11:02|Marco Aurelio Maciel Zucoloto|MECA|Jefferson Da
+A4211749|Falha No Cilindro Giratorio De Extracao|1|MF-43|P10.6|05.06.2024  15:18:36|05.06.2024  16:05:09|Felipe Candido|MECA|Luiz Francis
 V4211528|Extrator Nao Sobe / Falha De Pressao|0|IJ-135|P10.11|31.05.2024  03:25:26|31.05.2024  04:18:14|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Ezequiel Apa
-V4211581|Ij-49 Nao Faz Abertura Em Aut.(p 35 Nao|1|IJ-049|P10.6|03.06.2024  03:42:32|03.06.2024  05:55:14|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Wagner Admir
-V4211705|Falha Na Libertacao Da Trava Do Bloqueio|1|IJ-049|P10.6|05.06.2024  06:57:30|05.06.2024  07:42:03|05.06.2024  09:45:54|Rosenildo Santiago|MECA|Moacir De Ol
-V4211581|Ij-49 Nao Faz Abertura Em Aut.(p 35 Nao|1|IJ-049|P10.6|03.06.2024  03:42:32|03.06.2024  05:55:14|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Wagner Admir
-V4211705|Falha Na Libertacao Da Trava Do Bloqueio|1|IJ-049|P10.6|05.06.2024  06:57:30|05.06.2024  07:42:03|05.06.2024  09:45:54|Rosenildo Santiago|MECA|Moacir De Ol
-V4211581|Ij-49 Nao Faz Abertura Em Aut.(p 35 Nao|1|IJ-049|P10.6|03.06.2024  03:42:32|03.06.2024  05:55:14|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Wagner Admir
-V4211705|Falha Na Libertacao Da Trava Do Bloqueio|1|IJ-049|P10.6|05.06.2024  06:57:30|05.06.2024  07:42:03|05.06.2024  09:45:54|Rosenildo Santiago|MECA|Moacir De Ol
-V4211581|Ij-49 Nao Faz Abertura Em Aut.(p 35 Nao|1|IJ-049|P10.6|03.06.2024  03:42:32|03.06.2024  05:55:14|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Wagner Admir
-V4211705|Falha Na Libertacao Da Trava Do Bloqueio|1|IJ-049|P10.6|05.06.2024  06:57:30|05.06.2024  07:42:03|05.06.2024  09:45:54|Rosenildo Santiago|MECA|Moacir De Ol
-V4211581|Ij-49 Nao Faz Abertura Em Aut.(p 35 Nao|1|IJ-049|P10.6|03.06.2024  03:42:32|03.06.2024  05:55:14|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Wagner Admir
-V4211705|Falha Na Libertacao Da Trava Do Bloqueio|1|IJ-049|P10.6|05.06.2024  06:57:30|05.06.2024  07:42:03|05.06.2024  09:45:54|Rosenildo Santiago|MECA|Moacir De Ol
-V4211711|Ij-127 Falha No Ajuste De Velocidade|1|IJ-127|P10.6|05.06.2024  08:10:58|05.06.2024  08:17:29|05.06.2024  09:54:50|Cosme Cicero da Silva|ELET|Heverton Sie
 V4211703|Rosca Da Camisa De Injecao Danificado|1|IJ-112|P10.10|05.06.2024  06:37:18|05.06.2024  06:53:59|05.06.2024  10:37:46|Paulo R. Oliveira|MECA|Luiz Fernand
 V4211702|Maquina Nao Esta Realizando A Gravacao|1|AL-06|P10.7|05.06.2024  06:36:12|05.06.2024  06:52:09|05.06.2024  11:08:24|Tiago S. Muchon|ELET|Ezequiel Apa
 V4211713|Maquina Nao Inicia|1|MF-19|P10.9|05.06.2024  09:11:17|05.06.2024  09:24:13|05.06.2024  12:27:04|Rosenildo Santiago|ELET|Jefferson Da
 V4211707|Falha No Gerador - Oscilacao|1|PLA-01|P10.11|05.06.2024  07:37:15|05.06.2024  07:45:17|05.06.2024  12:57:42|Bruno H. Oliveira|ELET|Fernando Hen
+V4211710|Vazamento De Oleo Na Mangueira Do Cilind|1|IJ-114|P10.6|05.06.2024  08:04:28|05.06.2024  09:52:10|05.06.2024  15:23:26|Marcus V. Nunes|MECA|Heverton Sie
+V4211689|Quebra Do Pistao De Acinomento|2|PH-27|P10.14|04.06.2024  13:32:14|05.06.2024  10:43:23|05.06.2024  15:03:28|Paulo R. Oliveira|MECA|ANTONIO MARC
 W4211712|Falha Na Tirada De Ar|1|PV-026|P10.2|05.06.2024  08:41:30|MECA|Talita da Si
-W4211715|Falha No Drive Do Cilindro Eletrico|1|MI-103|P10.9|05.06.2024  09:28:47|ELET|Fabricia Oli
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
-W4211731|Maquina Carregando E Ijetando Ao Mesmo T|1|IJ-139|P10.9|05.06.2024  10:48:32|ELET|Jefferson Da
+W4211746|Falha No Aquecimento Do 62|1|IJ-115|P10.8|05.06.2024  14:16:21|ELET|Claudiney Pi
+W4211747|Fio Ligaco 65 Solto|1|IJ-039|P10.7|05.06.2024  14:28:06|ELET|Mauricio Alv
+W4211750|Falha Na Reversao|1|IJ-129|P10.3|05.06.2024  15:20:00|ELET|Elaine Crist
+W4211750|Falha Na Reversao|1|IJ-129|P10.3|05.06.2024  15:20:00|MECA|Elaine Crist
+W4211748|Falha Na Formacao De Vacuo|1|PLA-03|P10.10|05.06.2024  14:55:35|MECA|Luiz Fernand
 O4211294|Quebra Dos Parafusos Do Cilindro|MOD-6/13|P10.2|Tiago S. Muchon|Conserto Externo|25.05.2024
 O4211459|Barulho Anormal No Motor|CL-03|P10.14|Washington J.O. Chaves||29.05.2024
 O4211459|Barulho Anormal No Motor|CL-03|P10.14|Paulo R. Oliveira|Aguardando Material/peca|29.05.2024
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211619|Trocar Amortecedor Da Raquete|MF-03|P10.1|Marco Aurelio Maciel Zucoloto|Aguardando Mat. "de Estoque"|03.06.2024
-O4211644|Ph18|PH-18|P10.3|Tiago S. Muchon|Conserto Externo|04.06.2024
-O4211694|Pescador Desalinhado|ML-46|P10.8|Marcos A. Farias|Aguardando Material/peca|04.06.2024
+O4211701|Cilindro Travado Devido A Queda De Energ|MEM-01|P10.10|Bruno H. Oliveira|Troca De Turno|05.06.2024
