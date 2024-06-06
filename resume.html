@@ -20,7 +20,7 @@
         font-weight: bold;
       }
       .header img {
-        width: 250px; /* Aumenta o tamanho da logo */
+        width: 250px;
         margin-top: 20px;
       }
       .title {
@@ -30,14 +30,14 @@
       }
       .subtitle {
         text-align: center;
-        font-size: 30px; /* Aumenta o tamanho da escrita */
+        font-size: 30px;
         font-weight: bold;
         margin-top: -5px;
         margin-bottom: 10px;
       }
       .relogio {
-        font-size: 18px; /* Aumenta o tamanho do relógio */
-        margin-right: 50px; /* Move o relógio para a esquerda */
+        font-size: 18px;
+        margin-right: 50px;
         margin-top: 20px;
       }
       table {
@@ -103,32 +103,32 @@
       <tbody>
         <tr class="em-atendimento">
           <td>TOTAL DE ORDENS EM ATENDIMENTO:</td>
-          <td>4</td>
-          <td>21,05%</td>
+          <td id="em-atendimento-quantidade"></td>
+          <td id="em-atendimento-percentual"></td>
         </tr>
         <tr class="em-validacao">
           <td>TOTAL DE ORDENS EM VALIDACAO:</td>
-          <td>8</td>
-          <td>42,10%</td>
+          <td id="em-validacao-quantidade"></td>
+          <td id="em-validacao-percentual"></td>
         </tr>
         <tr class="aguardando-atendimento">
           <td>TOTAL DE ORDENS AGUARDANDO ATENDIMENTO:</td>
-          <td>4</td>
-          <td>21,05%</td>
+          <td id="aguardando-atendimento-quantidade"></td>
+          <td id="aguardando-atendimento-percentual"></td>
         </tr>
         <tr class="pausadas">
           <td>TOTAL DE ORDENS PAUSADAS:</td>
-          <td>3</td>
-          <td>15,78%</td>
+          <td id="pausadas-quantidade"></td>
+          <td id="pausadas-percentual"></td>
         </tr>
         <tr class="nao-validadas">
           <td>TOTAL DE ORDENS NAO VALIDADAS:</td>
-          <td></td>
-          <td></td>
+          <td id="nao-validadas-quantidade"></td>
+          <td id="nao-validadas-percentual"></td>
         </tr>
         <tr>
           <td colspan="2">TOTAL DE ORDENS:</td>
-          <td>19</td>
+          <td id="total-ordens"></td>
         </tr>
       </tbody>
     </table>
@@ -136,6 +136,7 @@
       window.onload = function () {
         updateClock();
         setInterval(updateClock, 1000);
+        fetchDataAndUpdateTable();
       };
 
       function updateClock() {
@@ -147,10 +148,31 @@
         ).innerText = `Data: ${formattedDate} Hora: ${formattedTime}`;
       }
 
-      // Função para redirecionar após 15 segundos
-      setTimeout(function () {
-        window.location.href = "validation.html";
-      }, 15000); // 15 segundos em milissegundos
+      async function fetchDataAndUpdateTable() {
+        const response = await fetch('formatado.txt');
+        const data = await response.text();
+        const orders = data.trim().split('\n');
+        const orderCounts = { 'W': 0, 'A': 0, 'V': 0, 'O': 0, 'N': 0 };
+        orders.forEach(order => {
+          const type = order.charAt(0);
+          if (orderCounts.hasOwnProperty(type)) {
+            orderCounts[type]++;
+          }
+        });
+        const totalOrders = Object.values(orderCounts).reduce((a, b) => a + b, 0);
+
+        document.getElementById('em-atendimento-quantidade').innerText = orderCounts['A'];
+        document.getElementById('em-atendimento-percentual').innerText = ((orderCounts['A'] / totalOrders) * 100).toFixed(2) + '%';
+        document.getElementById('em-validacao-quantidade').innerText = orderCounts['V'];
+        document.getElementById('em-validacao-percentual').innerText = ((orderCounts['V'] / totalOrders) * 100).toFixed(2) + '%';
+        document.getElementById('aguardando-atendimento-quantidade').innerText = orderCounts['W'];
+        document.getElementById('aguardando-atendimento-percentual').innerText = ((orderCounts['W'] / totalOrders) * 100).toFixed(2) + '%';
+        document.getElementById('pausadas-quantidade').innerText = orderCounts['O'];
+        document.getElementById('pausadas-percentual').innerText = ((orderCounts['O'] / totalOrders) * 100).toFixed(2) + '%';
+        document.getElementById('nao-validadas-quantidade').innerText = orderCounts['N'];
+        document.getElementById('nao-validadas-percentual').innerText = ((orderCounts['N'] / totalOrders) * 100).toFixed(2) + '%';
+        document.getElementById('total-ordens').innerText = totalOrders;
+      }
     </script>
   </body>
 </html>
