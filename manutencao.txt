@@ -1,28 +1,28 @@
-A4211756|Alarme Ruptura Do Sensor Aquecimento  Mo|Corretiva|1|IJ-158|P10.10|05.06.2024  18:14:39|06.06.2024  08:27:34|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Ana Paula Ba|||
+A4211776|Falha Na Libertacao Da Trava Do Bloqueio|Corretiva|0|IJ-049|P10.6|06.06.2024  09:51:24|06.06.2024  14:12:14|00.00.0000  00:00:00|Rosenildo Santiago|ELET|Moacir De Ol|||
+A4211776|Falha Na Libertacao Da Trava Do Bloqueio|Corretiva|0|IJ-049|P10.6|06.06.2024  09:51:24|06.06.2024  14:12:14|00.00.0000  00:00:00|Rosenildo Santiago|MECA|Moacir De Ol|||
 A4211755|Parou De Funcionar (botao Azul Nao Resta|Corretiva|1|PV-144|P10.14|05.06.2024  17:21:18|06.06.2024  05:14:12|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|Luciano de P|||
-A4211764|Vazamento De Oleo Na Camisa Do Cilindro|Corretiva|1|IJ-148|P10.8|06.06.2024  06:22:38|06.06.2024  12:03:07|00.00.0000  00:00:00|Tiago S. Muchon|MECA|Claudiney Pi|||
-A4211771|Perda De Pressao Ij-153 Eap 04|Corretiva|2|IJ-153|P10.4|06.06.2024  09:01:21|06.06.2024  10:21:28|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Elaine Crist|||
+A4211778|Falha No Gerador - Oscilacao|Corretiva|1|PLA-01|P10.11|06.06.2024  09:57:48|06.06.2024  15:23:22|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Fernando Hen|||
+A4211780|P66 Desarmando Dijuntor|Corretiva|1|IJ-112|P10.10|06.06.2024  10:32:21|06.06.2024  15:41:05|00.00.0000  00:00:00|Felipe Candido|ELET|Luiz Fernand|||
+A4211771|Perda De Pressao Ij-153 Eap 04|Corretiva|2|IJ-153|P10.4|06.06.2024  09:01:21|06.06.2024  10:21:28|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|MECA|Elaine Crist|||
 V4211528|Extrator Nao Sobe / Falha De Pressao|Corretiva|0|IJ-135|P10.11|31.05.2024  03:25:26|31.05.2024  04:18:14|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Ezequiel Apa|||
-V4211751|Maquina Nao Inicializa|Corretiva|0|MF-42|P10.8|05.06.2024  16:39:06|06.06.2024  02:20:04|06.06.2024  09:10:50|Cosme Cicero da Silva|ELET|Felipe Ibane|||
-V4211759|Vazamento De Oleo Na Unidade De Injecao|Corretiva|1|IJ-029|P10.7|05.06.2024  22:41:11|06.06.2024  07:38:08|06.06.2024  08:06:48|Marcus V. Nunes|MECA|Jose Alcimar|||
-V4211769|Ag-11 Temperatura Alta|Corretiva|1|P10|P10|06.06.2024  08:11:23|06.06.2024  09:35:22|06.06.2024  09:40:54|Rosenildo Santiago|ELET|Cleber Domin|||
 V4211768|Maquina Desligou Hidraulico Nao Abre|Corretiva|1|IJ-160|P10.9|06.06.2024  08:02:41|06.06.2024  09:11:12|06.06.2024  10:20:49|Cosme Cicero da Silva|ELET|Jefferson Da|||
 V4211294|Quebra Dos Parafusos Do Cilindro|Corretiva|1|MOD-6/13|P10.2|24.05.2024  06:59:05|25.05.2024  07:28:55|06.06.2024  12:02:03|Tiago S. Muchon|MECA|Talita da Si|||
-V4211766|Ma-23 Esta Parando No Meio Do Processo|Corretiva|2|MA-23|P10.13|06.06.2024  06:51:36|06.06.2024  07:25:05|06.06.2024  09:30:44|Rosenildo Santiago|MECA|Cleber Domin|||
-V4211776|Falha Na Libertacao Da Trava Do Bloqueio|Corretiva|2|P10|P10|06.06.2024  09:51:24|06.06.2024  10:28:58|06.06.2024  12:19:05|Rosenildo Santiago|MECA|Moacir De Ol|||
-W4211772|Temperatura  Alta.|Corretiva|1|AG-18|P10.13|06.06.2024  09:13:19|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Francisco Ap|||
+V4211772|Temperatura  Alta.|Corretiva|1|AG-18|P10.13|06.06.2024  09:13:19|06.06.2024  14:01:20|06.06.2024  14:11:38|Rosenildo Santiago|ELET|Francisco Ap|||
 W4211781|Alarme Na Porta - Seguranca|Corretiva|1|TC-06|P10.11|06.06.2024  10:34:37|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fernando Hen|||
-W4211778|Falha No Gerador - Oscilacao|Corretiva|1|PLA-01|P10.11|06.06.2024  09:57:48|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fernando Hen|||
-W4211780|P66 Desarmando Dijuntor|Corretiva|1|IJ-112|P10.10|06.06.2024  10:32:21|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Luiz Fernand|||
 W4211782|Nao Quer Sobir No Presetado E Ta Piscand|Corretiva|1|TRG-15|P10.9|06.06.2024  12:14:58|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
+W4211784|Falha Na Comunicacao Dos Sinais Do Mega|Corretiva|1|IJ-139|P10.9|06.06.2024  12:56:28|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
 W4211787|Verificar Temperatura 65 E 67|Corretiva|1|IJ-111|P10.7|06.06.2024  13:58:23|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Mauricio Alv|||
+W4211789|Falha Na Pressao De Bloqueio|Corretiva|1|IJ-140|P10.9|06.06.2024  15:36:09|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
+W4211789|Falha Na Pressao De Bloqueio|Corretiva|1|IJ-140|P10.9|06.06.2024  15:36:09|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Kelly Cristi|||
 W4211775|Pistao Da Mesa Com Folga Seg-06 Eap14|Corretiva|2|P10|P10|06.06.2024  09:48:28|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Douglas de O|||
 W4211774|Perda De Pressao Parametro 43|Corretiva|2|IJ-034|P10.7|06.06.2024  09:26:32|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Claudio Rodr|||
-W4211784|Falha Na Comunicacao Dos Sinais Do Mega|Corretiva|2|IJ-139|P10.9|06.06.2024  12:56:28|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
+W4211788|Temperatura Base Nao Atinge|Corretiva|2|MOD-5/10|P10.2|06.06.2024  14:14:20|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Talita da Si|||
 O4211459|Barulho Anormal No Motor|Corretiva|CL-03|P10.14|Washington J.O. Chaves||29.05.2024|||
 O4211459|Barulho Anormal No Motor|Corretiva|CL-03|P10.14|Paulo R. Oliveira|Aguardando Material/peca|29.05.2024|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211619|Trocar Amortecedor Da Raquete|Corretiva|MF-03|P10.1|Marco Aurelio Maciel Zucoloto|Aguardando Mat. "de Estoque"|03.06.2024|||
-O4211701|Cilindro Travado Devido A Queda De Energ|Corretiva|MEM-01|P10.10|Bruno H. Oliveira|Troca De Turno|05.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Rosenildo Santiago|Assistencia Tecnica Especifica|05.06.2024|||
 O4211758|Perca De Pressao Do Porta Anel|Corretiva|IJ-116|P10.8|Paulo R. Oliveira|Assistencia Tecnica Especifica|06.06.2024|||
+O4211756|Alarme Ruptura Do Sensor Aquecimento  Mo|Corretiva|IJ-158|P10.10|Bruno H. Oliveira|Troca De Turno|06.06.2024|||
+O4211764|Vazamento De Oleo Na Camisa Do Cilindro|Corretiva|IJ-148|P10.8|Marco Aurelio Maciel Zucoloto|Troca De Turno|06.06.2024|||
+O4211701|Cilindro Travado Devido A Queda De Energ|Corretiva|MEM-01|P10.10|Bruno H. Oliveira|Troca De Turno|05.06.2024|||
