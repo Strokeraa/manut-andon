@@ -83,6 +83,11 @@
         margin: 5px;
         cursor: pointer;
       }
+      .chart-container {
+        width: 40%;
+        margin: 0 auto;
+        padding: 20px;
+      }
     </style>
   </head>
   <body>
@@ -132,6 +137,10 @@
         </tr>
       </tbody>
     </table>
+    <div class="chart-container">
+      <canvas id="myPieChart"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
       window.onload = function () {
         updateClock();
@@ -172,6 +181,60 @@
         document.getElementById('nao-validadas-quantidade').innerText = orderCounts['N'];
         document.getElementById('nao-validadas-percentual').innerText = ((orderCounts['N'] / totalOrders) * 100).toFixed(2) + '%';
         document.getElementById('total-ordens').innerText = totalOrders;
+
+        createPieChart(orderCounts, totalOrders);
+      }
+
+      function createPieChart(orderCounts, totalOrders) {
+        const ctx = document.getElementById('myPieChart').getContext('2d');
+        const data = {
+          labels: [
+            'Em Atendimento',
+            'Em Validação',
+            'Aguardando Atendimento',
+            'Pausadas',
+            'Não Validadas'
+          ],
+          datasets: [{
+            data: [
+              orderCounts['A'],
+              orderCounts['V'],
+              orderCounts['W'],
+              orderCounts['O'],
+              orderCounts['N']
+            ],
+            backgroundColor: [
+              'blue',
+              'green',
+              'yellow',
+              'brown',
+              'red'
+            ]
+          }]
+        };
+        const options = {
+          responsive: true,
+          plugins: {
+            legend: {
+              position: 'right',
+            },
+            tooltip: {
+              callbacks: {
+                label: function (context) {
+                  const label = context.label || '';
+                  const value = context.raw || 0;
+                  const percentage = ((value / totalOrders) * 100).toFixed(2) + '%';
+                  return `${label}: ${value} (${percentage})`;
+                }
+              }
+            }
+          }
+        };
+        new Chart(ctx, {
+          type: 'pie',
+          data: data,
+          options: options
+        });
       }
     </script>
   </body>
