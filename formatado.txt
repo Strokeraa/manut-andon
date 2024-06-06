@@ -2,7 +2,6 @@ A4211756|Alarme Ruptura Do Sensor Aquecimento  Mo|1|IJ-158|P10.10|05.06.2024  18
 A4211755|Parou De Funcionar (botao Azul Nao Resta|1|PV-144|P10.14|05.06.2024  17:21:18|06.06.2024  05:14:12|Washington J.O. Chaves|ELET|Luciano de P
 A4211764|Vazamento De Oleo Na Camisa Do Cilindro|1|IJ-148|P10.8|06.06.2024  06:22:38|06.06.2024  12:03:07|Tiago S. Muchon|MECA|Claudiney Pi
 A4211771|Perda De Pressao Ij-153 Eap 04|2|IJ-153|P10.4|06.06.2024  09:01:21|06.06.2024  10:21:28|Cosme Cicero da Silva|MECA|Elaine Crist
-A4211776|Falha Na Libertacao Da Trava Do Bloqueio|2|P10|P10|06.06.2024  09:51:24|06.06.2024  10:28:58|Rosenildo Santiago|MECA|Moacir De Ol
 V4211528|Extrator Nao Sobe / Falha De Pressao|0|IJ-135|P10.11|31.05.2024  03:25:26|31.05.2024  04:18:14|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Ezequiel Apa
 V4211751|Maquina Nao Inicializa|0|MF-42|P10.8|05.06.2024  16:39:06|06.06.2024  02:20:04|06.06.2024  09:10:50|Cosme Cicero da Silva|ELET|Felipe Ibane
 V4211759|Vazamento De Oleo Na Unidade De Injecao|1|IJ-029|P10.7|05.06.2024  22:41:11|06.06.2024  07:38:08|06.06.2024  08:06:48|Marcus V. Nunes|MECA|Jose Alcimar
@@ -10,13 +9,15 @@ V4211769|Ag-11 Temperatura Alta|1|P10|P10|06.06.2024  08:11:23|06.06.2024  09:35
 V4211768|Maquina Desligou Hidraulico Nao Abre|1|IJ-160|P10.9|06.06.2024  08:02:41|06.06.2024  09:11:12|06.06.2024  10:20:49|Cosme Cicero da Silva|ELET|Jefferson Da
 V4211294|Quebra Dos Parafusos Do Cilindro|1|MOD-6/13|P10.2|24.05.2024  06:59:05|25.05.2024  07:28:55|06.06.2024  12:02:03|Tiago S. Muchon|MECA|Talita da Si
 V4211766|Ma-23 Esta Parando No Meio Do Processo|2|MA-23|P10.13|06.06.2024  06:51:36|06.06.2024  07:25:05|06.06.2024  09:30:44|Rosenildo Santiago|MECA|Cleber Domin
+V4211776|Falha Na Libertacao Da Trava Do Bloqueio|2|P10|P10|06.06.2024  09:51:24|06.06.2024  10:28:58|06.06.2024  12:19:05|Rosenildo Santiago|MECA|Moacir De Ol
 W4211772|Temperatura  Alta.|1|AG-18|P10.13|06.06.2024  09:13:19|ELET|Francisco Ap
-W4211774|Perda De Pressao Parametro 43|1|IJ-034|P10.7|06.06.2024  09:26:32|ELET|Claudio Rodr
 W4211781|Alarme Na Porta - Seguranca|1|TC-06|P10.11|06.06.2024  10:34:37|ELET|Fernando Hen
 W4211778|Falha No Gerador - Oscilacao|1|PLA-01|P10.11|06.06.2024  09:57:48|ELET|Fernando Hen
 W4211780|P66 Desarmando Dijuntor|1|IJ-112|P10.10|06.06.2024  10:32:21|ELET|Luiz Fernand
 W4211782|Nao Quer Sobir No Presetado E Ta Piscand|1|TRG-15|P10.9|06.06.2024  12:14:58|ELET|Jefferson Da
+W4211784|Falha Na Comunicacao Dos Sinais Do Mega|1|IJ-139|P10.9|06.06.2024  12:56:28|ELET|Jefferson Da
 W4211775|Pistao Da Mesa Com Folga Seg-06 Eap14|2|P10|P10|06.06.2024  09:48:28|MECA|Douglas de O
+W4211774|Perda De Pressao Parametro 43|2|IJ-034|P10.7|06.06.2024  09:26:32|ELET|Claudio Rodr
 O4211459|Barulho Anormal No Motor|CL-03|P10.14|Washington J.O. Chaves||29.05.2024
 O4211459|Barulho Anormal No Motor|CL-03|P10.14|Paulo R. Oliveira|Aguardando Material/peca|29.05.2024
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024

@@ -109,10 +109,11 @@
       }
 
       .chart-container {
-        width: 40%;
+        width: 43%;
         margin: 0 auto;
         padding: 20px;
-        margin-top: -30px; /* Ajuste conforme necessário */
+        margin-top: -107px; /* Ajuste conforme necessário */
+        margin-right: 300px;
         box-sizing: border-box; /* Adicione isso */
       }
     </style>
@@ -168,6 +169,7 @@
       <canvas id="myPieChart"></canvas>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
     <script>
       window.onload = function () {
         updateClock();
@@ -263,6 +265,18 @@
                     ((value / totalOrders) * 100).toFixed(2) + "%";
                   return `${label}: ${value} (${percentage})`;
                 },
+              },
+            },
+            datalabels: {
+              // Adicione esta seção para configurar o plugin
+              formatter: (value, context) => {
+                const percentage =
+                  ((value / totalOrders) * 100).toFixed(2) + "%";
+                return percentage;
+              },
+              color: "#fff", // Cor do texto
+              font: {
+                weight: "bold", // Peso da fonte
               },
             },
           },
