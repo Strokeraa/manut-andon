@@ -176,7 +176,7 @@
         setInterval(updateClock, 1000);
         fetchDataAndUpdateTable();
       };
-
+    
       function updateClock() {
         const now = new Date();
         const formattedDate = now.toLocaleDateString("pt-BR");
@@ -185,7 +185,7 @@
           ".relogio"
         ).innerText = `Data: ${formattedDate} Hora: ${formattedTime}`;
       }
-
+    
       async function fetchDataAndUpdateTable() {
         const response = await fetch("formatado.txt");
         const data = await response.text();
@@ -201,7 +201,7 @@
           (a, b) => a + b,
           0
         );
-
+    
         document.getElementById("em-atendimento-quantidade").innerText =
           orderCounts["A"];
         document.getElementById("em-atendimento-percentual").innerText =
@@ -223,11 +223,12 @@
         document.getElementById("nao-validadas-percentual").innerText =
           ((orderCounts["N"] / totalOrders) * 100).toFixed(2) + "%";
         document.getElementById("total-ordens").innerText = totalOrders;
-
+    
         createPieChart(orderCounts, totalOrders);
       }
-
+    
       function createPieChart(orderCounts, totalOrders) {
+        Chart.register(ChartDataLabels); // Adicione essa linha para registrar o plugin
         const ctx = document.getElementById("myPieChart").getContext("2d");
         const data = {
           labels: [
@@ -268,15 +269,16 @@
               },
             },
             datalabels: {
-              // Adicione esta seção para configurar o plugin
-              formatter: (value, context) => {
+              formatter: (value, ctx) => {
                 const percentage =
                   ((value / totalOrders) * 100).toFixed(2) + "%";
                 return percentage;
               },
-              color: "#fff", // Cor do texto
+              display: 'auto', // Adicione essa linha para exibir as labels automaticamente
+              color: "black", // Cor do texto
               font: {
                 weight: "bold", // Peso da fonte
+                size: 15,
               },
             },
           },

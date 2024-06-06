@@ -15,9 +15,10 @@ W4211781|Alarme Na Porta - Seguranca|1|TC-06|P10.11|06.06.2024  10:34:37|ELET|Fe
 W4211778|Falha No Gerador - Oscilacao|1|PLA-01|P10.11|06.06.2024  09:57:48|ELET|Fernando Hen
 W4211780|P66 Desarmando Dijuntor|1|IJ-112|P10.10|06.06.2024  10:32:21|ELET|Luiz Fernand
 W4211782|Nao Quer Sobir No Presetado E Ta Piscand|1|TRG-15|P10.9|06.06.2024  12:14:58|ELET|Jefferson Da
-W4211784|Falha Na Comunicacao Dos Sinais Do Mega|1|IJ-139|P10.9|06.06.2024  12:56:28|ELET|Jefferson Da
+W4211787|Verificar Temperatura 65 E 67|1|IJ-111|P10.7|06.06.2024  13:58:23|ELET|Mauricio Alv
 W4211775|Pistao Da Mesa Com Folga Seg-06 Eap14|2|P10|P10|06.06.2024  09:48:28|MECA|Douglas de O
 W4211774|Perda De Pressao Parametro 43|2|IJ-034|P10.7|06.06.2024  09:26:32|ELET|Claudio Rodr
+W4211784|Falha Na Comunicacao Dos Sinais Do Mega|2|IJ-139|P10.9|06.06.2024  12:56:28|ELET|Jefferson Da
 O4211459|Barulho Anormal No Motor|CL-03|P10.14|Washington J.O. Chaves||29.05.2024
 O4211459|Barulho Anormal No Motor|CL-03|P10.14|Paulo R. Oliveira|Aguardando Material/peca|29.05.2024
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
