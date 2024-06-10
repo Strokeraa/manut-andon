@@ -1,28 +1,23 @@
-A4211776|Falha Na Libertacao Da Trava Do Bloqueio|0|IJ-049|P10.6|06.06.2024  09:51:24|06.06.2024  14:12:14|Rosenildo Santiago|ELET|Moacir De Ol
-A4211776|Falha Na Libertacao Da Trava Do Bloqueio|0|IJ-049|P10.6|06.06.2024  09:51:24|06.06.2024  14:12:14|Rosenildo Santiago|MECA|Moacir De Ol
-A4211755|Parou De Funcionar (botao Azul Nao Resta|1|PV-144|P10.14|05.06.2024  17:21:18|06.06.2024  05:14:12|Washington J.O. Chaves|ELET|Luciano de P
-A4211778|Falha No Gerador - Oscilacao|1|PLA-01|P10.11|06.06.2024  09:57:48|06.06.2024  15:23:22|AMILCAR FERNANDO THEODORO|ELET|Fernando Hen
-A4211780|P66 Desarmando Dijuntor|1|IJ-112|P10.10|06.06.2024  10:32:21|06.06.2024  15:41:05|Felipe Candido|ELET|Luiz Fernand
-A4211771|Perda De Pressao Ij-153 Eap 04|2|IJ-153|P10.4|06.06.2024  09:01:21|06.06.2024  10:21:28|Claudiomiro Aparecido de Souza|MECA|Elaine Crist
-V4211528|Extrator Nao Sobe / Falha De Pressao|0|IJ-135|P10.11|31.05.2024  03:25:26|31.05.2024  04:18:14|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Ezequiel Apa
-V4211768|Maquina Desligou Hidraulico Nao Abre|1|IJ-160|P10.9|06.06.2024  08:02:41|06.06.2024  09:11:12|06.06.2024  10:20:49|Cosme Cicero da Silva|ELET|Jefferson Da
-V4211294|Quebra Dos Parafusos Do Cilindro|1|MOD-6/13|P10.2|24.05.2024  06:59:05|25.05.2024  07:28:55|06.06.2024  12:02:03|Tiago S. Muchon|MECA|Talita da Si
-V4211772|Temperatura  Alta.|1|AG-18|P10.13|06.06.2024  09:13:19|06.06.2024  14:01:20|06.06.2024  14:11:38|Rosenildo Santiago|ELET|Francisco Ap
-W4211781|Alarme Na Porta - Seguranca|1|TC-06|P10.11|06.06.2024  10:34:37|ELET|Fernando Hen
-W4211782|Nao Quer Sobir No Presetado E Ta Piscand|1|TRG-15|P10.9|06.06.2024  12:14:58|ELET|Jefferson Da
-W4211784|Falha Na Comunicacao Dos Sinais Do Mega|1|IJ-139|P10.9|06.06.2024  12:56:28|ELET|Jefferson Da
-W4211787|Verificar Temperatura 65 E 67|1|IJ-111|P10.7|06.06.2024  13:58:23|ELET|Mauricio Alv
-W4211789|Falha Na Pressao De Bloqueio|1|IJ-140|P10.9|06.06.2024  15:36:09|ELET|Kelly Cristi
-W4211789|Falha Na Pressao De Bloqueio|1|IJ-140|P10.9|06.06.2024  15:36:09|MECA|Kelly Cristi
-W4211775|Pistao Da Mesa Com Folga Seg-06 Eap14|2|P10|P10|06.06.2024  09:48:28|MECA|Douglas de O
-W4211774|Perda De Pressao Parametro 43|2|IJ-034|P10.7|06.06.2024  09:26:32|ELET|Claudio Rodr
-W4211788|Temperatura Base Nao Atinge|2|MOD-5/10|P10.2|06.06.2024  14:14:20|ELET|Talita da Si
-O4211459|Barulho Anormal No Motor|CL-03|P10.14|Washington J.O. Chaves||29.05.2024
-O4211459|Barulho Anormal No Motor|CL-03|P10.14|Paulo R. Oliveira|Aguardando Material/peca|29.05.2024
+A4211867|Maquina Fechou Curto No 65|1|IJ-116|P10.8|10.06.2024  08:01:38|10.06.2024  09:58:17|Bruno H. Oliveira|ELET|Claudiney Pi
+A4211862|Falha Na Tirada De Ar|1|PV-026|P10.2|10.06.2024  06:58:43|10.06.2024  10:27:19|Tiago S. Muchon|ELET|Talita da Si
+A4211875|Nao Entra Em Ciclo|1|IJ-139|P10.9|10.06.2024  11:31:47|10.06.2024  12:07:23|Rosenildo Santiago|ELET|Fabricia Oli
+V4211853|Queda Do Parametro 68|0|IJ-022|P10.9|10.06.2024  03:57:52|10.06.2024  04:21:23|10.06.2024  09:57:25|Bruno H. Oliveira|ELET|Ezequiel Apa
+V4211869|Conector Do Sensor Quebrado|0|IJ-155|P10.7|10.06.2024  08:27:14|10.06.2024  09:14:51|10.06.2024  12:04:25|Andre L. Costa|ELET|Marcelo Pedr
+V4211798|(ij20)falha Na Leitura Do Encoder Do Emb|1|IJ-020|P10.6|07.06.2024  00:33:11|07.06.2024  01:47:23|07.06.2024  06:22:40|Bruno M. Moraes|MECA|Wagner Admir
+V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
+V4211851|Falha Cilindro Vertical Ml-91|1|ML-91|P10.9|10.06.2024  01:51:08|10.06.2024  02:14:08|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Denilson Apa
+V4211858|Maquina Nao Movimenta|1|IJ-170|P10.5|10.06.2024  06:01:37|10.06.2024  07:38:48|10.06.2024  09:03:48|Andre L. Costa|ELET|Moacir De Ol
+V4211855|Quebra Do Conector Do Sensor De Fim De C|1|IJ-017|P10.6|10.06.2024  04:35:30|10.06.2024  06:20:01|10.06.2024  09:55:01|Tiago S. Muchon|ELET|Wagner Admir
+V4211859|Falha No Sensor|1|FC-12|P10.2|10.06.2024  06:22:31|10.06.2024  07:43:15|10.06.2024  11:23:49|Rosenildo Santiago|MECA|Talita da Si
+V4211860|Falha No Cilindro Vertical|1|ML-93|P10.1|10.06.2024  06:28:24|10.06.2024  07:42:00|10.06.2024  12:24:45|Marcus V. Nunes|MECA|Cristian Fre
+V4211844|Maquina Nao Liga|1|IJ-151|P10.3|09.06.2024  20:35:13|10.06.2024  06:08:32|10.06.2024  12:31:56|Cosme Cicero da Silva|ELET|THIAGO AVELI
+V4211861|Falha No Giro Do Manipulador 02|1|MF-42|P10.8|10.06.2024  06:50:38|10.06.2024  08:23:54|10.06.2024  13:37:46|Paulo R. Oliveira|MECA|Claudiney Pi
+W4211866|Problema Na Mesa Eap14 Seg-06|1|P10|P10|10.06.2024  07:45:23|MECA|Douglas de O
+W4211876|Ajustar Carrinho Do Carregador Fora De C|1|MF-06|P10.9|10.06.2024  11:52:08|MECA|Jefferson Da
+W4211878|Haste Do Plato Movel Solta|1|IJ-162|P10.6|10.06.2024  12:37:21|MECA|Heverton Sie
+W4211881|Falha No Vacuostato Da Maquina|1|MF-46|P10.9|10.06.2024  13:18:51|ELET|Jefferson Da
+W4211884|Nao Inicia O Jato|1|GJ-20|P10.14|10.06.2024  13:39:41|ELET|Douglas de O
+W4211880|Vacuo Insuficiente Ij-129 Eap 03|2|P10|P10|10.06.2024  13:16:53|MECA|Elaine Crist
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
-O4211619|Trocar Amortecedor Da Raquete|MF-03|P10.1|Marco Aurelio Maciel Zucoloto|Aguardando Mat. "de Estoque"|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Rosenildo Santiago|Assistencia Tecnica Especifica|05.06.2024
-O4211758|Perca De Pressao Do Porta Anel|IJ-116|P10.8|Paulo R. Oliveira|Assistencia Tecnica Especifica|06.06.2024
-O4211756|Alarme Ruptura Do Sensor Aquecimento  Mo|IJ-158|P10.10|Bruno H. Oliveira|Troca De Turno|06.06.2024
-O4211764|Vazamento De Oleo Na Camisa Do Cilindro|IJ-148|P10.8|Marco Aurelio Maciel Zucoloto|Troca De Turno|06.06.2024
-O4211701|Cilindro Travado Devido A Queda De Energ|MEM-01|P10.10|Bruno H. Oliveira|Troca De Turno|05.06.2024
+O4211818|Alavanca Quebrada.|TM-16|P10|Marco Aurelio Maciel Zucoloto|Conserto Externo|07.06.2024
