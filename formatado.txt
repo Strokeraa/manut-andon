@@ -1,20 +1,22 @@
 A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|10.06.2024  20:11:40|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu
-A4211913|Falha - Maquina Nao Movimenta E Barulho|1|IJ-158|P10.10|11.06.2024  06:24:50|11.06.2024  06:44:04|Bruno H. Oliveira|MECA|Fernando Hen
-A4211916|Falha Na Troca De Placa (travando)|1|IJ-112|P10.10|11.06.2024  07:26:46|11.06.2024  09:17:59|Cosme Cicero da Silva|MECA|Luiz Fernand
-A4211924|Falha Na Circulacao De Agua (engate Rapi|1|IJ-055|P10.10|11.06.2024  08:17:33|11.06.2024  09:42:07|Paulo R. Oliveira|MECA|Luiz Fernand
-A4211930|Quebra Dos Parafusos Da Regua De Fixacao|1|IJ-135|P10.11|11.06.2024  11:30:01|11.06.2024  12:19:40|Andre L. Costa|MECA|Luiz Fernand
+A4211931|Maquina Nao Abre /falha No Micro Da Raqu|1|IJ-127|P10.6|11.06.2024  12:23:43|11.06.2024  14:07:09|Felipe Candido|MECA|Heverton Sie
+A4211909|Falha Nas Tiradas De Ar|1|PV-026|P10.2|11.06.2024  05:12:56|11.06.2024  06:13:35|Claudiomiro Aparecido de Souza|ELET|Denilson Apa
+A4211913|Falha - Maquina Nao Movimenta E Barulho|1|IJ-158|P10.10|11.06.2024  06:24:50|11.06.2024  15:28:29|AMILCAR FERNANDO THEODORO|ELET|Fernando Hen
+A4211913|Falha - Maquina Nao Movimenta E Barulho|1|IJ-158|P10.10|11.06.2024  06:24:50|11.06.2024  15:28:29|Bruno H. Oliveira|MECA|Fernando Hen
+A4211941|Parafuso Solto Do Dosador.|1|MEM-01|P10.10|11.06.2024  16:35:35|11.06.2024  16:42:47|Diego Marques Duarte|MECA|Ana Paula Ba
+V4211921|Problema Na Mesa Eap14 Seg-06|0|P10|P10|11.06.2024  08:06:24|11.06.2024  09:55:44|11.06.2024  15:54:49|Rosenildo Santiago|MECA|Douglas de O
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
 V4211851|Falha Cilindro Vertical Ml-91|1|ML-91|P10.9|10.06.2024  01:51:08|10.06.2024  02:14:08|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Denilson Apa
-V4211910|Falha No Vacuostato|1|MF-46|P10.9|11.06.2024  06:15:05|11.06.2024  06:31:35|11.06.2024  09:16:53|Cosme Cicero da Silva|ELET|Jefferson Da
-V4211923|Perda De Movimento|1|IJ-033|P10.7|11.06.2024  08:10:12|11.06.2024  08:11:56|11.06.2024  09:18:21|Andre L. Costa|MECA|Ezequiel Apa
-V4211908|Cilindro Demorando Para Descer|1|AL-09|P10.11|11.06.2024  05:08:57|11.06.2024  05:55:58|11.06.2024  09:40:43|Paulo R. Oliveira|MECA|Mariana Mart
-V4211925|Perda De Referencia Constante|1|BD-05|P10.10|11.06.2024  08:19:22|11.06.2024  08:44:29|11.06.2024  09:46:03|Rosenildo Santiago|ELET|Luiz Fernand
 V4211926|Quebra Do Parafuso De Fixacao Da Placa D|1|IJ-162|P10.6|11.06.2024  09:07:31|11.06.2024  10:25:07|11.06.2024  11:45:29|Andre L. Costa|MECA|Heverton Sie
-V4211921|Problema Na Mesa Eap14 Seg-06|1|P10|P10|11.06.2024  08:06:24|11.06.2024  09:55:44|11.06.2024  11:51:28|Rosenildo Santiago|MECA|Douglas de O
-W4211931|Maquina Nao Abre /falha No Micro Da Raqu|1|IJ-127|P10.6|11.06.2024  12:23:43|ELET|Heverton Sie
-W4211931|Maquina Nao Abre /falha No Micro Da Raqu|1|IJ-127|P10.6|11.06.2024  12:23:43|MECA|Heverton Sie
-W4211933|Robo Introduzindo Carcaca Torta No Anel|2|RO-09|P10.9|11.06.2024  12:40:34|ELET|Fabricia Oli
+V4211924|Falha Na Circulacao De Agua (engate Rapi|1|IJ-055|P10.10|11.06.2024  08:17:33|11.06.2024  09:42:07|11.06.2024  14:33:19|Paulo R. Oliveira|MECA|Luiz Fernand
+V4211916|Falha Na Troca De Placa (travando)|1|IJ-112|P10.10|11.06.2024  07:26:46|11.06.2024  09:17:59|11.06.2024  15:00:04|Cosme Cicero da Silva|MECA|Luiz Fernand
+V4211937|Seg-07 Eap-14 ( Nao Completa O Ciclo)|1|P10|P10|11.06.2024  15:10:22|11.06.2024  15:55:09|11.06.2024  16:23:40|Rosenildo Santiago|MECA|Luciano de P
+V4211934|Falha No Aquecimento Do P/ 67|1|IJ-126|P10.5|11.06.2024  14:11:04|11.06.2024  15:20:43|11.06.2024  16:38:07|Diego Marques Duarte|ELET|Luiz Francis
+V4211939|Nivel De Oleo Hidrulico Baixo|1|IJ-031|P10.7|11.06.2024  15:41:13|11.06.2024  16:31:14|11.06.2024  16:43:35|Marco Aurelio Maciel Zucoloto|MECA|MAYCON WILLI
+V4211930|Quebra Dos Parafusos Da Regua De Fixacao|1|IJ-135|P10.11|11.06.2024  11:30:01|11.06.2024  12:19:40|11.06.2024  17:02:30|Andre L. Costa|MECA|Luiz Fernand
+V4211818|Alavanca Quebrada.|2|TM-16|P10|07.06.2024  11:53:55|07.06.2024  15:25:55|11.06.2024  16:24:04|Marco Aurelio Maciel Zucoloto|MECA|Marcelo Pedr
+W4211942|Falha Na Abertura Do Bloqueio|1|IJ-159|P10.8|11.06.2024  16:55:09|ELET|Felipe Ibane
+W4211942|Falha Na Abertura Do Bloqueio|1|IJ-159|P10.8|11.06.2024  16:55:09|MECA|Felipe Ibane
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Rosenildo Santiago|Assistencia Tecnica Especifica|05.06.2024
-O4211818|Alavanca Quebrada.|TM-16|P10|Marco Aurelio Maciel Zucoloto|Conserto Externo|07.06.2024
-O4211909|Falha Nas Tiradas De Ar|PV-026|P10.2|Tiago S. Muchon|Aguardando Material/peca|11.06.2024
+O4211933|Robo Introduzindo Carcaca Torta No Anel|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024
