@@ -2,6 +2,7 @@ A4211895|Falha No Sendor De Saida ( Alarne )|Corretiva|1|ML-80|P10.9|10.06.2024 
 A4211913|Falha - Maquina Nao Movimenta E Barulho|Corretiva|1|IJ-158|P10.10|11.06.2024  06:24:50|11.06.2024  06:44:04|00.00.0000  00:00:00|Bruno H. Oliveira|MECA|Fernando Hen|||
 A4211916|Falha Na Troca De Placa (travando)|Corretiva|1|IJ-112|P10.10|11.06.2024  07:26:46|11.06.2024  09:17:59|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Luiz Fernand|||
 A4211924|Falha Na Circulacao De Agua (engate Rapi|Corretiva|1|IJ-055|P10.10|11.06.2024  08:17:33|11.06.2024  09:42:07|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|Luiz Fernand|||
+A4211930|Quebra Dos Parafusos Da Regua De Fixacao|Corretiva|1|IJ-135|P10.11|11.06.2024  11:30:01|11.06.2024  12:19:40|00.00.0000  00:00:00|Andre L. Costa|MECA|Luiz Fernand|||
 V4211802|Recura Nao Esta Circulando Calor Correta|Corretiva|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa|||
 V4211851|Falha Cilindro Vertical Ml-91|Corretiva|1|ML-91|P10.9|10.06.2024  01:51:08|10.06.2024  02:14:08|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Denilson Apa|||
 V4211910|Falha No Vacuostato|Corretiva|1|MF-46|P10.9|11.06.2024  06:15:05|11.06.2024  06:31:35|11.06.2024  09:16:53|Cosme Cicero da Silva|ELET|Jefferson Da|||
@@ -10,7 +11,9 @@ V4211908|Cilindro Demorando Para Descer|Corretiva|1|AL-09|P10.11|11.06.2024  05:
 V4211925|Perda De Referencia Constante|Corretiva|1|BD-05|P10.10|11.06.2024  08:19:22|11.06.2024  08:44:29|11.06.2024  09:46:03|Rosenildo Santiago|ELET|Luiz Fernand|||
 V4211926|Quebra Do Parafuso De Fixacao Da Placa D|Corretiva|1|IJ-162|P10.6|11.06.2024  09:07:31|11.06.2024  10:25:07|11.06.2024  11:45:29|Andre L. Costa|MECA|Heverton Sie|||
 V4211921|Problema Na Mesa Eap14 Seg-06|Corretiva|1|P10|P10|11.06.2024  08:06:24|11.06.2024  09:55:44|11.06.2024  11:51:28|Rosenildo Santiago|MECA|Douglas de O|||
-W4211930|Quebra Dos Parafusos Da Regua De Fixacao|Corretiva|1|IJ-135|P10.11|11.06.2024  11:30:01|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luiz Fernand|||
+W4211931|Maquina Nao Abre /falha No Micro Da Raqu|Corretiva|1|IJ-127|P10.6|11.06.2024  12:23:43|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Heverton Sie|||
+W4211931|Maquina Nao Abre /falha No Micro Da Raqu|Corretiva|1|IJ-127|P10.6|11.06.2024  12:23:43|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Heverton Sie|||
+W4211933|Robo Introduzindo Carcaca Torta No Anel|Corretiva|2|RO-09|P10.9|11.06.2024  12:40:34|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fabricia Oli|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Rosenildo Santiago|Assistencia Tecnica Especifica|05.06.2024|||
 O4211818|Alavanca Quebrada.|Corretiva|TM-16|P10|Marco Aurelio Maciel Zucoloto|Conserto Externo|07.06.2024|||
