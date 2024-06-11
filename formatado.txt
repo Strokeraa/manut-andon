@@ -1,23 +1,20 @@
-A4211867|Maquina Fechou Curto No 65|1|IJ-116|P10.8|10.06.2024  08:01:38|10.06.2024  09:58:17|Bruno H. Oliveira|ELET|Claudiney Pi
-A4211862|Falha Na Tirada De Ar|1|PV-026|P10.2|10.06.2024  06:58:43|10.06.2024  10:27:19|Tiago S. Muchon|ELET|Talita da Si
-A4211875|Nao Entra Em Ciclo|1|IJ-139|P10.9|10.06.2024  11:31:47|10.06.2024  12:07:23|Rosenildo Santiago|ELET|Fabricia Oli
-V4211853|Queda Do Parametro 68|0|IJ-022|P10.9|10.06.2024  03:57:52|10.06.2024  04:21:23|10.06.2024  09:57:25|Bruno H. Oliveira|ELET|Ezequiel Apa
-V4211869|Conector Do Sensor Quebrado|0|IJ-155|P10.7|10.06.2024  08:27:14|10.06.2024  09:14:51|10.06.2024  12:04:25|Andre L. Costa|ELET|Marcelo Pedr
-V4211798|(ij20)falha Na Leitura Do Encoder Do Emb|1|IJ-020|P10.6|07.06.2024  00:33:11|07.06.2024  01:47:23|07.06.2024  06:22:40|Bruno M. Moraes|MECA|Wagner Admir
+A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|10.06.2024  20:11:40|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu
+A4211913|Falha - Maquina Nao Movimenta E Barulho|1|IJ-158|P10.10|11.06.2024  06:24:50|11.06.2024  06:44:04|Bruno H. Oliveira|MECA|Fernando Hen
+A4211916|Falha Na Troca De Placa (travando)|1|IJ-112|P10.10|11.06.2024  07:26:46|11.06.2024  09:17:59|Cosme Cicero da Silva|MECA|Luiz Fernand
+A4211924|Falha Na Circulacao De Agua (engate Rapi|1|IJ-055|P10.10|11.06.2024  08:17:33|11.06.2024  09:42:07|Paulo R. Oliveira|MECA|Luiz Fernand
+A4211921|Problema Na Mesa Eap14 Seg-06|1|P10|P10|11.06.2024  08:06:24|11.06.2024  09:55:44|Rosenildo Santiago|MECA|Douglas de O
+A4211926|Quebra Do Parafuso De Fixacao Da Placa D|1|IJ-162|P10.6|11.06.2024  09:07:31|11.06.2024  10:25:07|Andre L. Costa|MECA|Heverton Sie
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
 V4211851|Falha Cilindro Vertical Ml-91|1|ML-91|P10.9|10.06.2024  01:51:08|10.06.2024  02:14:08|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Denilson Apa
-V4211858|Maquina Nao Movimenta|1|IJ-170|P10.5|10.06.2024  06:01:37|10.06.2024  07:38:48|10.06.2024  09:03:48|Andre L. Costa|ELET|Moacir De Ol
-V4211855|Quebra Do Conector Do Sensor De Fim De C|1|IJ-017|P10.6|10.06.2024  04:35:30|10.06.2024  06:20:01|10.06.2024  09:55:01|Tiago S. Muchon|ELET|Wagner Admir
-V4211859|Falha No Sensor|1|FC-12|P10.2|10.06.2024  06:22:31|10.06.2024  07:43:15|10.06.2024  11:23:49|Rosenildo Santiago|MECA|Talita da Si
-V4211860|Falha No Cilindro Vertical|1|ML-93|P10.1|10.06.2024  06:28:24|10.06.2024  07:42:00|10.06.2024  12:24:45|Marcus V. Nunes|MECA|Cristian Fre
-V4211844|Maquina Nao Liga|1|IJ-151|P10.3|09.06.2024  20:35:13|10.06.2024  06:08:32|10.06.2024  12:31:56|Cosme Cicero da Silva|ELET|THIAGO AVELI
-V4211861|Falha No Giro Do Manipulador 02|1|MF-42|P10.8|10.06.2024  06:50:38|10.06.2024  08:23:54|10.06.2024  13:37:46|Paulo R. Oliveira|MECA|Claudiney Pi
-W4211866|Problema Na Mesa Eap14 Seg-06|1|P10|P10|10.06.2024  07:45:23|MECA|Douglas de O
-W4211876|Ajustar Carrinho Do Carregador Fora De C|1|MF-06|P10.9|10.06.2024  11:52:08|MECA|Jefferson Da
-W4211878|Haste Do Plato Movel Solta|1|IJ-162|P10.6|10.06.2024  12:37:21|MECA|Heverton Sie
-W4211881|Falha No Vacuostato Da Maquina|1|MF-46|P10.9|10.06.2024  13:18:51|ELET|Jefferson Da
-W4211884|Nao Inicia O Jato|1|GJ-20|P10.14|10.06.2024  13:39:41|ELET|Douglas de O
-W4211880|Vacuo Insuficiente Ij-129 Eap 03|2|P10|P10|10.06.2024  13:16:53|MECA|Elaine Crist
+V4211901|Saiu A Corrente Da Faca|1|PF-10|P10.13|10.06.2024  23:11:44|10.06.2024  23:26:26|11.06.2024  05:48:55|Bruno M. Moraes|MECA|Cleber Domin
+V4211893|P65 Caindo A Temperatura|1|IJ-032|P10.5|10.06.2024  15:59:47|11.06.2024  01:55:24|11.06.2024  05:50:52|Willians A. Rocha|ELET|Elvis Da Sil
+V4211910|Falha No Vacuostato|1|MF-46|P10.9|11.06.2024  06:15:05|11.06.2024  06:31:35|11.06.2024  09:16:53|Cosme Cicero da Silva|ELET|Jefferson Da
+V4211923|Perda De Movimento|1|IJ-033|P10.7|11.06.2024  08:10:12|11.06.2024  08:11:56|11.06.2024  09:18:21|Andre L. Costa|MECA|Ezequiel Apa
+V4211908|Cilindro Demorando Para Descer|1|AL-09|P10.11|11.06.2024  05:08:57|11.06.2024  05:55:58|11.06.2024  09:40:43|Paulo R. Oliveira|MECA|Mariana Mart
+V4211925|Perda De Referencia Constante|1|BD-05|P10.10|11.06.2024  08:19:22|11.06.2024  08:44:29|11.06.2024  09:46:03|Rosenildo Santiago|ELET|Luiz Fernand
+V4211907|Resfriador De Pecas Da Ij-129 E Da Ij-15|2|P10|P10|11.06.2024  04:12:07|11.06.2024  04:32:58|11.06.2024  05:50:37|Washington J.O. Chaves|ELET|THIAGO AVELI
+W4211930|Quebra Dos Parafusos Da Regua De Fixacao|1|IJ-135|P10.11|11.06.2024  11:30:01|MECA|Luiz Fernand
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Rosenildo Santiago|Assistencia Tecnica Especifica|05.06.2024
 O4211818|Alavanca Quebrada.|TM-16|P10|Marco Aurelio Maciel Zucoloto|Conserto Externo|07.06.2024
+O4211909|Falha Nas Tiradas De Ar|PV-026|P10.2|Tiago S. Muchon|Aguardando Material/peca|11.06.2024

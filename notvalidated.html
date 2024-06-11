@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Atendimento Pausado</title>
+    <title>Não Validadas</title>
     <style>
       /* Seu estilo CSS aqui */
       body {
@@ -23,8 +23,8 @@
         border: 1px solid black;
         padding: 8px;
         text-align: left;
-        background-color: rgb(168, 23, 23);
-        color: white;
+        background-color: rgb(255, 0, 0);
+        color: yellow;
       }
       th {
         background-color: #292929;
@@ -81,18 +81,19 @@
       <img class="sabo" src="assets/Sabó claro recortado.png" alt="Logo" />
       <h1 class="title-center">ATENDIMENTO DAS ORDENS DE MANUTENÇÃO</h1>
     </div>
-    <p class="titulo">Pausadas</p>
+    <p class="titulo">Não Validadas</p>
     <div class="relogio" id="relogio"></div>
     <table>
       <thead>
         <tr>
           <th>Ordem</th>
           <th>Descrição</th>
+          <th>Prior.</th>
           <th>Equipamento</th>
           <th>Local</th>
           <th>Mantenedor</th>
-          <th>Motivo</th>
-          <th>Prazo</th>
+          <th>Usuario</th>
+          <th>Hora não validada</th>
         </tr>
       </thead>
       <tbody id="data-container">
@@ -106,7 +107,7 @@
       let totalPages = 1;
 
       window.onload = function () {
-        fetchAndDisplayData("O", currentPage);
+        fetchAndDisplayData("N", currentPage);
         setInterval(autoPaginate, 10000); // Define o intervalo de 10 segundos
         updateClock(); // Atualiza o relógio imediatamente
         setInterval(updateClock, 1000); // Atualiza o relógio a cada segundo
@@ -134,24 +135,12 @@
           })
           .catch((error) => console.error("Erro ao ler o arquivo:", error));
       }
-
-      function autoPaginate() {
-        if (currentPage < totalPages) {
-          currentPage++;
-        } else {
-          // Redirecionar para a página resume.html
-          window.location.href = "resume.html";
-          return; // Termina a execução da função aqui para evitar a busca e exibição de dados extras.
-        }
-        fetchAndDisplayData("O", currentPage);
-      }
-
       function autoPaginate() {
         if (currentPage < totalPages) {
           currentPage++;
         } else {
           // Redirecionar para a página inprogress.html
-          window.location.href = "notvalidated.html";
+          window.location.href = "resume.html";
           return; // Termina a execução da função aqui para evitar a busca e exibição de dados extras.
         }
         fetchAndDisplayData("V", currentPage);
