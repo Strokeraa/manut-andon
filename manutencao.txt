@@ -1,5 +1,4 @@
 A4211895|Falha No Sendor De Saida ( Alarne )|Corretiva|1|ML-80|P10.9|10.06.2024  16:50:36|10.06.2024  20:11:40|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu|||
-A4211959|Placa Aquecedora Cedendo|Corretiva|1|IJ-056|P10.5|12.06.2024  06:48:31|12.06.2024  07:43:31|00.00.0000  00:00:00|Rosenildo Santiago|MECA|Heverton Sie|||
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4211985|Falha No Ciclo|Corretiva|1|SEG-06|P10.14|12.06.2024  14:26:43|12.06.2024  15:43:30|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Douglas de O|||
 A4211964|Falha Na Pressao De Fechamento|Corretiva|1|MOD-5/11|P10.2|12.06.2024  07:27:04|12.06.2024  16:14:46|00.00.0000  00:00:00|Diego Marques Duarte|MECA|Talita da Si|||
@@ -14,6 +13,7 @@ V4211978|Alto Indice De Reprova|Corretiva|1|ML-91|P10.9|12.06.2024  09:22:37|12.
 V4211977|Falhando Micro Da Raquete|Corretiva|2|IJ-127|P10.6|12.06.2024  09:16:54|12.06.2024  10:38:44|12.06.2024  12:05:44|Cosme Cicero da Silva|ELET|Heverton Sie|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211933|Robo Introduzindo Carcaca Torta No Anel|Corretiva|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024|||
+O4211959|Placa Aquecedora Cedendo|Corretiva|IJ-056|P10.5|Rosenildo Santiago|Troca De Turno|12.06.2024|||
 O4211955|Quebra Da Correia|Corretiva|TM-06|P10|Bruno M. Moraes|Aguardando Material/peca|12.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4211973|Pistao Quebrado Seg-09 Eap-14|Corretiva|P10|P10|Paulo R. Oliveira|Aguardando Material/peca|12.06.2024|||
