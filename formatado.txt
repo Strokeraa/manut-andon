@@ -11,7 +11,6 @@ V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:3
 V4211983|Falha No Sistema De Vacuo.|1|MF-38|P10.8|12.06.2024  11:20:58|12.06.2024  12:07:46|12.06.2024  16:43:45|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi
 V4211980|Vazamento De Agua|1|MA-15|P10.13|12.06.2024  09:59:58|12.06.2024  15:15:25|12.06.2024  16:44:26|GERSON LUIS DE FREITAS|MECA|Francisco Ap
 V4211978|Alto Indice De Reprova|1|ML-91|P10.9|12.06.2024  09:22:37|12.06.2024  15:40:11|12.06.2024  16:57:01|Andre L. Costa|ELET|Fabricia Oli
-V4211977|Falhando Micro Da Raquete|2|IJ-127|P10.6|12.06.2024  09:16:54|12.06.2024  10:38:44|12.06.2024  12:05:44|Cosme Cicero da Silva|ELET|Heverton Sie
 W4211991|Parafusos Conj Injecao Quebrado|1|IJ-117|P10.3|12.06.2024  18:01:45|ELET|Elaine Crist
 W4211991|Parafusos Conj Injecao Quebrado|1|IJ-117|P10.3|12.06.2024  18:01:45|MECA|Elaine Crist
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
