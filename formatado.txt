@@ -12,6 +12,7 @@ V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:3
 V4211975|Falha No Micro Da Porta De Seguranca|1|IJ-036|P10.7|12.06.2024  08:24:23|12.06.2024  09:19:09|12.06.2024  11:12:05|Andre L. Costa|ELET|Claudio Rodr
 V4211977|Falhando Micro Da Raquete|2|IJ-127|P10.6|12.06.2024  09:16:54|12.06.2024  10:38:44|12.06.2024  12:05:44|Cosme Cicero da Silva|ELET|Heverton Sie
 W4211964|Falha Na Pressao De Fechamento|1|MOD-5/11|P10.2|12.06.2024  07:27:04|MECA|Talita da Si
+W4211989|Problema Na Cortina Luz|1|PH-27|P10.14|12.06.2024  15:51:36|ELET|Luciano de P
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211933|Robo Introduzindo Carcaca Torta No Anel|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024
 O4211955|Quebra Da Correia|TM-06|P10|Bruno M. Moraes|Aguardando Material/peca|12.06.2024
