@@ -4,6 +4,7 @@ A4211985|Falha No Ciclo|Corretiva|1|SEG-06|P10.14|12.06.2024  14:26:43|12.06.202
 A4211964|Falha Na Pressao De Fechamento|Corretiva|1|MOD-5/11|P10.2|12.06.2024  07:27:04|12.06.2024  16:14:46|00.00.0000  00:00:00|Diego Marques Duarte|MECA|Talita da Si|||
 A4211989|Problema Na Cortina Luz|Corretiva|1|PH-27|P10.14|12.06.2024  15:51:36|12.06.2024  16:33:59|00.00.0000  00:00:00|Felipe Candido|ELET|Luciano de P|||
 A4211990|Corrente Estourada|Corretiva|1|PF-10|P10.13|12.06.2024  16:21:53|12.06.2024  16:45:21|00.00.0000  00:00:00|GERSON LUIS DE FREITAS|MECA|Francisco Ap|||
+A4211973|Pistao Quebrado Seg-09 Eap-14|Corretiva|1|P10|P10|12.06.2024  08:04:35|12.06.2024  17:26:56|00.00.0000  00:00:00|Marcos A. Farias|MECA|Douglas de O|||
 V4211960|Canhao De Injecao Nao Recua|Corretiva|0|IJ-114|P10.6|12.06.2024  06:54:23|12.06.2024  07:34:07|12.06.2024  15:05:33|Tiago S. Muchon|ELET|Heverton Sie|||
 V4211960|Canhao De Injecao Nao Recua|Corretiva|0|IJ-114|P10.6|12.06.2024  06:54:23|12.06.2024  07:34:07|12.06.2024  15:05:33|Andre L. Costa|MECA|Heverton Sie|||
 V4211802|Recura Nao Esta Circulando Calor Correta|Corretiva|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa|||
@@ -16,4 +17,3 @@ O4211933|Robo Introduzindo Carcaca Torta No Anel|Corretiva|RO-09|P10.9|Diego Mar
 O4211959|Placa Aquecedora Cedendo|Corretiva|IJ-056|P10.5|Rosenildo Santiago|Troca De Turno|12.06.2024|||
 O4211955|Quebra Da Correia|Corretiva|TM-06|P10|Bruno M. Moraes|Aguardando Material/peca|12.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
-O4211973|Pistao Quebrado Seg-09 Eap-14|Corretiva|P10|P10|Paulo R. Oliveira|Aguardando Material/peca|12.06.2024|||
