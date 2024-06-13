@@ -3,8 +3,6 @@ A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06
 A4211985|Falha No Ciclo|1|SEG-06|P10.14|12.06.2024  14:26:43|12.06.2024  15:43:30|Claudiomiro Aparecido de Souza|ELET|Douglas de O
 A4211992|Falha Na Reversao|1|IJ-143|P10.7|12.06.2024  18:28:45|12.06.2024  18:44:34|Felipe Candido|ELET|Jose Alcimar
 A4211991|Parafusos Conj Injecao Quebrado|1|IJ-117|P10.3|12.06.2024  18:01:45|12.06.2024  18:57:19|GERSON LUIS DE FREITAS|MECA|Elaine Crist
-V4211960|Canhao De Injecao Nao Recua|0|IJ-114|P10.6|12.06.2024  06:54:23|12.06.2024  07:34:07|12.06.2024  15:05:33|Tiago S. Muchon|ELET|Heverton Sie
-V4211960|Canhao De Injecao Nao Recua|0|IJ-114|P10.6|12.06.2024  06:54:23|12.06.2024  07:34:07|12.06.2024  15:05:33|Andre L. Costa|MECA|Heverton Sie
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
 V4211983|Falha No Sistema De Vacuo.|1|MF-38|P10.8|12.06.2024  11:20:58|12.06.2024  12:07:46|12.06.2024  16:43:45|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi
 V4211980|Vazamento De Agua|1|MA-15|P10.13|12.06.2024  09:59:58|12.06.2024  15:15:25|12.06.2024  16:44:26|GERSON LUIS DE FREITAS|MECA|Francisco Ap
