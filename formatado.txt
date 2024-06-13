@@ -9,6 +9,7 @@ V4211995|Falha No Cilimdro Da Raquete|1|MF-12|P10.9|12.06.2024  22:52:21|13.06.2
 V4212018|Falha No Sensor De Esmagamento|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|13.06.2024  17:47:08|Felipe Candido|ELET|Elvis Da Sil
 V4212007|Falha Na Selagem|2|MEC-01|P10.8|13.06.2024  10:59:41|13.06.2024  11:01:35|13.06.2024  15:19:44|Andre L. Costa|ELET|Alessandra A
 V4211955|Quebra Da Correia|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|13.06.2024  17:18:09|Marcos A. Farias|MECA|Marcelo Dos
+W4212040|Painel Nao Liga, Chave Reversao Nao Func|2|MA-18|P10|13.06.2024  20:25:23|ELET|Francisco Ap
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
