@@ -3,7 +3,6 @@ A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06
 A4212009|Maquina Parando Constantemente Sem Alarm|1|MY-03|P10.9|13.06.2024  12:36:48|13.06.2024  15:18:47|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 A4212018|Falha No Sensor De Esmagamento|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|Felipe Candido|ELET|Elvis Da Sil
 A4211955|Quebra Da Correia|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|Marcos A. Farias|MECA|Marcelo Dos
-V4212002|Erro De Comunicacao|1|IJ-036|P10.7|13.06.2024  08:01:31|13.06.2024  09:00:45|13.06.2024  09:43:34|Cosme Cicero da Silva|ELET|Claudio Rodr
 V4212000|Quebra Do Parafuso De Fixacao Ij-022|1|IJ-022|P10.9|13.06.2024  02:20:44|13.06.2024  09:48:09|13.06.2024  12:07:30|Tiago S. Muchon|MECA|Denilson Apa
 V4211959|Placa Aquecedora Cedendo|1|IJ-056|P10.5|12.06.2024  06:48:31|12.06.2024  07:43:31|13.06.2024  14:03:30|Bruno H. Oliveira|MECA|Heverton Sie
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
