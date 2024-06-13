@@ -1,6 +1,5 @@
 A4211895|Falha No Sendor De Saida ( Alarne )|Corretiva|1|ML-80|P10.9|10.06.2024  16:50:36|10.06.2024  20:11:40|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu|||
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
-A4212018|Falha No Sensor De Esmagamento|Corretiva|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|00.00.0000  00:00:00|Felipe Candido|ELET|Elvis Da Sil|||
 A4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|1|MY-03|P10.9|13.06.2024  12:36:48|13.06.2024  15:18:47|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Jefferson Da|||
 A4211955|Quebra Da Correia|Corretiva|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|00.00.0000  00:00:00|Marcos A. Farias|MECA|Marcelo Dos|||
 V4212000|Quebra Do Parafuso De Fixacao Ij-022|Corretiva|1|IJ-022|P10.9|13.06.2024  02:20:44|13.06.2024  09:48:09|13.06.2024  12:07:30|Tiago S. Muchon|MECA|Denilson Apa|||
@@ -12,5 +11,5 @@ W4212024|Quebra Dos Parafusos Da Unidade Do Bloqu|Corretiva|1|IJ-034|P10.7|13.06
 W4212008|Super Aquecimento Da Serpentina|Corretiva|2|IJ-117|P10.3|13.06.2024  12:18:27|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|MARCIO TERRA|||
 W4212015|Alinhar Correia Da Esteira|Corretiva|2|SA-20|P10.8|13.06.2024  14:19:44|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Ricardo De O|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
-O4211933|Robo Introduzindo Carcaca Torta No Anel|Corretiva|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
+O4212018|Falha No Sensor De Esmagamento|Corretiva|IJ-032|P10.5|Felipe Candido|Executando Outro Servico|13.06.2024|||
