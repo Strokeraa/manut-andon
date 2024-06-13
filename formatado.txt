@@ -2,7 +2,6 @@ A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212024|Quebra Dos Parafusos Da Unidade Do Bloqu|1|IJ-034|P10.7|13.06.2024  16:11:20|13.06.2024  17:20:07|Marcos A. Farias|MECA|Jose Alcimar
 A4212008|Super Aquecimento Da Serpentina|2|IJ-117|P10.3|13.06.2024  12:18:27|13.06.2024  17:07:08|Washington J.O. Chaves|MECA|MARCIO TERRA
-A4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|Claudiomiro Aparecido de Souza|MECA|Ricardo De O
 V4212000|Quebra Do Parafuso De Fixacao Ij-022|1|IJ-022|P10.9|13.06.2024  02:20:44|13.06.2024  09:48:09|13.06.2024  12:07:30|Tiago S. Muchon|MECA|Denilson Apa
 V4211959|Placa Aquecedora Cedendo|1|IJ-056|P10.5|12.06.2024  06:48:31|12.06.2024  07:43:31|13.06.2024  14:03:30|Bruno H. Oliveira|MECA|Heverton Sie
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
@@ -15,3 +14,4 @@ O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITA
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212018|Falha No Sensor De Esmagamento|IJ-032|P10.5|Felipe Candido|Executando Outro Servico|13.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
+O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
