@@ -1,11 +1,11 @@
 A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|10.06.2024  20:11:40|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4211959|Placa Aquecedora Cedendo|1|IJ-056|P10.5|12.06.2024  06:48:31|12.06.2024  07:43:31|Bruno H. Oliveira|MECA|Heverton Sie
+A4212007|Falha Na Selagem|2|MEC-01|P10.8|13.06.2024  10:59:41|13.06.2024  11:01:35|Andre L. Costa|ELET|Alessandra A
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
 V4212001|Quebra Do Bico Da Unidade De Injecao|1|IJ-134|P10.3|13.06.2024  06:45:47|13.06.2024  07:34:14|13.06.2024  08:59:23|Rosenildo Santiago|ELET|Elaine Crist
 V4212002|Erro De Comunicacao|1|IJ-036|P10.7|13.06.2024  08:01:31|13.06.2024  09:00:45|13.06.2024  09:43:34|Cosme Cicero da Silva|ELET|Claudio Rodr
 V4211997|Falha No Aquecimento.|2|IJ-158|P10.10|13.06.2024  00:49:38|13.06.2024  02:43:09|13.06.2024  09:00:25|Cosme Cicero da Silva|ELET|Mariana Mart
-W4212007|Falha Na Selagem|2|MEC-01|P10.8|13.06.2024  10:59:41|ELET|Alessandra A
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211933|Robo Introduzindo Carcaca Torta No Anel|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024
 O4211955|Quebra Da Correia|TM-06|P10|Bruno M. Moraes|Aguardando Material/peca|12.06.2024
