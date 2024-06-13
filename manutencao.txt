@@ -2,7 +2,7 @@ A4211895|Falha No Sendor De Saida ( Alarne )|Corretiva|1|ML-80|P10.9|10.06.2024 
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4211985|Falha No Ciclo|Corretiva|1|SEG-06|P10.14|12.06.2024  14:26:43|12.06.2024  15:43:30|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Douglas de O|||
 A4211992|Falha Na Reversao|Corretiva|1|IJ-143|P10.7|12.06.2024  18:28:45|12.06.2024  18:44:34|00.00.0000  00:00:00|Felipe Candido|ELET|Jose Alcimar|||
-A4211991|Parafusos Conj Injecao Quebrado|Corretiva|1|IJ-117|P10.3|12.06.2024  18:01:45|12.06.2024  18:57:19|00.00.0000  00:00:00|GERSON LUIS DE FREITAS|MECA|Elaine Crist|||
+A4211991|Parafusos Conj Injecao Quebrado|Corretiva|1|IJ-117|P10.3|12.06.2024  18:01:45|12.06.2024  21:56:50|00.00.0000  00:00:00|GERSON LUIS DE FREITAS|MECA|Elaine Crist|||
 A4211993|Nao Inicializa|Corretiva|1|ML-46|P10.8|12.06.2024  20:12:04|12.06.2024  21:30:44|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Daniela Teix|||
 V4211802|Recura Nao Esta Circulando Calor Correta|Corretiva|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa|||
 V4211983|Falha No Sistema De Vacuo.|Corretiva|1|MF-38|P10.8|12.06.2024  11:20:58|12.06.2024  12:07:46|12.06.2024  16:43:45|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi|||
