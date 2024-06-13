@@ -9,6 +9,7 @@ V4211959|Placa Aquecedora Cedendo|1|IJ-056|P10.5|12.06.2024  06:48:31|12.06.2024
 V4211997|Falha No Aquecimento.|2|IJ-158|P10.10|13.06.2024  00:49:38|13.06.2024  02:43:09|13.06.2024  09:00:25|Cosme Cicero da Silva|ELET|Mariana Mart
 W4212009|Maquina Parando Constantemente Sem Alarm|1|MY-03|P10.9|13.06.2024  12:36:48|ELET|Jefferson Da
 W4212008|Super Aquecimento Da Serpentina|2|IJ-117|P10.3|13.06.2024  12:18:27|MECA|MARCIO TERRA
+W4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|MECA|Ricardo De O
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211933|Robo Introduzindo Carcaca Torta No Anel|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024
 O4211955|Quebra Da Correia|TM-06|P10|Bruno M. Moraes|Aguardando Material/peca|12.06.2024
