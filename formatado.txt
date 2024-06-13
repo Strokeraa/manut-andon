@@ -2,17 +2,15 @@ A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212009|Maquina Parando Constantemente Sem Alarm|1|MY-03|P10.9|13.06.2024  12:36:48|13.06.2024  15:18:47|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 A4212018|Falha No Sensor De Esmagamento|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|Felipe Candido|ELET|Elvis Da Sil
+A4211955|Quebra Da Correia|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|Marcos A. Farias|MECA|Marcelo Dos
 V4212002|Erro De Comunicacao|1|IJ-036|P10.7|13.06.2024  08:01:31|13.06.2024  09:00:45|13.06.2024  09:43:34|Cosme Cicero da Silva|ELET|Claudio Rodr
 V4212000|Quebra Do Parafuso De Fixacao Ij-022|1|IJ-022|P10.9|13.06.2024  02:20:44|13.06.2024  09:48:09|13.06.2024  12:07:30|Tiago S. Muchon|MECA|Denilson Apa
 V4211959|Placa Aquecedora Cedendo|1|IJ-056|P10.5|12.06.2024  06:48:31|12.06.2024  07:43:31|13.06.2024  14:03:30|Bruno H. Oliveira|MECA|Heverton Sie
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
 V4212007|Falha Na Selagem|2|MEC-01|P10.8|13.06.2024  10:59:41|13.06.2024  11:01:35|13.06.2024  15:19:44|Andre L. Costa|ELET|Alessandra A
-W4212020|Suporte Do Ventilador Solto|1|P10|P10|13.06.2024  15:15:58|ELET|Adriano Eleu
-W4212020|Suporte Do Ventilador Solto|1|P10|P10|13.06.2024  15:15:58|MECA|Adriano Eleu
 W4212008|Super Aquecimento Da Serpentina|2|IJ-117|P10.3|13.06.2024  12:18:27|MECA|MARCIO TERRA
 W4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|MECA|Ricardo De O
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211933|Robo Introduzindo Carcaca Torta No Anel|RO-09|P10.9|Diego Marques Duarte|Conserto Externo|11.06.2024
-O4211955|Quebra Da Correia|TM-06|P10|Bruno M. Moraes|Aguardando Material/peca|12.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4211995|Falha No Cilimdro Da Raquete|MF-12|P10.9|Willians A. Rocha|Executando Outro Servico|13.06.2024
