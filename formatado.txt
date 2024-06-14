@@ -8,6 +8,7 @@ V4212046|Sensor Da Esteira Do Robo Danificado|1|RO-09|P10.9|14.06.2024  01:09:21
 V4212050|Reversor Fazendo Barulho|1|IJ-046|P10.3|14.06.2024  05:10:56|14.06.2024  07:27:15|14.06.2024  09:06:50|Marcus V. Nunes|MECA|THIAGO AVELI
 V4212053|Aprovando Mola Mal Montada/peca Sem Mola|1|MG-05|P10.9|14.06.2024  06:40:24|14.06.2024  07:40:49|14.06.2024  09:41:49|Andre L. Costa|ELET|Fabricia Oli
 V4212049|Vazamento Oleo Mangueira Extrator Inferi|1|IJ-143|P10.7|14.06.2024  04:37:48|14.06.2024  06:09:05|14.06.2024  09:42:58|Tiago S. Muchon|MECA|Isac Natanae
+W4212062|Falha No Ventilador Do Robo|1|MF-46|P10.9|14.06.2024  11:16:06|ELET|Jefferson Da
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
