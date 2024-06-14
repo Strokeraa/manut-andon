@@ -1,18 +1,19 @@
-A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|10.06.2024  20:11:40|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
-A4212024|Quebra Dos Parafusos Da Unidade Do Bloqu|1|IJ-034|P10.7|13.06.2024  16:11:20|13.06.2024  17:20:07|Marcos A. Farias|MECA|Jose Alcimar
-A4212025|Kit Nao Faz Troca De Placa|1|IJ-114|P10.6|13.06.2024  17:17:27|13.06.2024  17:48:27|Felipe Candido|MECA|Luiz Francis
-A4212040|Painel Nao Liga, Chave Reversao Nao Func|2|MA-18|P10|13.06.2024  20:25:23|13.06.2024  20:51:25|13.06.2024  22:30:34|AMILCAR FERNANDO THEODORO|ELET|Francisco Ap
-V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
-V4212018|Falha No Sensor De Esmagamento|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|13.06.2024  17:47:08|Felipe Candido|ELET|Elvis Da Sil
-V4212028|Sensor Com Problema|1|GT-19|P10.14|13.06.2024  17:31:40|13.06.2024  17:58:55|13.06.2024  20:50:54|AMILCAR FERNANDO THEODORO|ELET|Welber Valer
-V4211955|Quebra Da Correia|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|13.06.2024  17:18:09|Marcos A. Farias|MECA|Marcelo Dos
-V4212008|Super Aquecimento Da Serpentina|2|IJ-117|P10.3|13.06.2024  12:18:27|13.06.2024  17:07:08|13.06.2024  22:04:54|Washington J.O. Chaves|MECA|MARCIO TERRA
-W4212042|Esteira Travada|1|MF-43|P10.6|13.06.2024  21:31:25|ELET|Cleiton Apar
-W4212042|Esteira Travada|1|MF-43|P10.6|13.06.2024  21:31:25|MECA|Cleiton Apar
-W4212043|Vazamento De Ar Na Mangueira.|1|PP-60|P10.3|13.06.2024  21:49:53|MECA|Ana Paula Ba
-W4212044|Resfriador De Pecas Nao Esta Funcionando|1|MF-51|P10.8|13.06.2024  21:50:07|ELET|Felipe Ibane
+A4212048|Mesa Nao Gira Em Automatico|1|ML-43|P10.8|14.06.2024  04:25:43|14.06.2024  06:00:14|Bruno H. Oliveira|MECA|Denilson Apa
+A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|Cosme Cicero da Silva|MECA|Diego Negret
+A4212054|Falha No Carregamento Do Material|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|Rosenildo Santiago|MECA|Luiz Fernand
+A4212060|Garra De Entrada Com Ar Nas Duas Manguei|1|EG-04|P10.9|14.06.2024  08:37:35|14.06.2024  09:43:03|Andre L. Costa|MECA|Jefferson Da
+A4212057|Nao Esta Fucionando|1|EX-19|P10.13|14.06.2024  07:55:22|14.06.2024  10:02:32|Tiago S. Muchon|MECA|Francisco Ap
+V4212008|Super Aquecimento Da Serpentina|0|IJ-117|P10.3|13.06.2024  12:18:27|13.06.2024  23:19:02|14.06.2024  05:05:02|Bruno M. Moraes|MECA|MARCIO TERRA
+V4212042|Esteira Travada|1|MF-43|P10.6|13.06.2024  21:31:25|14.06.2024  00:12:09|14.06.2024  05:10:04|Willians A. Rocha|MECA|Cleiton Apar
+V4212046|Sensor Da Esteira Do Robo Danificado|1|RO-09|P10.9|14.06.2024  01:09:21|14.06.2024  05:14:53|14.06.2024  05:51:53|Willians A. Rocha|ELET|Denilson Apa
+V4212050|Reversor Fazendo Barulho|1|IJ-046|P10.3|14.06.2024  05:10:56|14.06.2024  07:27:15|14.06.2024  09:06:50|Marcus V. Nunes|MECA|THIAGO AVELI
+V4212053|Aprovando Mola Mal Montada/peca Sem Mola|1|MG-05|P10.9|14.06.2024  06:40:24|14.06.2024  07:40:49|14.06.2024  09:41:49|Andre L. Costa|ELET|Fabricia Oli
+V4212049|Vazamento Oleo Mangueira Extrator Inferi|1|IJ-143|P10.7|14.06.2024  04:37:48|14.06.2024  06:09:05|14.06.2024  09:42:58|Tiago S. Muchon|MECA|Isac Natanae
+W4212056|Falha Nos Geradores|1|PLA-01|P10.11|14.06.2024  07:41:11|ELET|Luiz Fernand
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
-O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
+O4212047|Quebra Da Correia|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14.06.2024
+O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
+O4212059|Vazamento De Oleo Na Mangueira Do Cilind|IJ-159|P10.8|Marcus V. Nunes|Executando Outro Servico|14.06.2024
