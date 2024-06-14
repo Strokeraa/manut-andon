@@ -7,6 +7,7 @@ V4212056|Falha Nos Geradores|Corretiva|1|PLA-01|P10.11|14.06.2024  07:41:11|14.0
 V4212062|Falha No Ventilador Do Robo|Corretiva|1|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|14.06.2024  16:22:48|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da|||
 V4212048|Mesa Nao Gira Em Automatico|Corretiva|1|ML-43|P10.8|14.06.2024  04:25:43|14.06.2024  06:00:14|14.06.2024  17:12:15|Andre L. Costa|MECA|Denilson Apa|||
 W4212079|Parafuso Q Fixa Volante Espanado|Corretiva|1|MF-77|P10.4|14.06.2024  16:52:00|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|MARCIO TERRA|||
+W4212080|Falha No Ciclo, No Automatico.|Corretiva|1|PH-27|P10.14|14.06.2024  17:27:13|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|ANTONIO MARC|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
