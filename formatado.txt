@@ -2,12 +2,12 @@ A4211895|Falha No Sendor De Saida ( Alarne )|1|ML-80|P10.9|10.06.2024  16:50:36|
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212024|Quebra Dos Parafusos Da Unidade Do Bloqu|1|IJ-034|P10.7|13.06.2024  16:11:20|13.06.2024  17:20:07|Marcos A. Farias|MECA|Jose Alcimar
 A4212025|Kit Nao Faz Troca De Placa|1|IJ-114|P10.6|13.06.2024  17:17:27|13.06.2024  17:48:27|Felipe Candido|MECA|Luiz Francis
-A4212008|Super Aquecimento Da Serpentina|2|IJ-117|P10.3|13.06.2024  12:18:27|13.06.2024  17:07:08|Washington J.O. Chaves|MECA|MARCIO TERRA
 A4212040|Painel Nao Liga, Chave Reversao Nao Func|2|MA-18|P10|13.06.2024  20:25:23|13.06.2024  20:51:25|AMILCAR FERNANDO THEODORO|ELET|Francisco Ap
 V4211802|Recura Nao Esta Circulando Calor Correta|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa
 V4212018|Falha No Sensor De Esmagamento|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|13.06.2024  17:47:08|Felipe Candido|ELET|Elvis Da Sil
 V4212028|Sensor Com Problema|1|GT-19|P10.14|13.06.2024  17:31:40|13.06.2024  17:58:55|13.06.2024  20:50:54|AMILCAR FERNANDO THEODORO|ELET|Welber Valer
 V4211955|Quebra Da Correia|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|13.06.2024  17:18:09|Marcos A. Farias|MECA|Marcelo Dos
+V4212008|Super Aquecimento Da Serpentina|2|IJ-117|P10.3|13.06.2024  12:18:27|13.06.2024  17:07:08|13.06.2024  22:04:54|Washington J.O. Chaves|MECA|MARCIO TERRA
 W4212042|Esteira Travada|1|MF-43|P10.6|13.06.2024  21:31:25|ELET|Cleiton Apar
 W4212042|Esteira Travada|1|MF-43|P10.6|13.06.2024  21:31:25|MECA|Cleiton Apar
 W4212043|Vazamento De Ar Na Mangueira.|1|PP-60|P10.3|13.06.2024  21:49:53|MECA|Ana Paula Ba
