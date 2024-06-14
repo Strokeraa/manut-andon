@@ -7,6 +7,7 @@ V4212059|Vazamento De Oleo Na Mangueira Do Cilind|Corretiva|0|IJ-159|P10.8|14.06
 V4212060|Garra De Entrada Com Ar Nas Duas Manguei|Corretiva|1|EG-04|P10.9|14.06.2024  08:37:35|14.06.2024  09:43:03|14.06.2024  12:40:35|Andre L. Costa|MECA|Jefferson Da|||
 V4212056|Falha Nos Geradores|Corretiva|1|PLA-01|P10.11|14.06.2024  07:41:11|14.06.2024  11:01:35|14.06.2024  14:52:27|Bruno H. Oliveira|ELET|Luiz Fernand|||
 V4212062|Falha No Ventilador Do Robo|Corretiva|1|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|14.06.2024  16:22:48|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da|||
+W4212079|Parafuso Q Fixa Volante Espanado|Corretiva|1|MF-77|P10.4|14.06.2024  16:52:00|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|MARCIO TERRA|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
