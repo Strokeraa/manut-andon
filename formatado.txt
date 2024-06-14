@@ -1,12 +1,12 @@
 A4212059|Vazamento De Oleo Na Mangueira Do Cilind|0|IJ-159|P10.8|14.06.2024  08:22:12|14.06.2024  09:43:46|Marcus V. Nunes|MECA|Claudiney Pi
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212048|Mesa Nao Gira Em Automatico|1|ML-43|P10.8|14.06.2024  04:25:43|14.06.2024  06:00:14|Andre L. Costa|MECA|Denilson Apa
+A4212069|Problema No Limitador Da Mesa De Avanco|1|P10|P10|14.06.2024  13:05:32|14.06.2024  15:21:39|GERSON LUIS DE FREITAS|MECA|Douglas de O
 V4212053|Aprovando Mola Mal Montada/peca Sem Mola|1|MG-05|P10.9|14.06.2024  06:40:24|14.06.2024  07:40:49|14.06.2024  09:41:49|Andre L. Costa|ELET|Fabricia Oli
 V4212049|Vazamento Oleo Mangueira Extrator Inferi|1|IJ-143|P10.7|14.06.2024  04:37:48|14.06.2024  06:09:05|14.06.2024  09:42:58|Tiago S. Muchon|MECA|Isac Natanae
 V4212060|Garra De Entrada Com Ar Nas Duas Manguei|1|EG-04|P10.9|14.06.2024  08:37:35|14.06.2024  09:43:03|14.06.2024  12:40:35|Andre L. Costa|MECA|Jefferson Da
 V4212056|Falha Nos Geradores|1|PLA-01|P10.11|14.06.2024  07:41:11|14.06.2024  11:01:35|14.06.2024  14:52:27|Bruno H. Oliveira|ELET|Luiz Fernand
-W4212062|Falha No Ventilador Do Robo|1|MF-46|P10.9|14.06.2024  11:16:06|ELET|Jefferson Da
-W4212069|Problema No Limitador Da Mesa De Avanco|1|P10|P10|14.06.2024  13:05:32|MECA|Douglas de O
+W4212062|Falha No Ventilador Do Robo|1|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da
 W4212070|Trocar Mangueira Do Cilindro Da Mesa De|1|IJ-031|P10.7|14.06.2024  13:20:12|MECA|Ezequiel Apa
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
