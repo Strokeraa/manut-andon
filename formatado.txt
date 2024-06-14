@@ -1,6 +1,5 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|Cosme Cicero da Silva|MECA|Diego Negret
-A4212054|Falha No Carregamento Do Material|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|Rosenildo Santiago|MECA|Luiz Fernand
 A4212060|Garra De Entrada Com Ar Nas Duas Manguei|1|EG-04|P10.9|14.06.2024  08:37:35|14.06.2024  09:43:03|Andre L. Costa|MECA|Jefferson Da
 A4212057|Nao Esta Fucionando|1|EX-19|P10.13|14.06.2024  07:55:22|14.06.2024  10:02:32|Tiago S. Muchon|MECA|Francisco Ap
 A4212056|Falha Nos Geradores|1|PLA-01|P10.11|14.06.2024  07:41:11|14.06.2024  11:01:35|Bruno H. Oliveira|ELET|Luiz Fernand
@@ -13,6 +12,7 @@ O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITA
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212048|Mesa Nao Gira Em Automatico|ML-43|P10.8|Bruno H. Oliveira|Executando Outro Servico|14.06.2024
+O4212054|Falha No Carregamento Do Material|IJ-055|P10.10|Rosenildo Santiago|Troca De Turno|14.06.2024
 O4212047|Quebra Da Correia|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212059|Vazamento De Oleo Na Mangueira Do Cilind|IJ-159|P10.8|Marcus V. Nunes|Executando Outro Servico|14.06.2024
