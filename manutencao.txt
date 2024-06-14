@@ -3,6 +3,7 @@ A4212069|Problema No Limitador Da Mesa De Avanco|Corretiva|1|P10|P10|14.06.2024 
 A4212079|Parafuso Q Fixa Volante Espanado|Corretiva|1|MF-77|P10.4|14.06.2024  16:52:00|14.06.2024  18:37:55|00.00.0000  00:00:00|Marco Aurelio Maciel Zucoloto|MECA|MARCIO TERRA|||
 A4212081|Alarme De Porta Aberta (ml43)|Corretiva|1|P10|P10|14.06.2024  18:02:26|14.06.2024  18:46:09|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Felipe Ibane|||
 A4212054|Falha No Carregamento Do Material|Corretiva|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|00.00.0000  00:00:00|Felipe Candido|MECA|Luiz Fernand|||
+A4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|1|IJ-031|P10.7|14.06.2024  13:20:12|14.06.2024  16:11:12|00.00.0000  00:00:00|Diego Marques Duarte|MECA|Ezequiel Apa|||
 N4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da|||
 V4212059|Vazamento De Oleo Na Mangueira Do Cilind|Corretiva|0|IJ-159|P10.8|14.06.2024  08:22:12|14.06.2024  09:43:46|14.06.2024  15:45:25|Marcus V. Nunes|MECA|Claudiney Pi|||
 V4212056|Falha Nos Geradores|Corretiva|1|PLA-01|P10.11|14.06.2024  07:41:11|14.06.2024  11:01:35|14.06.2024  14:52:27|Bruno H. Oliveira|ELET|Luiz Fernand|||
@@ -17,4 +18,3 @@ O4212051|Cilindro Da Pinca Nao Gira|Corretiva|MF-73|P10.8|Cosme Cicero da Silva|
 O4212047|Quebra Da Correia|Corretiva|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
-O4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024|||
