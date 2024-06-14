@@ -9,7 +9,7 @@ V4212049|Vazamento Oleo Mangueira Extrator Inferi|1|IJ-143|P10.7|14.06.2024  04:
 V4212060|Garra De Entrada Com Ar Nas Duas Manguei|1|EG-04|P10.9|14.06.2024  08:37:35|14.06.2024  09:43:03|14.06.2024  12:40:35|Andre L. Costa|MECA|Jefferson Da
 W4212062|Falha No Ventilador Do Robo|1|MF-46|P10.9|14.06.2024  11:16:06|ELET|Jefferson Da
 W4212069|Problema No Limitador Da Mesa De Avanco|1|P10|P10|14.06.2024  13:05:32|MECA|Douglas de O
-W4212070|Trocar Mangueira Do Cilindro Da Mesa De|2|IJ-031|P10.7|14.06.2024  13:20:12|MECA|Ezequiel Apa
+W4212070|Trocar Mangueira Do Cilindro Da Mesa De|1|IJ-031|P10.7|14.06.2024  13:20:12|MECA|Ezequiel Apa
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
