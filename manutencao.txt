@@ -5,7 +5,6 @@ A4212025|Kit Nao Faz Troca De Placa|Corretiva|1|IJ-114|P10.6|13.06.2024  17:17:2
 A4212008|Super Aquecimento Da Serpentina|Corretiva|2|IJ-117|P10.3|13.06.2024  12:18:27|13.06.2024  17:07:08|00.00.0000  00:00:00|Washington J.O. Chaves|MECA|MARCIO TERRA|||
 A4212040|Painel Nao Liga, Chave Reversao Nao Func|Corretiva|2|MA-18|P10|13.06.2024  20:25:23|13.06.2024  20:51:25|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Francisco Ap|||
 V4211802|Recura Nao Esta Circulando Calor Correta|Corretiva|1|EF-88|P10.7|07.06.2024  05:31:47|07.06.2024  06:16:40|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Ezequiel Apa|||
-V4211995|Falha No Cilimdro Da Raquete|Corretiva|1|MF-12|P10.9|12.06.2024  22:52:21|13.06.2024  00:02:58|13.06.2024  15:59:54|Willians A. Rocha|MECA|Adriano Eleu|||
 V4212018|Falha No Sensor De Esmagamento|Corretiva|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|13.06.2024  17:47:08|Felipe Candido|ELET|Elvis Da Sil|||
 V4212028|Sensor Com Problema|Corretiva|1|GT-19|P10.14|13.06.2024  17:31:40|13.06.2024  17:58:55|13.06.2024  20:50:54|AMILCAR FERNANDO THEODORO|ELET|Welber Valer|||
 V4211955|Quebra Da Correia|Corretiva|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|13.06.2024  17:18:09|Marcos A. Farias|MECA|Marcelo Dos|||
