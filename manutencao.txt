@@ -11,6 +11,8 @@ V4212028|Sensor Com Problema|Corretiva|1|GT-19|P10.14|13.06.2024  17:31:40|13.06
 V4211955|Quebra Da Correia|Corretiva|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|13.06.2024  17:18:09|Marcos A. Farias|MECA|Marcelo Dos|||
 W4212042|Esteira Travada|Corretiva|1|MF-43|P10.6|13.06.2024  21:31:25|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Cleiton Apar|||
 W4212042|Esteira Travada|Corretiva|1|MF-43|P10.6|13.06.2024  21:31:25|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Cleiton Apar|||
+W4212043|Vazamento De Ar Na Mangueira.|Corretiva|1|PP-60|P10.3|13.06.2024  21:49:53|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Ana Paula Ba|||
+W4212044|Resfriador De Pecas Nao Esta Funcionando|Corretiva|1|MF-51|P10.8|13.06.2024  21:50:07|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Felipe Ibane|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
