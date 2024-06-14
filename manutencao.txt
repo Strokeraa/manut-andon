@@ -3,6 +3,7 @@ A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.0
 A4212048|Mesa Nao Gira Em Automatico|Corretiva|1|ML-43|P10.8|14.06.2024  04:25:43|14.06.2024  06:00:14|00.00.0000  00:00:00|Andre L. Costa|MECA|Denilson Apa|||
 A4212069|Problema No Limitador Da Mesa De Avanco|Corretiva|1|P10|P10|14.06.2024  13:05:32|14.06.2024  15:21:39|00.00.0000  00:00:00|GERSON LUIS DE FREITAS|MECA|Douglas de O|||
 A4212062|Falha No Ventilador Do Robo|Corretiva|1|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da|||
+A4212054|Falha No Carregamento Do Material|Corretiva|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|00.00.0000  00:00:00|Rosenildo Santiago|MECA|Luiz Fernand|||
 V4212053|Aprovando Mola Mal Montada/peca Sem Mola|Corretiva|1|MG-05|P10.9|14.06.2024  06:40:24|14.06.2024  07:40:49|14.06.2024  09:41:49|Andre L. Costa|ELET|Fabricia Oli|||
 V4212049|Vazamento Oleo Mangueira Extrator Inferi|Corretiva|1|IJ-143|P10.7|14.06.2024  04:37:48|14.06.2024  06:09:05|14.06.2024  09:42:58|Tiago S. Muchon|MECA|Isac Natanae|||
 V4212060|Garra De Entrada Com Ar Nas Duas Manguei|Corretiva|1|EG-04|P10.9|14.06.2024  08:37:35|14.06.2024  09:43:03|14.06.2024  12:40:35|Andre L. Costa|MECA|Jefferson Da|||
@@ -12,7 +13,6 @@ O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212051|Cilindro Da Pinca Nao Gira|Corretiva|MF-73|P10.8|Cosme Cicero da Silva|Aguardando Material/peca|14.06.2024|||
-O4212054|Falha No Carregamento Do Material|Corretiva|IJ-055|P10.10|Rosenildo Santiago|Troca De Turno|14.06.2024|||
 O4212047|Quebra Da Correia|Corretiva|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
