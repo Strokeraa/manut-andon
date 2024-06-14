@@ -9,6 +9,8 @@ V4211995|Falha No Cilimdro Da Raquete|Corretiva|1|MF-12|P10.9|12.06.2024  22:52:
 V4212018|Falha No Sensor De Esmagamento|Corretiva|1|IJ-032|P10.5|13.06.2024  14:41:41|13.06.2024  15:23:37|13.06.2024  17:47:08|Felipe Candido|ELET|Elvis Da Sil|||
 V4212028|Sensor Com Problema|Corretiva|1|GT-19|P10.14|13.06.2024  17:31:40|13.06.2024  17:58:55|13.06.2024  20:50:54|AMILCAR FERNANDO THEODORO|ELET|Welber Valer|||
 V4211955|Quebra Da Correia|Corretiva|2|TM-06|P10|12.06.2024  01:35:16|13.06.2024  15:39:35|13.06.2024  17:18:09|Marcos A. Farias|MECA|Marcelo Dos|||
+W4212042|Esteira Travada|Corretiva|1|MF-43|P10.6|13.06.2024  21:31:25|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Cleiton Apar|||
+W4212042|Esteira Travada|Corretiva|1|MF-43|P10.6|13.06.2024  21:31:25|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Cleiton Apar|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
