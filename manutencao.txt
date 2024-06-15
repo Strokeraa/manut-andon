@@ -7,6 +7,7 @@ V4212090|Desmontou Chave Seletora.|Corretiva|1|IJ-135|P10.11|14.06.2024  20:52:2
 V4212079|Parafuso Q Fixa Volante Espanado|Corretiva|1|MF-77|P10.4|14.06.2024  16:52:00|14.06.2024  18:37:55|14.06.2024  23:20:15|Marco Aurelio Maciel Zucoloto|MECA|MARCIO TERRA|||
 V4212083|Vazamento Oleo Bomba|Corretiva|1|PV-144|P10.14|14.06.2024  18:29:48|14.06.2024  22:15:54|14.06.2024  23:52:38|GERSON LUIS DE FREITAS|MECA|Luciano de P|||
 V4212091|Carrocel Desalinhado|Corretiva|1|FC-08|P10.9|14.06.2024  22:42:41|15.06.2024  00:09:15|15.06.2024  00:49:00|Willians A. Rocha|ELET|Kelly Cristi|||
+W4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Mariana Mart|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
