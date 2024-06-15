@@ -1,3 +1,4 @@
+A4212062|Falha No Ventilador Do Robo|0|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212079|Parafuso Q Fixa Volante Espanado|1|MF-77|P10.4|14.06.2024  16:52:00|14.06.2024  18:37:55|Marco Aurelio Maciel Zucoloto|MECA|MARCIO TERRA
 A4212054|Falha No Carregamento Do Material|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|Felipe Candido|MECA|Luiz Fernand
@@ -17,4 +18,3 @@ O4212047|Quebra Da Correia|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024
-O4212062|Falha No Ventilador Do Robo|MF-46|P10.9|AMILCAR FERNANDO THEODORO|Executando Outro Servico|14.06.2024
