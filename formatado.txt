@@ -1,11 +1,12 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
-A4212114|Grade De Protecao Solta|1|IJ-117|P10.3|15.06.2024  13:38:39|15.06.2024  14:26:57|GERSON LUIS DE FREITAS|MECA|Elaine Crist
 A4212111|Variacao Na Temperatura Do 62|1|IJ-136|P10.7|15.06.2024  10:56:57|15.06.2024  16:48:23|Diego Marques Duarte|ELET|Claudio Rodr
 V4212054|Falha No Carregamento Do Material|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|15.06.2024  14:03:51|Tiago S. Muchon|MECA|Luiz Fernand
+V4212114|Grade De Protecao Solta|1|IJ-117|P10.3|15.06.2024  13:38:39|15.06.2024  14:26:57|15.06.2024  18:35:04|GERSON LUIS DE FREITAS|MECA|Elaine Crist
 W4212099|Vazamento Fechamento Da Garra De Entrada|1|FC-08|P10.9|15.06.2024  07:45:14|ELET|Jefferson Da
 W4212113|Disjuntor Desarmando Constantemente|1|IJ-112|P10.10|15.06.2024  13:07:01|ELET|Fernando Hen
 W4212115|Falha No Sensor|1|PP-10|P10.2|15.06.2024  13:59:48|ELET|Talita da Si
-W4212116|Embolo Travado E Vazando Oleo|1|IJ-148|P10.8|15.06.2024  17:35:05|MECA|Felipe Ibane
+W4212116|Embolo Travado E Vazando Oleo|1|IJ-148|P10.8|15.06.2024  17:35:05|15.06.2024  18:35:30|00.00.0000  00:00:00|GERSON LUIS DE FREITAS|MECA|Felipe Ibane
+W4212117|Queima Do Fusivel Do Gerador.|1|PLA-03|P10.10|15.06.2024  18:32:54|ELET|Ana Paula Ba
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212051|Cilindro Da Pinca Nao Gira|MF-73|P10.8|Cosme Cicero da Silva|Aguardando Material/peca|14.06.2024
