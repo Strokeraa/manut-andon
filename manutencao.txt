@@ -2,7 +2,6 @@ A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.0
 A4212054|Falha No Carregamento Do Material|Corretiva|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Luiz Fernand|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Willians A. Rocha|ELET|Mariana Mart|||
 V4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|15.06.2024  00:50:37|15.06.2024  04:01:55|Willians A. Rocha|ELET|Jefferson Da|||
-V4212090|Desmontou Chave Seletora.|Corretiva|1|IJ-135|P10.11|14.06.2024  20:52:20|14.06.2024  22:50:12|14.06.2024  23:04:51|AMILCAR FERNANDO THEODORO|ELET|Ana Paula Ba|||
 V4212079|Parafuso Q Fixa Volante Espanado|Corretiva|1|MF-77|P10.4|14.06.2024  16:52:00|14.06.2024  18:37:55|14.06.2024  23:20:15|Marco Aurelio Maciel Zucoloto|MECA|MARCIO TERRA|||
 V4212083|Vazamento Oleo Bomba|Corretiva|1|PV-144|P10.14|14.06.2024  18:29:48|14.06.2024  22:15:54|14.06.2024  23:52:38|GERSON LUIS DE FREITAS|MECA|Luciano de P|||
 V4212091|Carrocel Desalinhado|Corretiva|1|FC-08|P10.9|14.06.2024  22:42:41|15.06.2024  00:09:15|15.06.2024  00:49:00|Willians A. Rocha|ELET|Kelly Cristi|||
