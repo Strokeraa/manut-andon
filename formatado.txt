@@ -1,6 +1,6 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
-A4212054|Falha No Carregamento Do Material|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|Bruno M. Moraes|MECA|Luiz Fernand
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Willians A. Rocha|ELET|Mariana Mart
+A4212047|Quebra Da Correia|1|TM-03|P10|14.06.2024  02:26:39|14.06.2024  05:05:45|Bruno M. Moraes|MECA|Ezequiel Apa
 V4212062|Falha No Ventilador Do Robo|0|MF-46|P10.9|14.06.2024  11:16:06|15.06.2024  00:50:37|15.06.2024  04:01:55|Willians A. Rocha|ELET|Jefferson Da
 V4212083|Vazamento Oleo Bomba|1|PV-144|P10.14|14.06.2024  18:29:48|14.06.2024  22:15:54|14.06.2024  23:52:38|GERSON LUIS DE FREITAS|MECA|Luciano de P
 V4212091|Carrocel Desalinhado|1|FC-08|P10.9|14.06.2024  22:42:41|15.06.2024  00:09:15|15.06.2024  00:49:00|Willians A. Rocha|ELET|Kelly Cristi
@@ -8,7 +8,7 @@ O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITA
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212051|Cilindro Da Pinca Nao Gira|MF-73|P10.8|Cosme Cicero da Silva|Aguardando Material/peca|14.06.2024
-O4212047|Quebra Da Correia|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024
+O4212054|Falha No Carregamento Do Material|IJ-055|P10.10|Bruno M. Moraes|Troca De Turno|15.06.2024
