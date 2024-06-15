@@ -1,8 +1,8 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212114|Grade De Protecao Solta|1|IJ-117|P10.3|15.06.2024  13:38:39|15.06.2024  14:26:57|GERSON LUIS DE FREITAS|MECA|Elaine Crist
+A4212111|Variacao Na Temperatura Do 62|1|IJ-136|P10.7|15.06.2024  10:56:57|15.06.2024  16:48:23|Diego Marques Duarte|ELET|Claudio Rodr
 V4212054|Falha No Carregamento Do Material|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|15.06.2024  14:03:51|Tiago S. Muchon|MECA|Luiz Fernand
 W4212099|Vazamento Fechamento Da Garra De Entrada|1|FC-08|P10.9|15.06.2024  07:45:14|ELET|Jefferson Da
-W4212111|Variacao Na Temperatura Do 62|1|IJ-136|P10.7|15.06.2024  10:56:57|ELET|Claudio Rodr
 W4212113|Disjuntor Desarmando Constantemente|1|IJ-112|P10.10|15.06.2024  13:07:01|ELET|Fernando Hen
 W4212115|Falha No Sensor|1|PP-10|P10.2|15.06.2024  13:59:48|ELET|Talita da Si
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
