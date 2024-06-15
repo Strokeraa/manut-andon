@@ -1,5 +1,4 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
-A4212054|Falha No Carregamento Do Material|Corretiva|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|00.00.0000  00:00:00|Felipe Candido|MECA|Luiz Fernand|||
 V4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|14.06.2024  15:25:23|14.06.2024  23:52:11|AMILCAR FERNANDO THEODORO|ELET|Jefferson Da|||
 V4212080|Falha No Ciclo, No Automatico.|Corretiva|1|PH-27|P10.14|14.06.2024  17:27:13|14.06.2024  18:03:55|14.06.2024  18:41:45|AMILCAR FERNANDO THEODORO|ELET|ANTONIO MARC|||
 V4212081|Alarme De Porta Aberta (ml43)|Corretiva|1|P10|P10|14.06.2024  18:02:26|14.06.2024  18:46:09|14.06.2024  21:43:54|AMILCAR FERNANDO THEODORO|ELET|Felipe Ibane|||
@@ -7,7 +6,6 @@ V4212069|Problema No Limitador Da Mesa De Avanco|Corretiva|1|P10|P10|14.06.2024 
 V4212090|Desmontou Chave Seletora.|Corretiva|1|IJ-135|P10.11|14.06.2024  20:52:20|14.06.2024  22:50:12|14.06.2024  23:04:51|AMILCAR FERNANDO THEODORO|ELET|Ana Paula Ba|||
 V4212079|Parafuso Q Fixa Volante Espanado|Corretiva|1|MF-77|P10.4|14.06.2024  16:52:00|14.06.2024  18:37:55|14.06.2024  23:20:15|Marco Aurelio Maciel Zucoloto|MECA|MARCIO TERRA|||
 V4212083|Vazamento Oleo Bomba|Corretiva|1|PV-144|P10.14|14.06.2024  18:29:48|14.06.2024  22:15:54|14.06.2024  23:52:38|GERSON LUIS DE FREITAS|MECA|Luciano de P|||
-V4212075|Seg-10 Eap-14|Corretiva|2|P10|P10|14.06.2024  16:02:20|14.06.2024  16:23:18|14.06.2024  18:03:23|AMILCAR FERNANDO THEODORO|ELET|Luciano de P|||
 W4212091|Carrocel Desalinhado|Corretiva|1|FC-08|P10.9|14.06.2024  22:42:41|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
@@ -16,4 +14,5 @@ O4212051|Cilindro Da Pinca Nao Gira|Corretiva|MF-73|P10.8|Cosme Cicero da Silva|
 O4212047|Quebra Da Correia|Corretiva|TM-03|P10|Bruno M. Moraes|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
+O4212054|Falha No Carregamento Do Material|Corretiva|IJ-055|P10.10|Felipe Candido|Troca De Turno|15.06.2024|||
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024|||
