@@ -1,6 +1,7 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Tiago S. Muchon|ELET|Mariana Mart|||
 V4212095|Falha No Poka Yoke|Corretiva|1|P10|P10|15.06.2024  06:57:33|15.06.2024  07:03:58|15.06.2024  09:26:19|Rosenildo Santiago|ELET|Luiz Fernand|||
+V4212054|Falha No Carregamento Do Material|Corretiva|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|15.06.2024  14:03:51|Tiago S. Muchon|MECA|Luiz Fernand|||
 W4212099|Vazamento Fechamento Da Garra De Entrada|Corretiva|1|FC-08|P10.9|15.06.2024  07:45:14|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
 W4212111|Variacao Na Temperatura Do 62|Corretiva|1|IJ-136|P10.7|15.06.2024  10:56:57|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Claudio Rodr|||
 W4212113|Disjuntor Desarmando Constantemente|Corretiva|1|IJ-112|P10.10|15.06.2024  13:07:01|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fernando Hen|||
@@ -13,4 +14,3 @@ O4212051|Cilindro Da Pinca Nao Gira|Corretiva|MF-73|P10.8|Cosme Cicero da Silva|
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024|||
-O4212054|Falha No Carregamento Do Material|Corretiva|IJ-055|P10.10|Tiago S. Muchon|Executando Outro Servico|15.06.2024|||
