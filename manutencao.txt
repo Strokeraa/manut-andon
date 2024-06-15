@@ -1,8 +1,9 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Mariana Mart|||
+A4212095|Falha No Poka Yoke|Corretiva|1|P10|P10|15.06.2024  06:57:33|15.06.2024  07:03:58|00.00.0000  00:00:00|Rosenildo Santiago|ELET|Luiz Fernand|||
 V4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|15.06.2024  00:50:37|15.06.2024  04:01:55|Willians A. Rocha|ELET|Jefferson Da|||
 V4212047|Quebra Da Correia|Corretiva|1|TM-03|P10|14.06.2024  02:26:39|14.06.2024  05:05:45|15.06.2024  06:04:20|Bruno M. Moraes|MECA|Ezequiel Apa|||
-W4212095|Falha No Poka Yoke|Corretiva|1|IJ-057|P10.10|15.06.2024  06:57:33|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Luiz Fernand|||
+W4212099|Vazamento Fechamento Da Garra De Entrada|Corretiva|1|FC-08|P10.9|15.06.2024  07:45:14|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
