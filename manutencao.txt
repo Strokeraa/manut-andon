@@ -1,6 +1,6 @@
+A4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|15.06.2024  00:50:37|00.00.0000  00:00:00|Willians A. Rocha|ELET|Jefferson Da|||
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212054|Falha No Carregamento Do Material|Corretiva|1|IJ-055|P10.10|14.06.2024  06:54:57|14.06.2024  07:36:30|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Luiz Fernand|||
-N4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|15.06.2024  00:50:37|00.00.0000  00:00:00|Willians A. Rocha|ELET|Jefferson Da|||
 V4212081|Alarme De Porta Aberta (ml43)|Corretiva|1|P10|P10|14.06.2024  18:02:26|14.06.2024  18:46:09|14.06.2024  21:43:54|AMILCAR FERNANDO THEODORO|ELET|Felipe Ibane|||
 V4212069|Problema No Limitador Da Mesa De Avanco|Corretiva|1|P10|P10|14.06.2024  13:05:32|14.06.2024  15:21:39|14.06.2024  22:12:28|GERSON LUIS DE FREITAS|MECA|Douglas de O|||
 V4212090|Desmontou Chave Seletora.|Corretiva|1|IJ-135|P10.11|14.06.2024  20:52:20|14.06.2024  22:50:12|14.06.2024  23:04:51|AMILCAR FERNANDO THEODORO|ELET|Ana Paula Ba|||
