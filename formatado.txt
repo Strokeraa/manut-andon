@@ -10,6 +10,7 @@ V4212081|Alarme De Porta Aberta (ml43)|1|P10|P10|14.06.2024  18:02:26|14.06.2024
 V4212069|Problema No Limitador Da Mesa De Avanco|1|P10|P10|14.06.2024  13:05:32|14.06.2024  15:21:39|14.06.2024  22:12:28|GERSON LUIS DE FREITAS|MECA|Douglas de O
 V4212075|Seg-10 Eap-14|2|P10|P10|14.06.2024  16:02:20|14.06.2024  16:23:18|14.06.2024  18:03:23|AMILCAR FERNANDO THEODORO|ELET|Luciano de P
 W4212090|Desmontou Chave Seletora.|1|IJ-135|P10.11|14.06.2024  20:52:20|ELET|Ana Paula Ba
+W4212091|Carrocel Desalinhado|1|FC-08|P10.9|14.06.2024  22:42:41|ELET|Kelly Cristi
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4211715|Falha No Drive Do Cilindro Eletrico|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
