@@ -1,7 +1,8 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
+A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Mariana Mart|||
 V4212062|Falha No Ventilador Do Robo|Corretiva|0|MF-46|P10.9|14.06.2024  11:16:06|15.06.2024  00:50:37|15.06.2024  04:01:55|Willians A. Rocha|ELET|Jefferson Da|||
-V4212091|Carrocel Desalinhado|Corretiva|1|FC-08|P10.9|14.06.2024  22:42:41|15.06.2024  00:09:15|15.06.2024  00:49:00|Willians A. Rocha|ELET|Kelly Cristi|||
 V4212047|Quebra Da Correia|Corretiva|1|TM-03|P10|14.06.2024  02:26:39|14.06.2024  05:05:45|15.06.2024  06:04:20|Bruno M. Moraes|MECA|Ezequiel Apa|||
+W4212095|Falha No Poka Yoke|Corretiva|1|IJ-057|P10.10|15.06.2024  06:57:33|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Luiz Fernand|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4211715|Falha No Drive Do Cilindro Eletrico|Corretiva|MI-103|P10.9|Andre L. Costa|Assistencia Tecnica Especifica|12.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
@@ -10,4 +11,3 @@ O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiom
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024|||
 O4212054|Falha No Carregamento Do Material|Corretiva|IJ-055|P10.10|Bruno M. Moraes|Troca De Turno|15.06.2024|||
-O4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|PLA-01|P10.11|Willians A. Rocha|Troca De Turno|15.06.2024|||
