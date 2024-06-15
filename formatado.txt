@@ -1,6 +1,5 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Tiago S. Muchon|ELET|Mariana Mart
-V4212047|Quebra Da Correia|1|TM-03|P10|14.06.2024  02:26:39|14.06.2024  05:05:45|15.06.2024  06:04:20|Bruno M. Moraes|MECA|Ezequiel Apa
 V4212095|Falha No Poka Yoke|1|P10|P10|15.06.2024  06:57:33|15.06.2024  07:03:58|15.06.2024  09:26:19|Rosenildo Santiago|ELET|Luiz Fernand
 W4212099|Vazamento Fechamento Da Garra De Entrada|1|FC-08|P10.9|15.06.2024  07:45:14|ELET|Jefferson Da
 W4212111|Variacao Na Temperatura Do 62|1|IJ-136|P10.7|15.06.2024  10:56:57|ELET|Claudio Rodr
