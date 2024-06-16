@@ -1,5 +1,5 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
-W4212117|Queima Do Fusivel Do Gerador.|1|PLA-03|P10.10|15.06.2024  18:32:54|ELET|Ana Paula Ba
+A4212117|Queima Do Fusivel Do Gerador.|1|PLA-03|P10.10|15.06.2024  18:32:54|16.06.2024  20:49:33|Washington J.O. Chaves|ELET|Ana Paula Ba
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212051|Cilindro Da Pinca Nao Gira|MF-73|P10.8|Cosme Cicero da Silva|Aguardando Material/peca|14.06.2024
