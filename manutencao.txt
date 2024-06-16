@@ -1,5 +1,4 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
-V4212099|Vazamento Fechamento Da Garra De Entrada|Corretiva|1|FC-08|P10.9|15.06.2024  07:45:14|15.06.2024  19:06:01|15.06.2024  19:07:28|Diego Marques Duarte|ELET|Jefferson Da|||
 V4212116|Embolo Travado E Vazando Oleo|Corretiva|1|IJ-148|P10.8|15.06.2024  17:35:05|15.06.2024  18:35:30|15.06.2024  21:53:04|GERSON LUIS DE FREITAS|MECA|Felipe Ibane|||
 W4212117|Queima Do Fusivel Do Gerador.|Corretiva|1|PLA-03|P10.10|15.06.2024  18:32:54|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ana Paula Ba|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
