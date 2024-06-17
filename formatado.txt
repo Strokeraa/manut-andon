@@ -1,4 +1,3 @@
-A4212145|Falha No Sopro|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212130|Alarme De Porta Dianteira|1|IJ-151|P10.3|17.06.2024  04:31:04|17.06.2024  04:41:26|Washington J.O. Chaves|ELET|THIAGO AVELI
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
@@ -6,13 +5,14 @@ A4212134|Erro Painel - Manutencao 15/06|1|IJ-112|P10.10|17.06.2024  06:57:33|17.
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart
 A4212154|Pistao Solto|1|P10|P10|17.06.2024  14:27:53|17.06.2024  16:07:43|Marcus V. Nunes|MECA|ANTONIO MARC
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|Diego Marques Duarte|ELET|Jefferson Da
+A4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
+V4212145|Falha No Sopro|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|17.06.2024  16:21:50|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi
 V4212135|Maquina Nao Esta Injetando|1|IJ-125|P10.7|17.06.2024  07:11:47|17.06.2024  09:18:18|17.06.2024  10:46:51|Marcus V. Nunes|MECA|Ezequiel Apa
 V4212128|Falha De Aquecimento - Lado Direito|1|EF-88|P10.7|17.06.2024  03:59:26|17.06.2024  06:26:38|17.06.2024  11:01:34|Cosme Cicero da Silva|ELET|Ezequiel Apa
 V4212146|Falha Regua Encoden Mesa Movel|1|IJ-039|P10.7|17.06.2024  11:44:45|17.06.2024  14:05:08|17.06.2024  15:01:29|Cosme Cicero da Silva|ELET|Mauricio Alv
 V4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|17.06.2024  16:02:28|Marcus V. Nunes|MECA|Adriano Souz
 V4212150|Conserto Da Pistola De Aplicacao|2|BT-11|P10.12|17.06.2024  14:24:17|17.06.2024  15:29:44|17.06.2024  16:10:11|GERSON LUIS DE FREITAS|MECA|Adriano Souz
 W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|1|MG-12|P10.9|17.06.2024  07:12:56|ELET|Fabricia Oli
-W4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|MECA|Heverton Sie
 W4212147|Esteira De Saida Nao Gira|1|MI-102|P10.9|17.06.2024  12:46:58|ELET|Jefferson Da
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
