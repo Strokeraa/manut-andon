@@ -4,7 +4,6 @@ A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.202
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|Diego Marques Duarte|ELET|Jefferson Da
 A4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
-A4212147|Esteira De Saida Nao Gira|1|MI-102|P10.9|17.06.2024  12:46:58|17.06.2024  16:41:51|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 V4212145|Falha No Sopro|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|17.06.2024  16:21:50|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi
 V4212146|Falha Regua Encoden Mesa Movel|1|IJ-039|P10.7|17.06.2024  11:44:45|17.06.2024  14:05:08|17.06.2024  15:01:29|Cosme Cicero da Silva|ELET|Mauricio Alv
 V4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|17.06.2024  16:02:28|Marcus V. Nunes|MECA|Adriano Souz
@@ -23,4 +22,5 @@ O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|C
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Troca De Turno|17.06.2024
+O4212147|Esteira De Saida Nao Gira|MI-102|P10.9|Claudiomiro Aparecido de Souza|Aguardando Material/peca|17.06.2024
 O4212134|Erro Painel - Manutencao 15/06|IJ-112|P10.10|Felipe Candido|Troca De Turno|17.06.2024
