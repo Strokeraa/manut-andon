@@ -17,6 +17,7 @@ W4212161|Verificar Se O Aparelho Esta Carregando|1|EF-97|P10.11|17.06.2024  17:0
 W4212162|Falha No Captador De Molas|1|ML-43|P10.8|17.06.2024  18:17:56|ELET|Felipe Ibane
 W4212163|Nao Inicia Ciclo|1|MG-05|P10.9|17.06.2024  18:30:21|ELET|Adriano Eleu
 W4212164|Soltou A Mesa Da Prensa|1|PH-31|P10.12|17.06.2024  18:32:02|MECA|Cleber Domin
+W4212165|Parafuso Espanado Do Limitador|2|SEG-06|P10.14|17.06.2024  19:02:35|MECA|Luciano de P
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
