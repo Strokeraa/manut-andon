@@ -15,6 +15,7 @@ W4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024
 W4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024  16:40:37|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Jose Alcimar|||
 W4212161|Verificar Se O Aparelho Esta Carregando|Corretiva|1|EF-97|P10.11|17.06.2024  17:07:50|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ana Paula Ba|||
 W4212162|Falha No Captador De Molas|Corretiva|1|ML-43|P10.8|17.06.2024  18:17:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Felipe Ibane|||
+W4212163|Nao Inicia Ciclo|Corretiva|1|MG-05|P10.9|17.06.2024  18:30:21|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Adriano Eleu|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
