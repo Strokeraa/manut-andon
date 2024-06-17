@@ -1,6 +1,5 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212130|Alarme De Porta Dianteira|Corretiva|1|IJ-151|P10.3|17.06.2024  04:31:04|17.06.2024  04:41:26|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|THIAGO AVELI|||
-A4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|1|IJ-118|P10.3|17.06.2024  04:29:03|17.06.2024  04:49:52|00.00.0000  00:00:00|Bruno M. Moraes|MECA|THIAGO AVELI|||
 V4212117|Queima Do Fusivel Do Gerador.|Corretiva|1|PLA-03|P10.10|15.06.2024  18:32:54|16.06.2024  20:49:33|17.06.2024  00:20:32|Washington J.O. Chaves|ELET|Ana Paula Ba|||
 V4212118|Bomba Nao Liga|Corretiva|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Washington J.O. Chaves|ELET|Denilson Apa|||
 V4212118|Bomba Nao Liga|Corretiva|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Bruno M. Moraes|MECA|Denilson Apa|||
@@ -19,3 +18,4 @@ O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiom
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024|||
 O4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|PLA-01|P10.11|Willians A. Rocha|Troca De Turno|17.06.2024|||
+O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Bruno M. Moraes|Troca De Turno|17.06.2024|||
