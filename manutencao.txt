@@ -1,20 +1,20 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212130|Alarme De Porta Dianteira|Corretiva|1|IJ-151|P10.3|17.06.2024  04:31:04|17.06.2024  04:41:26|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|THIAGO AVELI|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Mariana Mart|||
-A4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|1|IJ-118|P10.3|17.06.2024  04:29:03|17.06.2024  06:12:33|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|THIAGO AVELI|||
 A4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|00.00.0000  00:00:00|Tiago S. Muchon|ELET|Jefferson Da|||
 A4212128|Falha De Aquecimento - Lado Direito|Corretiva|1|EF-88|P10.7|17.06.2024  03:59:26|17.06.2024  06:26:38|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Ezequiel Apa|||
 A4212132|Acomulando Massa No Canhao|Corretiva|1|IJ-170|P10.5|17.06.2024  05:43:15|17.06.2024  07:27:50|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Moacir De Ol|||
 A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret|||
 A4212134|Erro Painel - Manutencao 15/06|Corretiva|1|IJ-112|P10.10|17.06.2024  06:57:33|17.06.2024  07:37:47|00.00.0000  00:00:00|Andre L. Costa|MECA|Fernando Hen|||
+A4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|1|IJ-118|P10.3|17.06.2024  04:29:03|17.06.2024  06:12:33|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|THIAGO AVELI|||
 V4212120|Falha No Aquecimento Do P/ 67|Corretiva|1|IJ-113|P10.6|17.06.2024  01:13:34|17.06.2024  02:13:17|17.06.2024  03:27:48|Washington J.O. Chaves|ELET|Rogerio Dos|||
 V4212122|Porta Da Frente Nao Fecha Ij-031|Corretiva|1|P10|P10|17.06.2024  01:31:16|17.06.2024  03:29:08|17.06.2024  04:40:37|Washington J.O. Chaves|ELET|Isac Natanae|||
 V4212121|Falha No Avanco Do Elevador Manipulador|Corretiva|1|MF-46|P10.9|17.06.2024  01:31:02|17.06.2024  01:44:14|17.06.2024  04:44:05|Bruno M. Moraes|MECA|Denilson Apa|||
-W4212133|Nao Inicia O Ciclo Seg-07 Eap14|Corretiva|1|P10|P10|17.06.2024  06:13:55|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Douglas de O|||
 W4212135|Maquina Nao Esta Injetando|Corretiva|1|IJ-125|P10.7|17.06.2024  07:11:47|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ezequiel Apa|||
 W4212135|Maquina Nao Esta Injetando|Corretiva|1|IJ-125|P10.7|17.06.2024  07:11:47|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Ezequiel Apa|||
 W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fabricia Oli|||
 W4212137|Esteira De Entrada Travada|Corretiva|1|ROP-06|P10.14|17.06.2024  07:43:20|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Adriano Souz|||
+W4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06.2024  08:21:07|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Heverton Sie|||
 W4212139|Esteira Parou De Funcionar|Corretiva|1|PE-07|P10.2|17.06.2024  07:47:10|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Talita da Si|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
