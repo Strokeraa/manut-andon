@@ -14,6 +14,7 @@ V4212145|Falha No Sopro|Corretiva|1|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024 
 W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fabricia Oli|||
 W4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06.2024  08:21:07|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Heverton Sie|||
 W4212147|Esteira De Saida Nao Gira|Corretiva|1|MI-102|P10.9|17.06.2024  12:46:58|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
+W4212154|Pistao Solto|Corretiva|1|P10|P10|17.06.2024  14:27:53|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|ANTONIO MARC|||
 W4212150|Conserto Da Pistola De Aplicacao|Corretiva|2|BT-11|P10.12|17.06.2024  14:24:17|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Adriano Souz|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
