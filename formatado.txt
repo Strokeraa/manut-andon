@@ -14,7 +14,6 @@ W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|1|MG-12|P10.9|17.06.2024  07:1
 W4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|MECA|Adriano Souz
 W4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|MECA|Heverton Sie
 W4212145|Falha No Sopro|1|MF-51|P10.8|17.06.2024  10:22:16|MECA|Claudiney Pi
-W4212144|Falha No Sopro|4|MF-15|P10.9|17.06.2024  10:14:31|00.00.0000  00:00:00|17.06.2024  10:30:22|MECA|Claudiney Pi
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
