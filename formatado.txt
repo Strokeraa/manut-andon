@@ -4,7 +4,6 @@ A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.202
 A4212134|Erro Painel - Manutencao 15/06|1|IJ-112|P10.10|17.06.2024  06:57:33|17.06.2024  07:37:47|Andre L. Costa|MECA|Fernando Hen
 A4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|Marcus V. Nunes|MECA|Adriano Souz
 N4212145|Falha No Sopro|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Claudiney Pi
-V4212132|Acomulando Massa No Canhao|1|IJ-170|P10.5|17.06.2024  05:43:15|17.06.2024  07:27:50|17.06.2024  09:17:38|Marcus V. Nunes|MECA|Moacir De Ol
 V4212135|Maquina Nao Esta Injetando|1|IJ-125|P10.7|17.06.2024  07:11:47|17.06.2024  09:18:18|17.06.2024  10:46:51|Marcus V. Nunes|MECA|Ezequiel Apa
 V4212128|Falha De Aquecimento - Lado Direito|1|EF-88|P10.7|17.06.2024  03:59:26|17.06.2024  06:26:38|17.06.2024  11:01:34|Cosme Cicero da Silva|ELET|Ezequiel Apa
 V4212146|Falha Regua Encoden Mesa Movel|1|IJ-039|P10.7|17.06.2024  11:44:45|17.06.2024  14:05:08|17.06.2024  15:01:29|Cosme Cicero da Silva|ELET|Mauricio Alv
