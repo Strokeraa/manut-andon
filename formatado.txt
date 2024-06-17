@@ -10,6 +10,7 @@ V4212120|Falha No Aquecimento Do P/ 67|1|IJ-113|P10.6|17.06.2024  01:13:34|17.06
 V4212122|Porta Da Frente Nao Fecha Ij-031|1|P10|P10|17.06.2024  01:31:16|17.06.2024  03:29:08|17.06.2024  04:40:37|Washington J.O. Chaves|ELET|Isac Natanae
 V4212121|Falha No Avanco Do Elevador Manipulador|1|MF-46|P10.9|17.06.2024  01:31:02|17.06.2024  01:44:14|17.06.2024  04:44:05|Bruno M. Moraes|MECA|Denilson Apa
 W4212128|Falha De Aquecimento - Lado Direito|1|EF-88|P10.7|17.06.2024  03:59:26|ELET|Ezequiel Apa
+W4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|ELET|Jefferson Da
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212051|Cilindro Da Pinca Nao Gira|MF-73|P10.8|Cosme Cicero da Silva|Aguardando Material/peca|14.06.2024
