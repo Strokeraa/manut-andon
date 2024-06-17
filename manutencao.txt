@@ -6,6 +6,7 @@ A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.
 A4212154|Pistao Solto|Corretiva|1|P10|P10|17.06.2024  14:27:53|17.06.2024  16:07:43|00.00.0000  00:00:00|Marcus V. Nunes|MECA|ANTONIO MARC|||
 A4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|00.00.0000  00:00:00|Diego Marques Duarte|ELET|Jefferson Da|||
 A4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|00.00.0000  00:00:00|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie|||
+A4212147|Esteira De Saida Nao Gira|Corretiva|1|MI-102|P10.9|17.06.2024  12:46:58|17.06.2024  16:41:51|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Jefferson Da|||
 V4212145|Falha No Sopro|Corretiva|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|17.06.2024  16:21:50|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi|||
 V4212135|Maquina Nao Esta Injetando|Corretiva|1|IJ-125|P10.7|17.06.2024  07:11:47|17.06.2024  09:18:18|17.06.2024  10:46:51|Marcus V. Nunes|MECA|Ezequiel Apa|||
 V4212128|Falha De Aquecimento - Lado Direito|Corretiva|1|EF-88|P10.7|17.06.2024  03:59:26|17.06.2024  06:26:38|17.06.2024  11:01:34|Cosme Cicero da Silva|ELET|Ezequiel Apa|||
@@ -13,7 +14,8 @@ V4212146|Falha Regua Encoden Mesa Movel|Corretiva|1|IJ-039|P10.7|17.06.2024  11:
 V4212137|Esteira De Entrada Travada|Corretiva|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|17.06.2024  16:02:28|Marcus V. Nunes|MECA|Adriano Souz|||
 V4212150|Conserto Da Pistola De Aplicacao|Corretiva|2|BT-11|P10.12|17.06.2024  14:24:17|17.06.2024  15:29:44|17.06.2024  16:10:11|GERSON LUIS DE FREITAS|MECA|Adriano Souz|||
 W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fabricia Oli|||
-W4212147|Esteira De Saida Nao Gira|Corretiva|1|MI-102|P10.9|17.06.2024  12:46:58|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
+W4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024  16:40:37|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jose Alcimar|||
+W4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024  16:40:37|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Jose Alcimar|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
