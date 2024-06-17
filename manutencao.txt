@@ -15,7 +15,6 @@ W4212135|Maquina Nao Esta Injetando|Corretiva|1|IJ-125|P10.7|17.06.2024  07:11:4
 W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fabricia Oli|||
 W4212137|Esteira De Entrada Travada|Corretiva|1|ROP-06|P10.14|17.06.2024  07:43:20|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Adriano Souz|||
 W4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06.2024  08:21:07|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Heverton Sie|||
-W4212139|Esteira Parou De Funcionar|Corretiva|1|PE-07|P10.2|17.06.2024  07:47:10|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Talita da Si|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
