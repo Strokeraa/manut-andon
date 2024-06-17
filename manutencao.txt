@@ -1,11 +1,11 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Willians A. Rocha|ELET|Mariana Mart|||
-A4212119|Queda Do Parametro 62|Corretiva|1|IJ-133|P10.9|17.06.2024  00:34:56|17.06.2024  01:17:54|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|Ezequiel Apa|||
 A4212121|Falha No Avanco Do Elevador Manipulador|Corretiva|1|MF-46|P10.9|17.06.2024  01:31:02|17.06.2024  01:44:14|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Denilson Apa|||
+A4212120|Falha No Aquecimento Do P/ 67|Corretiva|1|IJ-113|P10.6|17.06.2024  01:13:34|17.06.2024  02:13:17|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|Rogerio Dos|||
 V4212117|Queima Do Fusivel Do Gerador.|Corretiva|1|PLA-03|P10.10|15.06.2024  18:32:54|16.06.2024  20:49:33|17.06.2024  00:20:32|Washington J.O. Chaves|ELET|Ana Paula Ba|||
 V4212118|Bomba Nao Liga|Corretiva|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Washington J.O. Chaves|ELET|Denilson Apa|||
 V4212118|Bomba Nao Liga|Corretiva|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Bruno M. Moraes|MECA|Denilson Apa|||
-W4212120|Falha No Aquecimento Do P/ 67|Corretiva|1|IJ-113|P10.6|17.06.2024  01:13:34|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Rogerio Dos|||
+V4212119|Queda Do Parametro 62|Corretiva|1|IJ-133|P10.9|17.06.2024  00:34:56|17.06.2024  01:17:54|17.06.2024  02:12:58|Washington J.O. Chaves|ELET|Ezequiel Apa|||
 W4212122|Porta Da Frente Nao Fecha Ij-031|Corretiva|1|P10|P10|17.06.2024  01:31:16|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Isac Natanae|||
 W4212122|Porta Da Frente Nao Fecha Ij-031|Corretiva|1|P10|P10|17.06.2024  01:31:16|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Isac Natanae|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
