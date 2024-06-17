@@ -4,6 +4,7 @@ A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart|||
 A4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|00.00.0000  00:00:00|Diego Marques Duarte|ELET|Jefferson Da|||
 A4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|00.00.0000  00:00:00|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie|||
+A4212163|Nao Inicia Ciclo|Corretiva|1|MG-05|P10.9|17.06.2024  18:30:21|17.06.2024  19:27:53|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu|||
 V4212145|Falha No Sopro|Corretiva|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|17.06.2024  16:21:50|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi|||
 V4212146|Falha Regua Encoden Mesa Movel|Corretiva|1|IJ-039|P10.7|17.06.2024  11:44:45|17.06.2024  14:05:08|17.06.2024  15:01:29|Cosme Cicero da Silva|ELET|Mauricio Alv|||
 V4212137|Esteira De Entrada Travada|Corretiva|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|17.06.2024  16:02:28|Marcus V. Nunes|MECA|Adriano Souz|||
@@ -14,7 +15,6 @@ W4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024
 W4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024  16:40:37|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Jose Alcimar|||
 W4212161|Verificar Se O Aparelho Esta Carregando|Corretiva|1|EF-97|P10.11|17.06.2024  17:07:50|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ana Paula Ba|||
 W4212162|Falha No Captador De Molas|Corretiva|1|ML-43|P10.8|17.06.2024  18:17:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Felipe Ibane|||
-W4212163|Nao Inicia Ciclo|Corretiva|1|MG-05|P10.9|17.06.2024  18:30:21|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Adriano Eleu|||
 W4212164|Soltou A Mesa Da Prensa|Corretiva|1|PH-31|P10.12|17.06.2024  18:32:02|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Cleber Domin|||
 W4212165|Parafuso Espanado Do Limitador|Corretiva|2|SEG-06|P10.14|17.06.2024  19:02:35|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luciano de P|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
