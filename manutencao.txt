@@ -7,7 +7,6 @@ A4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:
 A4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|00.00.0000  00:00:00|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie|||
 A4212147|Esteira De Saida Nao Gira|Corretiva|1|MI-102|P10.9|17.06.2024  12:46:58|17.06.2024  16:41:51|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Jefferson Da|||
 V4212145|Falha No Sopro|Corretiva|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|17.06.2024  16:21:50|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi|||
-V4212128|Falha De Aquecimento - Lado Direito|Corretiva|1|EF-88|P10.7|17.06.2024  03:59:26|17.06.2024  06:26:38|17.06.2024  11:01:34|Cosme Cicero da Silva|ELET|Ezequiel Apa|||
 V4212146|Falha Regua Encoden Mesa Movel|Corretiva|1|IJ-039|P10.7|17.06.2024  11:44:45|17.06.2024  14:05:08|17.06.2024  15:01:29|Cosme Cicero da Silva|ELET|Mauricio Alv|||
 V4212137|Esteira De Entrada Travada|Corretiva|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|17.06.2024  16:02:28|Marcus V. Nunes|MECA|Adriano Souz|||
 V4212154|Pistao Solto|Corretiva|1|P10|P10|17.06.2024  14:27:53|17.06.2024  16:07:43|17.06.2024  16:59:02|Marcus V. Nunes|MECA|ANTONIO MARC|||
