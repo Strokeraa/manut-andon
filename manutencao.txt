@@ -1,6 +1,7 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212130|Alarme De Porta Dianteira|Corretiva|1|IJ-151|P10.3|17.06.2024  04:31:04|17.06.2024  04:41:26|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|THIAGO AVELI|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Mariana Mart|||
+A4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|1|IJ-118|P10.3|17.06.2024  04:29:03|17.06.2024  06:12:33|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|THIAGO AVELI|||
 V4212117|Queima Do Fusivel Do Gerador.|Corretiva|1|PLA-03|P10.10|15.06.2024  18:32:54|16.06.2024  20:49:33|17.06.2024  00:20:32|Washington J.O. Chaves|ELET|Ana Paula Ba|||
 V4212118|Bomba Nao Liga|Corretiva|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Washington J.O. Chaves|ELET|Denilson Apa|||
 V4212118|Bomba Nao Liga|Corretiva|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Bruno M. Moraes|MECA|Denilson Apa|||
@@ -12,10 +13,10 @@ W4212128|Falha De Aquecimento - Lado Direito|Corretiva|1|EF-88|P10.7|17.06.2024 
 W4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
 W4212132|Acomulando Massa No Canhao|Corretiva|1|IJ-170|P10.5|17.06.2024  05:43:15|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Moacir De Ol|||
 W4212132|Acomulando Massa No Canhao|Corretiva|1|IJ-170|P10.5|17.06.2024  05:43:15|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Moacir De Ol|||
+W4212133|Nao Inicia O Ciclo Seg-07 Eap14|Corretiva|1|P10|P10|17.06.2024  06:13:55|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Douglas de O|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212051|Cilindro Da Pinca Nao Gira|Corretiva|MF-73|P10.8|Cosme Cicero da Silva|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|Corretiva|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024|||
-O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Bruno M. Moraes|Troca De Turno|17.06.2024|||
