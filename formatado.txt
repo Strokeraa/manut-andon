@@ -1,7 +1,6 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212130|Alarme De Porta Dianteira|1|IJ-151|P10.3|17.06.2024  04:31:04|17.06.2024  04:41:26|Washington J.O. Chaves|ELET|THIAGO AVELI
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
-A4212134|Erro Painel - Manutencao 15/06|1|IJ-112|P10.10|17.06.2024  06:57:33|17.06.2024  07:37:47|Andre L. Costa|MECA|Fernando Hen
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|Diego Marques Duarte|ELET|Jefferson Da
 A4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
@@ -20,3 +19,4 @@ O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|C
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Troca De Turno|17.06.2024
+O4212134|Erro Painel - Manutencao 15/06|IJ-112|P10.10|Felipe Candido|Troca De Turno|17.06.2024
