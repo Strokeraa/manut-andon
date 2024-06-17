@@ -7,7 +7,6 @@ A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16
 A4212134|Erro Painel - Manutencao 15/06|Corretiva|1|IJ-112|P10.10|17.06.2024  06:57:33|17.06.2024  07:37:47|00.00.0000  00:00:00|Andre L. Costa|MECA|Fernando Hen|||
 A4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|1|IJ-118|P10.3|17.06.2024  04:29:03|17.06.2024  06:12:33|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|THIAGO AVELI|||
 A4212135|Maquina Nao Esta Injetando|Corretiva|1|IJ-125|P10.7|17.06.2024  07:11:47|17.06.2024  09:18:18|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Ezequiel Apa|||
-V4212120|Falha No Aquecimento Do P/ 67|Corretiva|1|IJ-113|P10.6|17.06.2024  01:13:34|17.06.2024  02:13:17|17.06.2024  03:27:48|Washington J.O. Chaves|ELET|Rogerio Dos|||
 V4212122|Porta Da Frente Nao Fecha Ij-031|Corretiva|1|P10|P10|17.06.2024  01:31:16|17.06.2024  03:29:08|17.06.2024  04:40:37|Washington J.O. Chaves|ELET|Isac Natanae|||
 V4212121|Falha No Avanco Do Elevador Manipulador|Corretiva|1|MF-46|P10.9|17.06.2024  01:31:02|17.06.2024  01:44:14|17.06.2024  04:44:05|Bruno M. Moraes|MECA|Denilson Apa|||
 V4212132|Acomulando Massa No Canhao|Corretiva|1|IJ-170|P10.5|17.06.2024  05:43:15|17.06.2024  07:27:50|17.06.2024  09:17:38|Marcus V. Nunes|MECA|Moacir De Ol|||
