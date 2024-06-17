@@ -6,12 +6,10 @@ A4212128|Falha De Aquecimento - Lado Direito|1|EF-88|P10.7|17.06.2024  03:59:26|
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
 A4212134|Erro Painel - Manutencao 15/06|1|IJ-112|P10.10|17.06.2024  06:57:33|17.06.2024  07:37:47|Andre L. Costa|MECA|Fernando Hen
 A4212129|Vazamento De Oleo Na Unidade De Injecao|1|IJ-118|P10.3|17.06.2024  04:29:03|17.06.2024  06:12:33|Paulo R. Oliveira|MECA|THIAGO AVELI
-A4212135|Maquina Nao Esta Injetando|1|IJ-125|P10.7|17.06.2024  07:11:47|17.06.2024  09:18:18|Marcus V. Nunes|MECA|Ezequiel Apa
-V4212122|Porta Da Frente Nao Fecha Ij-031|1|P10|P10|17.06.2024  01:31:16|17.06.2024  03:29:08|17.06.2024  04:40:37|Washington J.O. Chaves|ELET|Isac Natanae
-V4212121|Falha No Avanco Do Elevador Manipulador|1|MF-46|P10.9|17.06.2024  01:31:02|17.06.2024  01:44:14|17.06.2024  04:44:05|Bruno M. Moraes|MECA|Denilson Apa
+A4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|Marcus V. Nunes|MECA|Adriano Souz
 V4212132|Acomulando Massa No Canhao|1|IJ-170|P10.5|17.06.2024  05:43:15|17.06.2024  07:27:50|17.06.2024  09:17:38|Marcus V. Nunes|MECA|Moacir De Ol
+V4212135|Maquina Nao Esta Injetando|1|IJ-125|P10.7|17.06.2024  07:11:47|17.06.2024  09:18:18|17.06.2024  10:46:51|Marcus V. Nunes|MECA|Ezequiel Apa
 W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|1|MG-12|P10.9|17.06.2024  07:12:56|ELET|Fabricia Oli
-W4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|MECA|Adriano Souz
 W4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|MECA|Heverton Sie
 W4212145|Falha No Sopro|1|MF-51|P10.8|17.06.2024  10:22:16|MECA|Claudiney Pi
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
