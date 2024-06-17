@@ -1,6 +1,7 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212118|Bomba Nao Liga|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|Washington J.O. Chaves|ELET|Denilson Apa
 A4212118|Bomba Nao Liga|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|Bruno M. Moraes|MECA|Denilson Apa
+A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Willians A. Rocha|ELET|Mariana Mart
 V4212117|Queima Do Fusivel Do Gerador.|1|PLA-03|P10.10|15.06.2024  18:32:54|16.06.2024  20:49:33|17.06.2024  00:20:32|Washington J.O. Chaves|ELET|Ana Paula Ba
 W4212119|Queda Do Parametro 62|1|IJ-133|P10.9|17.06.2024  00:34:56|ELET|Ezequiel Apa
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
@@ -9,4 +10,3 @@ O4212051|Cilindro Da Pinca Nao Gira|MF-73|P10.8|Cosme Cicero da Silva|Aguardando
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212070|Trocar Mangueira Do Cilindro Da Mesa De|IJ-031|P10.7|Diego Marques Duarte|Aguardando Material/peca|14.06.2024
-O4212093|Falha Na Molhabilidade Itens Pequenos.|PLA-01|P10.11|Tiago S. Muchon|Troca De Turno|15.06.2024
