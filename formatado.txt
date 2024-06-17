@@ -1,7 +1,7 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Willians A. Rocha|ELET|Mariana Mart
 A4212121|Falha No Avanco Do Elevador Manipulador|1|MF-46|P10.9|17.06.2024  01:31:02|17.06.2024  01:44:14|Bruno M. Moraes|MECA|Denilson Apa
-A4212122|Porta Da Frente Nao Fecha Ij-031|1|P10|P10|17.06.2024  01:31:16|17.06.2024  03:29:08|Washington J.O. Chaves|ELET|Isac Natanae
+A4212122|Porta Da Frente Nao Fecha Ij-031|1|P10|P10|17.06.2024  01:31:16|17.06.2024  03:29:08|17.06.2024  04:40:37|Washington J.O. Chaves|ELET|Isac Natanae
 V4212117|Queima Do Fusivel Do Gerador.|1|PLA-03|P10.10|15.06.2024  18:32:54|16.06.2024  20:49:33|17.06.2024  00:20:32|Washington J.O. Chaves|ELET|Ana Paula Ba
 V4212118|Bomba Nao Liga|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Washington J.O. Chaves|ELET|Denilson Apa
 V4212118|Bomba Nao Liga|1|PV-124|P10.2|17.06.2024  00:05:54|17.06.2024  00:24:17|17.06.2024  01:43:40|Bruno M. Moraes|MECA|Denilson Apa
