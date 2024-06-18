@@ -10,6 +10,7 @@ W4212169|Falha No Sensor De Leitura De Subida Do|Corretiva|1|IJ-135|P10.11|18.06
 W4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luiz Fernand|||
 W4212175|Falha Na Trava Do Kit|Corretiva|1|IJ-017|P10.6|18.06.2024  09:00:49|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Heverton Sie|||
 W4212175|Falha Na Trava Do Kit|Corretiva|1|IJ-017|P10.6|18.06.2024  09:00:49|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Heverton Sie|||
+W4212177|Desligando Constantemente Aquecimento|Corretiva|1|IJ-158|P10.10|18.06.2024  10:00:33|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fernando Hen|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
