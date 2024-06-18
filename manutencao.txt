@@ -9,6 +9,7 @@ V4212166|Esteira Descentralizada|Corretiva|2|TU-12|P10|17.06.2024  21:44:30|17.0
 W4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|1|P10|P10|17.06.2024  22:04:16|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Ana Paula Ba|||
 W4212168|Falha No Micro Do Varao De Abertura|Corretiva|1|IJ-164|P10.6|18.06.2024  03:27:10|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Rafael Ferna|||
 W4212169|Falha No Sensor De Leitura De Subida Do|Corretiva|1|IJ-135|P10.11|18.06.2024  04:32:19|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Mariana Mart|||
+W4212170|Vacuo Insuficiente|Corretiva|1|IJ-022|P10.9|18.06.2024  05:28:31|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Denilson Apa|||
 W4212161|Verificar Se O Aparelho Esta Carregando|Corretiva|2|EF-97|P10.11|17.06.2024  17:07:50|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ana Paula Ba|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
