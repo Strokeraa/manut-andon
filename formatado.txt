@@ -2,9 +2,9 @@ A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
 A4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|1|P10|P10|17.06.2024  16:40:37|17.06.2024  20:47:25|Cosme Cicero da Silva|MECA|Jose Alcimar
 A4212164|Soltou A Mesa Da Prensa|1|PH-31|P10.12|17.06.2024  18:32:02|18.06.2024  06:10:49|Paulo R. Oliveira|MECA|Cleber Domin
+A4212168|Falha No Micro Do Varao De Abertura|1|IJ-164|P10.6|18.06.2024  03:27:10|18.06.2024  07:45:26|Andre L. Costa|ELET|Rafael Ferna
+A4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|1|P10|P10|17.06.2024  22:04:16|18.06.2024  07:46:43|Marcus V. Nunes|MECA|Ana Paula Ba
 V4212162|Falha No Captador De Molas|1|ML-43|P10.8|17.06.2024  18:17:56|18.06.2024  00:57:44|18.06.2024  03:17:08|Washington J.O. Chaves|ELET|Felipe Ibane
-W4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|1|P10|P10|17.06.2024  22:04:16|MECA|Ana Paula Ba
-W4212168|Falha No Micro Do Varao De Abertura|1|IJ-164|P10.6|18.06.2024  03:27:10|ELET|Rafael Ferna
 W4212169|Falha No Sensor De Leitura De Subida Do|1|IJ-135|P10.11|18.06.2024  04:32:19|ELET|Mariana Mart
 W4212170|Vacuo Insuficiente|1|IJ-022|P10.9|18.06.2024  05:28:31|MECA|Denilson Apa
 W4212171|Falha Na Aplicacao Da Cola (vazamento)|1|BD-02|P10.10|18.06.2024  06:30:12|MECA|Luiz Fernand
