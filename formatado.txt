@@ -5,7 +5,6 @@ A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:4
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|GERSON LUIS DE FREITAS|MECA|Jefferson Da
 A4212183|Sensor De Borracha Nao Ta Lendo|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 A4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|Felipe Candido|MECA|Ricardo De O
-V4212177|Desligando Constantemente Aquecimento|1|IJ-158|P10.10|18.06.2024  10:00:33|18.06.2024  11:20:43|18.06.2024  14:11:20|Cosme Cicero da Silva|ELET|Fernando Hen
 V4212164|Soltou A Mesa Da Prensa|1|PH-31|P10.12|17.06.2024  18:32:02|18.06.2024  06:10:49|18.06.2024  15:01:53|Paulo R. Oliveira|MECA|Cleber Domin
 V4212169|Falha No Sensor De Leitura De Subida Do|1|IJ-135|P10.11|18.06.2024  04:32:19|18.06.2024  15:23:29|18.06.2024  16:34:30|Claudiomiro Aparecido de Souza|ELET|Mariana Mart
 V4212181|Falha No Sensor Da Porta|1|IJ-036|P10.7|18.06.2024  13:17:36|18.06.2024  15:57:52|18.06.2024  17:26:24|Diego Marques Duarte|ELET|Ezequiel Apa
