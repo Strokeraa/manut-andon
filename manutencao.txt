@@ -8,7 +8,6 @@ V4212141|Quebra Do Parafuso De Fixacao Do Conj In|Corretiva|1|IJ-162|P10.6|17.06
 V4212163|Nao Inicia Ciclo|Corretiva|1|MG-05|P10.9|17.06.2024  18:30:21|17.06.2024  19:27:53|17.06.2024  23:59:38|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu|||
 V4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|17.06.2024  23:23:41|18.06.2024  00:56:35|Washington J.O. Chaves|ELET|Fabricia Oli|||
 V4212162|Falha No Captador De Molas|Corretiva|1|ML-43|P10.8|17.06.2024  18:17:56|18.06.2024  00:57:44|18.06.2024  03:17:08|Washington J.O. Chaves|ELET|Felipe Ibane|||
-V4212165|Parafuso Espanado Do Limitador|Corretiva|2|SEG-06|P10.14|17.06.2024  19:02:35|17.06.2024  21:07:19|17.06.2024  21:43:41|GERSON LUIS DE FREITAS|MECA|Luciano de P|||
 V4212166|Esteira Descentralizada|Corretiva|2|TU-12|P10|17.06.2024  21:44:30|17.06.2024  21:45:38|17.06.2024  23:47:00|GERSON LUIS DE FREITAS|MECA|Caio Allan S|||
 W4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|1|P10|P10|17.06.2024  22:04:16|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Ana Paula Ba|||
 W4212168|Falha No Micro Do Varao De Abertura|Corretiva|1|IJ-164|P10.6|18.06.2024  03:27:10|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Rafael Ferna|||
