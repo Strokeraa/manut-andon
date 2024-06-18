@@ -1,7 +1,6 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret|||
 A4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|P10|P10|17.06.2024  16:40:37|17.06.2024  20:47:25|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Jose Alcimar|||
-V4212163|Nao Inicia Ciclo|Corretiva|1|MG-05|P10.9|17.06.2024  18:30:21|17.06.2024  19:27:53|17.06.2024  23:59:38|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu|||
 V4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|17.06.2024  23:23:41|18.06.2024  00:56:35|Washington J.O. Chaves|ELET|Fabricia Oli|||
 V4212162|Falha No Captador De Molas|Corretiva|1|ML-43|P10.8|17.06.2024  18:17:56|18.06.2024  00:57:44|18.06.2024  03:17:08|Washington J.O. Chaves|ELET|Felipe Ibane|||
 W4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|1|P10|P10|17.06.2024  22:04:16|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Ana Paula Ba|||
