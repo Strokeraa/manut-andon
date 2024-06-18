@@ -1,6 +1,7 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
 A4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|1|P10|P10|17.06.2024  16:40:37|17.06.2024  20:47:25|Cosme Cicero da Silva|MECA|Jose Alcimar
+A4212164|Soltou A Mesa Da Prensa|1|PH-31|P10.12|17.06.2024  18:32:02|18.06.2024  06:10:49|Paulo R. Oliveira|MECA|Cleber Domin
 V4212136|Maquina Aprovando Peca Sem Mola/mola Mal|1|MG-12|P10.9|17.06.2024  07:12:56|17.06.2024  23:23:41|18.06.2024  00:56:35|Washington J.O. Chaves|ELET|Fabricia Oli
 V4212162|Falha No Captador De Molas|1|ML-43|P10.8|17.06.2024  18:17:56|18.06.2024  00:57:44|18.06.2024  03:17:08|Washington J.O. Chaves|ELET|Felipe Ibane
 W4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|1|P10|P10|17.06.2024  22:04:16|MECA|Ana Paula Ba
@@ -15,5 +16,4 @@ O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparec
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024
 O4212131|Home Dos Bercos Fora De Posicao|FC-08|P10.9|Diego Marques Duarte|Aguardando Material/peca|18.06.2024
 O4212147|Esteira De Saida Nao Gira|MI-102|P10.9|Claudiomiro Aparecido de Souza|Aguardando Material/peca|17.06.2024
-O4212164|Soltou A Mesa Da Prensa|PH-31|P10.12|Bruno M. Moraes|Troca De Turno|18.06.2024
 O4212093|Falha Na Molhabilidade Itens Pequenos.|PLA-01|P10.11|Willians A. Rocha|Troca De Turno|18.06.2024
