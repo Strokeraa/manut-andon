@@ -1,16 +1,16 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret|||
 A4212164|Soltou A Mesa Da Prensa|Corretiva|1|PH-31|P10.12|17.06.2024  18:32:02|18.06.2024  06:10:49|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|Cleber Domin|||
-A4212170|Vacuo Insuficiente|Corretiva|1|IJ-022|P10.9|18.06.2024  05:28:31|18.06.2024  08:03:54|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Denilson Apa|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Mariana Mart|||
+A4212177|Desligando Constantemente Aquecimento|Corretiva|1|IJ-158|P10.10|18.06.2024  10:00:33|18.06.2024  11:20:43|00.00.0000  00:00:00|Cosme Cicero da Silva|ELET|Fernando Hen|||
+A4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Luiz Fernand|||
 V4212168|Falha No Micro Do Varao De Abertura|Corretiva|1|IJ-164|P10.6|18.06.2024  03:27:10|18.06.2024  07:45:26|18.06.2024  08:36:01|Andre L. Costa|ELET|Rafael Ferna|||
 V4212174|Falha Na Aplicacao De Mola|Corretiva|1|ML-46|P10.8|18.06.2024  08:15:53|18.06.2024  08:41:44|18.06.2024  10:31:20|Andre L. Costa|ELET|Alessandra A|||
 V4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|IJ-039|P10.7|17.06.2024  16:40:37|17.06.2024  20:47:25|18.06.2024  11:20:13|Cosme Cicero da Silva|MECA|Jose Alcimar|||
+V4212170|Vacuo Insuficiente|Corretiva|1|IJ-022|P10.9|18.06.2024  05:28:31|18.06.2024  08:03:54|18.06.2024  11:22:03|Marcus V. Nunes|MECA|Denilson Apa|||
 W4212169|Falha No Sensor De Leitura De Subida Do|Corretiva|1|IJ-135|P10.11|18.06.2024  04:32:19|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Mariana Mart|||
-W4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luiz Fernand|||
 W4212175|Falha Na Trava Do Kit|Corretiva|1|IJ-017|P10.6|18.06.2024  09:00:49|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Heverton Sie|||
 W4212175|Falha Na Trava Do Kit|Corretiva|1|IJ-017|P10.6|18.06.2024  09:00:49|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Heverton Sie|||
-W4212177|Desligando Constantemente Aquecimento|Corretiva|1|IJ-158|P10.10|18.06.2024  10:00:33|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Fernando Hen|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
