@@ -6,6 +6,7 @@ A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.0
 A4212141|Quebra Do Parafuso De Fixacao Do Conj In|1|IJ-162|P10.6|17.06.2024  08:21:07|17.06.2024  16:23:22|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
 A4212163|Nao Inicia Ciclo|1|MG-05|P10.9|17.06.2024  18:30:21|17.06.2024  19:27:53|Claudiomiro Aparecido de Souza|ELET|Adriano Eleu
 A4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|1|P10|P10|17.06.2024  16:40:37|17.06.2024  20:47:25|Marcos A. Farias|MECA|Jose Alcimar
+A4212165|Parafuso Espanado Do Limitador|2|SEG-06|P10.14|17.06.2024  19:02:35|17.06.2024  21:07:19|GERSON LUIS DE FREITAS|MECA|Luciano de P
 V4212145|Falha No Sopro|0|MF-51|P10.8|17.06.2024  10:22:16|17.06.2024  11:03:08|17.06.2024  16:21:50|Marco Aurelio Maciel Zucoloto|MECA|Claudiney Pi
 V4212137|Esteira De Entrada Travada|1|ROP-06|P10.14|17.06.2024  07:43:20|17.06.2024  10:55:54|17.06.2024  16:02:28|Marcus V. Nunes|MECA|Adriano Souz
 V4212154|Pistao Solto|1|P10|P10|17.06.2024  14:27:53|17.06.2024  16:07:43|17.06.2024  16:59:02|Marcus V. Nunes|MECA|ANTONIO MARC
@@ -14,7 +15,6 @@ W4212136|Maquina Aprovando Peca Sem Mola/mola Mal|1|MG-12|P10.9|17.06.2024  07:1
 W4212161|Verificar Se O Aparelho Esta Carregando|1|EF-97|P10.11|17.06.2024  17:07:50|ELET|Ana Paula Ba
 W4212162|Falha No Captador De Molas|1|ML-43|P10.8|17.06.2024  18:17:56|ELET|Felipe Ibane
 W4212164|Soltou A Mesa Da Prensa|1|PH-31|P10.12|17.06.2024  18:32:02|MECA|Cleber Domin
-W4212165|Parafuso Espanado Do Limitador|2|SEG-06|P10.14|17.06.2024  19:02:35|MECA|Luciano de P
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
 O4212015|Alinhar Correia Da Esteira|SA-20|P10.8|Claudiomiro Aparecido de Souza|Com Material Comprado|13.06.2024
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
