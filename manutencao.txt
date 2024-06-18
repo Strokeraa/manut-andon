@@ -1,6 +1,5 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret|||
-A4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|00.00.0000  00:00:00|Diego Marques Duarte|ELET|Jefferson Da|||
 A4212136|Maquina Aprovando Peca Sem Mola/mola Mal|Corretiva|1|MG-12|P10.9|17.06.2024  07:12:56|17.06.2024  23:23:41|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|Fabricia Oli|||
 A4212164|Soltou A Mesa Da Prensa|Corretiva|1|PH-31|P10.12|17.06.2024  18:32:02|17.06.2024  23:35:02|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Cleber Domin|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Willians A. Rocha|ELET|Mariana Mart|||
@@ -18,5 +17,6 @@ O4212015|Alinhar Correia Da Esteira|Corretiva|SA-20|P10.8|Claudiomiro Aparecido 
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024|||
+O4212131|Home Dos Bercos Fora De Posicao|Corretiva|FC-08|P10.9|Diego Marques Duarte|Aguardando Material/peca|18.06.2024|||
 O4212147|Esteira De Saida Nao Gira|Corretiva|MI-102|P10.9|Claudiomiro Aparecido de Souza|Aguardando Material/peca|17.06.2024|||
 O4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|P10|P10|Marcos A. Farias|Troca De Turno|17.06.2024|||
