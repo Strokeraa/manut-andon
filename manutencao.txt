@@ -3,6 +3,7 @@ A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Luiz Fernand|||
 A4212169|Falha No Sensor De Leitura De Subida Do|Corretiva|1|IJ-135|P10.11|18.06.2024  04:32:19|18.06.2024  15:23:29|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Mariana Mart|||
 A4212175|Falha Na Trava Do Kit|Corretiva|1|IJ-017|P10.6|18.06.2024  09:00:49|18.06.2024  15:30:01|00.00.0000  00:00:00|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie|||
+A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart|||
 A4212015|Alinhar Correia Da Esteira|Corretiva|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|00.00.0000  00:00:00|Felipe Candido|MECA|Ricardo De O|||
 V4212174|Falha Na Aplicacao De Mola|Corretiva|1|ML-46|P10.8|18.06.2024  08:15:53|18.06.2024  08:41:44|18.06.2024  10:31:20|Andre L. Costa|ELET|Alessandra A|||
 V4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|IJ-039|P10.7|17.06.2024  16:40:37|17.06.2024  20:47:25|18.06.2024  11:20:13|Cosme Cicero da Silva|MECA|Jose Alcimar|||
@@ -18,4 +19,3 @@ O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R.
 O4212131|Home Dos Bercos Fora De Posicao|Corretiva|FC-08|P10.9|Diego Marques Duarte|Aguardando Material/peca|18.06.2024|||
 O4212147|Esteira De Saida Nao Gira|Corretiva|MI-102|P10.9|Claudiomiro Aparecido de Souza|Aguardando Material/peca|17.06.2024|||
 O4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|P10|P10|Marcus V. Nunes|Executando Outro Servico|18.06.2024|||
-O4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|PLA-01|P10.11|Bruno H. Oliveira|Troca De Turno|18.06.2024|||
