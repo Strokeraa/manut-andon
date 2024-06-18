@@ -6,7 +6,6 @@ A4212181|Falha No Sensor Da Porta|Corretiva|1|IJ-036|P10.7|18.06.2024  13:17:36|
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart|||
 A4212185|Esteira De Entrada Travada|Corretiva|1|ML-91|P10.9|18.06.2024  15:37:08|18.06.2024  16:35:11|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|MECA|Kelly Cristi|||
 A4212015|Alinhar Correia Da Esteira|Corretiva|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|00.00.0000  00:00:00|Felipe Candido|MECA|Ricardo De O|||
-V4212174|Falha Na Aplicacao De Mola|Corretiva|1|ML-46|P10.8|18.06.2024  08:15:53|18.06.2024  08:41:44|18.06.2024  10:31:20|Andre L. Costa|ELET|Alessandra A|||
 V4212160|Ij-039 Parametro 63 Nao Esta Aquecendo C|Corretiva|1|IJ-039|P10.7|17.06.2024  16:40:37|17.06.2024  20:47:25|18.06.2024  11:20:13|Cosme Cicero da Silva|MECA|Jose Alcimar|||
 V4212170|Vacuo Insuficiente|Corretiva|1|IJ-022|P10.9|18.06.2024  05:28:31|18.06.2024  08:03:54|18.06.2024  11:22:03|Marcus V. Nunes|MECA|Denilson Apa|||
 V4212177|Desligando Constantemente Aquecimento|Corretiva|1|IJ-158|P10.10|18.06.2024  10:00:33|18.06.2024  11:20:43|18.06.2024  14:11:20|Cosme Cicero da Silva|ELET|Fernando Hen|||
