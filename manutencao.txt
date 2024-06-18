@@ -12,6 +12,8 @@ V4212177|Desligando Constantemente Aquecimento|Corretiva|1|IJ-158|P10.10|18.06.2
 V4212164|Soltou A Mesa Da Prensa|Corretiva|1|PH-31|P10.12|17.06.2024  18:32:02|18.06.2024  06:10:49|18.06.2024  15:01:53|Paulo R. Oliveira|MECA|Cleber Domin|||
 W4212181|Falha No Sensor Da Porta|Corretiva|1|IJ-036|P10.7|18.06.2024  13:17:36|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ezequiel Apa|||
 W4212183|Sensor De Borracha Nao Ta Lendo|Corretiva|1|ML-80|P10.9|18.06.2024  14:50:56|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Jefferson Da|||
+W4212185|Esteira De Entrada Travada|Corretiva|1|ML-91|P10.9|18.06.2024  15:37:08|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
+W4212185|Esteira De Entrada Travada|Corretiva|1|ML-91|P10.9|18.06.2024  15:37:08|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Kelly Cristi|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
