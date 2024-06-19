@@ -1,9 +1,9 @@
-A4212188|Temperatura Da Base Caindo.|Corretiva|0|MOD-5/11|P10.2|18.06.2024  17:41:02|19.06.2024  05:23:37|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|Severino Cam|||
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret|||
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Luiz Fernand|||
 A4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|1|P10|P10|17.06.2024  22:04:16|19.06.2024  01:25:59|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Ana Paula Ba|||
 V4212187|Teperatura Da Base Caindo.|Corretiva|0|MOD-5/10|P10.2|18.06.2024  17:36:18|19.06.2024  05:02:23|19.06.2024  05:23:09|Washington J.O. Chaves|ELET|Severino Cam|||
+V4212188|Temperatura Da Base Caindo.|Corretiva|0|MOD-5/11|P10.2|18.06.2024  17:41:02|19.06.2024  05:23:37|19.06.2024  05:50:25|Washington J.O. Chaves|ELET|Severino Cam|||
 V4212192|Monitor Nao Liga|Corretiva|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|19.06.2024  00:21:51|Washington J.O. Chaves|MECA|Elaine Crist|||
 V4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|19.06.2024  02:17:33|Bruno M. Moraes|MECA|Jefferson Da|||
 V4212193|Falha No Vacuostato - Manipulador 01|Corretiva|1|MF-42|P10.8|19.06.2024  00:32:52|19.06.2024  02:18:30|19.06.2024  03:35:53|Washington J.O. Chaves|ELET|Ezequiel Apa|||
