@@ -1,17 +1,17 @@
+A4212187|Teperatura Da Base Caindo.|0|MOD-5/10|P10.2|18.06.2024  17:36:18|19.06.2024  05:02:23|Washington J.O. Chaves|ELET|Severino Cam
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|Marcus V. Nunes|MECA|Luiz Fernand
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Willians A. Rocha|ELET|Mariana Mart
 A4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|1|P10|P10|17.06.2024  22:04:16|19.06.2024  01:25:59|Bruno M. Moraes|MECA|Ana Paula Ba
-A4212194|Queda De Temperatura Parametro 65|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|Washington J.O. Chaves|ELET|Isac Natanae
-N4212187|Teperatura Da Base Caindo.|0|MOD-5/10|P10.2|18.06.2024  17:36:18|18.06.2024  22:22:13|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Severino Cam
 N4212188|Temperatura Da Base Caindo.|0|MOD-5/11|P10.2|18.06.2024  17:41:02|18.06.2024  23:05:19|00.00.0000  00:00:00|Felipe Candido|ELET|Severino Cam
 V4212189|Seg-09 Eap14|1|P10|P10|18.06.2024  21:50:18|18.06.2024  23:05:03|18.06.2024  23:27:56|Washington J.O. Chaves|MECA|Luciano de P
 V4212192|Monitor Nao Liga|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|19.06.2024  00:21:51|Washington J.O. Chaves|MECA|Elaine Crist
 V4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|19.06.2024  02:17:33|Bruno M. Moraes|MECA|Jefferson Da
 V4212193|Falha No Vacuostato - Manipulador 01|1|MF-42|P10.8|19.06.2024  00:32:52|19.06.2024  02:18:30|19.06.2024  03:35:53|Washington J.O. Chaves|ELET|Ezequiel Apa
-V4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|18.06.2024  23:01:44|Felipe Candido|MECA|Ricardo De O
+V4212194|Queda De Temperatura Parametro 65|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|19.06.2024  05:02:00|Washington J.O. Chaves|ELET|Isac Natanae
 W4212186|Reprovando 100% Camera 2|1|MI-100|P10.9|18.06.2024  15:49:04|ELET|Kelly Cristi
+W4212195|Quebra Do Puxador|2|IJ-172|P10.11|19.06.2024  05:03:24|ELET|Mariana Mart
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024
