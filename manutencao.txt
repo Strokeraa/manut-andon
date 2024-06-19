@@ -5,7 +5,6 @@ A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.
 A4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|00.00.0000  00:00:00|GERSON LUIS DE FREITAS|MECA|Jefferson Da|||
 A4212183|Sensor De Borracha Nao Ta Lendo|Corretiva|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Jefferson Da|||
 A4212015|Alinhar Correia Da Esteira|Corretiva|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|00.00.0000  00:00:00|Felipe Candido|MECA|Ricardo De O|||
-V4212164|Soltou A Mesa Da Prensa|Corretiva|1|PH-31|P10.12|17.06.2024  18:32:02|18.06.2024  06:10:49|18.06.2024  15:01:53|Paulo R. Oliveira|MECA|Cleber Domin|||
 V4212169|Falha No Sensor De Leitura De Subida Do|Corretiva|1|IJ-135|P10.11|18.06.2024  04:32:19|18.06.2024  15:23:29|18.06.2024  16:34:30|Claudiomiro Aparecido de Souza|ELET|Mariana Mart|||
 V4212181|Falha No Sensor Da Porta|Corretiva|1|IJ-036|P10.7|18.06.2024  13:17:36|18.06.2024  15:57:52|18.06.2024  17:26:24|Diego Marques Duarte|ELET|Ezequiel Apa|||
 V4212175|Falha Na Trava Do Kit|Corretiva|1|IJ-017|P10.6|18.06.2024  09:00:49|18.06.2024  15:30:01|18.06.2024  17:44:15|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie|||
