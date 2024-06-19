@@ -3,12 +3,12 @@ A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.202
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|Marcus V. Nunes|MECA|Luiz Fernand
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|GERSON LUIS DE FREITAS|MECA|Jefferson Da
-A4212183|Sensor De Borracha Nao Ta Lendo|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 A4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|Felipe Candido|MECA|Ricardo De O
 V4212169|Falha No Sensor De Leitura De Subida Do|1|IJ-135|P10.11|18.06.2024  04:32:19|18.06.2024  15:23:29|18.06.2024  16:34:30|Claudiomiro Aparecido de Souza|ELET|Mariana Mart
 V4212181|Falha No Sensor Da Porta|1|IJ-036|P10.7|18.06.2024  13:17:36|18.06.2024  15:57:52|18.06.2024  17:26:24|Diego Marques Duarte|ELET|Ezequiel Apa
 V4212175|Falha Na Trava Do Kit|1|IJ-017|P10.6|18.06.2024  09:00:49|18.06.2024  15:30:01|18.06.2024  17:44:15|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
 V4212185|Esteira De Entrada Travada|1|ML-91|P10.9|18.06.2024  15:37:08|18.06.2024  16:35:11|18.06.2024  17:46:47|Claudiomiro Aparecido de Souza|MECA|Kelly Cristi
+V4212183|Sensor De Borracha Nao Ta Lendo|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|18.06.2024  22:17:10|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 W4212186|Reprovando 100% Camera 2|1|MI-100|P10.9|18.06.2024  15:49:04|ELET|Kelly Cristi
 W4212187|Teperatura Da Base Caindo.|1|MOD-5/10|P10.2|18.06.2024  17:36:18|ELET|Severino Cam
 W4212188|Temperatura Da Base Caindo.|1|MOD-5/11|P10.2|18.06.2024  17:41:02|ELET|Severino Cam
