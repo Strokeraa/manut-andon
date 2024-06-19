@@ -1,7 +1,7 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|Corretiva|1|IJ-130|P10.10|12.06.2024  06:42:08|00.00.0000  00:00:00|00.00.0000  00:00:00|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr|||
 A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret|||
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Luiz Fernand|||
-A4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|1|P10|P10|17.06.2024  22:04:16|19.06.2024  01:25:59|00.00.0000  00:00:00|Bruno M. Moraes|MECA|Ana Paula Ba|||
+A4212196|Ij-172 Quebra Do Puxador|Corretiva|1|P10|P10|19.06.2024  05:06:13|19.06.2024  05:58:16|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|Mariana Mart|||
 V4212187|Teperatura Da Base Caindo.|Corretiva|0|MOD-5/10|P10.2|18.06.2024  17:36:18|19.06.2024  05:02:23|19.06.2024  05:23:09|Washington J.O. Chaves|ELET|Severino Cam|||
 V4212188|Temperatura Da Base Caindo.|Corretiva|0|MOD-5/11|P10.2|18.06.2024  17:41:02|19.06.2024  05:23:37|19.06.2024  05:50:25|Washington J.O. Chaves|ELET|Severino Cam|||
 V4212192|Monitor Nao Liga|Corretiva|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|19.06.2024  00:21:51|Washington J.O. Chaves|MECA|Elaine Crist|||
@@ -10,10 +10,10 @@ V4212193|Falha No Vacuostato - Manipulador 01|Corretiva|1|MF-42|P10.8|19.06.2024
 V4212194|Queda De Temperatura Parametro 65|Corretiva|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|19.06.2024  05:02:00|Washington J.O. Chaves|ELET|Isac Natanae|||
 V4212195|Quebra Do Puxador|Corretiva|2|IJ-172|P10.11|19.06.2024  05:03:24|19.06.2024  05:21:05|19.06.2024  05:22:46|Willians A. Rocha|ELET|Mariana Mart|||
 W4212186|Reprovando 100% Camera 2|Corretiva|1|MI-100|P10.9|18.06.2024  15:49:04|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
-W4212196|Ij-172 Quebra Do Puxador|Corretiva|1|P10|P10|19.06.2024  05:06:13|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Mariana Mart|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024|||
 O4212147|Esteira De Saida Nao Gira|Corretiva|MI-102|P10.9|Claudiomiro Aparecido de Souza|Aguardando Material/peca|17.06.2024|||
 O4211637|Nao Aciona Botao Pneumatico De Fechament|Corretiva|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024|||
 O4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|PLA-01|P10.11|Willians A. Rocha|Troca De Turno|19.06.2024|||
+O4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|P10|P10|Bruno M. Moraes|Troca De Turno|19.06.2024|||
