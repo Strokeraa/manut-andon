@@ -6,7 +6,6 @@ A4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|Corretiva|1|P10|P10|17.06.2024
 A4212194|Queda De Temperatura Parametro 65|Corretiva|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|00.00.0000  00:00:00|Washington J.O. Chaves|ELET|Isac Natanae|||
 N4212187|Teperatura Da Base Caindo.|Corretiva|0|MOD-5/10|P10.2|18.06.2024  17:36:18|18.06.2024  22:22:13|00.00.0000  00:00:00|Claudiomiro Aparecido de Souza|ELET|Severino Cam|||
 N4212188|Temperatura Da Base Caindo.|Corretiva|0|MOD-5/11|P10.2|18.06.2024  17:41:02|18.06.2024  23:05:19|00.00.0000  00:00:00|Felipe Candido|ELET|Severino Cam|||
-V4212183|Sensor De Borracha Nao Ta Lendo|Corretiva|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|18.06.2024  22:17:10|Claudiomiro Aparecido de Souza|ELET|Jefferson Da|||
 V4212189|Seg-09 Eap14|Corretiva|1|P10|P10|18.06.2024  21:50:18|18.06.2024  23:05:03|18.06.2024  23:27:56|Washington J.O. Chaves|MECA|Luciano de P|||
 V4212192|Monitor Nao Liga|Corretiva|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|19.06.2024  00:21:51|Washington J.O. Chaves|MECA|Elaine Crist|||
 V4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|19.06.2024  02:17:33|Bruno M. Moraes|MECA|Jefferson Da|||
