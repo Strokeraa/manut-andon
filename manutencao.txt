@@ -12,6 +12,8 @@ V4212185|Esteira De Entrada Travada|Corretiva|1|ML-91|P10.9|18.06.2024  15:37:08
 W4212186|Reprovando 100% Camera 2|Corretiva|1|MI-100|P10.9|18.06.2024  15:49:04|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
 W4212187|Teperatura Da Base Caindo.|Corretiva|1|MOD-5/10|P10.2|18.06.2024  17:36:18|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Severino Cam|||
 W4212188|Temperatura Da Base Caindo.|Corretiva|1|MOD-5/11|P10.2|18.06.2024  17:41:02|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Severino Cam|||
+W4212189|Seg-09 Eap14|Corretiva|1|P10|P10|18.06.2024  21:50:18|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Luciano de P|||
+W4212189|Seg-09 Eap14|Corretiva|1|P10|P10|18.06.2024  21:50:18|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luciano de P|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024|||
