@@ -10,6 +10,7 @@ V4212187|Teperatura Da Base Caindo.|Corretiva|1|MOD-5/10|P10.2|18.06.2024  17:36
 V4212192|Monitor Nao Liga|Corretiva|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|19.06.2024  00:21:51|Washington J.O. Chaves|MECA|Elaine Crist|||
 V4212015|Alinhar Correia Da Esteira|Corretiva|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|18.06.2024  23:01:44|Felipe Candido|MECA|Ricardo De O|||
 W4212186|Reprovando 100% Camera 2|Corretiva|1|MI-100|P10.9|18.06.2024  15:49:04|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
+W4212193|Falha No Vacuostato - Manipulador 01|Corretiva|1|MF-42|P10.8|19.06.2024  00:32:52|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Ezequiel Apa|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024|||
