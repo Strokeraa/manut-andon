@@ -3,6 +3,7 @@ A4212051|Cilindro Da Pinca Nao Gira|Corretiva|1|MF-73|P10.8|14.06.2024  05:51:16
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|Corretiva|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|00.00.0000  00:00:00|Marcus V. Nunes|MECA|Luiz Fernand|||
 A4212196|Ij-172 Quebra Do Puxador|Corretiva|1|P10|P10|19.06.2024  05:06:13|19.06.2024  05:58:16|00.00.0000  00:00:00|Paulo R. Oliveira|MECA|Mariana Mart|||
 A4212093|Falha Na Molhabilidade Itens Pequenos.|Corretiva|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|00.00.0000  00:00:00|Bruno H. Oliveira|ELET|Mariana Mart|||
+A4212198|Dosador De Carcaca Travando|Corretiva|1|SA-20|P10.8|19.06.2024  06:33:47|19.06.2024  06:40:34|00.00.0000  00:00:00|Cosme Cicero da Silva|MECA|Alessandra A|||
 V4212187|Teperatura Da Base Caindo.|Corretiva|0|MOD-5/10|P10.2|18.06.2024  17:36:18|19.06.2024  05:02:23|19.06.2024  05:23:09|Washington J.O. Chaves|ELET|Severino Cam|||
 V4212188|Temperatura Da Base Caindo.|Corretiva|0|MOD-5/11|P10.2|18.06.2024  17:41:02|19.06.2024  05:23:37|19.06.2024  05:50:25|Washington J.O. Chaves|ELET|Severino Cam|||
 V4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|19.06.2024  02:17:33|Bruno M. Moraes|MECA|Jefferson Da|||
@@ -12,8 +13,7 @@ V4212195|Quebra Do Puxador|Corretiva|2|IJ-172|P10.11|19.06.2024  05:03:24|19.06.
 W4212186|Reprovando 100% Camera 2|Corretiva|1|MI-100|P10.9|18.06.2024  15:49:04|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
 W4212197|Freio Do Motor Da Pinca Travando|Corretiva|1|MF-85|P10.6|19.06.2024  06:27:35|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Moacir De Ol|||
 W4212197|Freio Do Motor Da Pinca Travando|Corretiva|1|MF-85|P10.6|19.06.2024  06:27:35|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Moacir De Ol|||
-W4212198|Dosador De Carcaca Travando|Corretiva|1|SA-20|P10.8|19.06.2024  06:33:47|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Alessandra A|||
-W4212198|Dosador De Carcaca Travando|Corretiva|1|SA-20|P10.8|19.06.2024  06:33:47|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Alessandra A|||
+W4212199|Sensor Do Knerder Nao Esta Funcionando|Corretiva|1|P10|P10|19.06.2024  06:37:27|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Cleber Domin|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024|||
