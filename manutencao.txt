@@ -11,6 +11,7 @@ V4212131|Home Dos Bercos Fora De Posicao|Corretiva|1|FC-08|P10.9|17.06.2024  05:
 V4212193|Falha No Vacuostato - Manipulador 01|Corretiva|1|MF-42|P10.8|19.06.2024  00:32:52|19.06.2024  02:18:30|19.06.2024  03:35:53|Washington J.O. Chaves|ELET|Ezequiel Apa|||
 V4212194|Queda De Temperatura Parametro 65|Corretiva|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|19.06.2024  05:02:00|Washington J.O. Chaves|ELET|Isac Natanae|||
 W4212186|Reprovando 100% Camera 2|Corretiva|1|MI-100|P10.9|18.06.2024  15:49:04|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
+W4212196|Ij-172 Quebra Do Puxador|Corretiva|1|P10|P10|19.06.2024  05:06:13|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Mariana Mart|||
 W4212195|Quebra Do Puxador|Corretiva|2|IJ-172|P10.11|19.06.2024  05:03:24|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Mariana Mart|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
