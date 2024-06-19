@@ -12,6 +12,8 @@ V4212195|Quebra Do Puxador|2|IJ-172|P10.11|19.06.2024  05:03:24|19.06.2024  05:2
 W4212186|Reprovando 100% Camera 2|1|MI-100|P10.9|18.06.2024  15:49:04|ELET|Kelly Cristi
 W4212197|Freio Do Motor Da Pinca Travando|1|MF-85|P10.6|19.06.2024  06:27:35|ELET|Moacir De Ol
 W4212197|Freio Do Motor Da Pinca Travando|1|MF-85|P10.6|19.06.2024  06:27:35|MECA|Moacir De Ol
+W4212198|Dosador De Carcaca Travando|1|SA-20|P10.8|19.06.2024  06:33:47|ELET|Alessandra A
+W4212198|Dosador De Carcaca Travando|1|SA-20|P10.8|19.06.2024  06:33:47|MECA|Alessandra A
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024
