@@ -1,15 +1,14 @@
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|Marcus V. Nunes|MECA|Luiz Fernand
-A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|AMILCAR FERNANDO THEODORO|ELET|Mariana Mart
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|GERSON LUIS DE FREITAS|MECA|Jefferson Da
 A4212187|Teperatura Da Base Caindo.|1|MOD-5/10|P10.2|18.06.2024  17:36:18|18.06.2024  22:22:13|Claudiomiro Aparecido de Souza|ELET|Severino Cam
-A4212188|Temperatura Da Base Caindo.|1|MOD-5/11|P10.2|18.06.2024  17:41:02|18.06.2024  23:05:19|Felipe Candido|ELET|Severino Cam
 A4212192|Monitor Nao Liga|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|Washington J.O. Chaves|MECA|Elaine Crist
 V4212175|Falha Na Trava Do Kit|1|IJ-017|P10.6|18.06.2024  09:00:49|18.06.2024  15:30:01|18.06.2024  17:44:15|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
 V4212185|Esteira De Entrada Travada|1|ML-91|P10.9|18.06.2024  15:37:08|18.06.2024  16:35:11|18.06.2024  17:46:47|Claudiomiro Aparecido de Souza|MECA|Kelly Cristi
 V4212183|Sensor De Borracha Nao Ta Lendo|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|18.06.2024  22:17:10|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 V4212189|Seg-09 Eap14|1|P10|P10|18.06.2024  21:50:18|18.06.2024  23:05:03|18.06.2024  23:27:56|Washington J.O. Chaves|MECA|Luciano de P
+V4212188|Temperatura Da Base Caindo.|1|MOD-5/11|P10.2|18.06.2024  17:41:02|18.06.2024  23:05:19|18.06.2024  23:43:36|Felipe Candido|ELET|Severino Cam
 V4212015|Alinhar Correia Da Esteira|2|SA-20|P10.8|13.06.2024  14:19:44|13.06.2024  17:34:32|18.06.2024  23:01:44|Felipe Candido|MECA|Ricardo De O
 W4212186|Reprovando 100% Camera 2|1|MI-100|P10.9|18.06.2024  15:49:04|ELET|Kelly Cristi
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
@@ -17,4 +16,5 @@ O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparec
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024
 O4212147|Esteira De Saida Nao Gira|MI-102|P10.9|Claudiomiro Aparecido de Souza|Aguardando Material/peca|17.06.2024
 O4212167|Pla-01-Vazamento De Oleo Na Bomba De Vac|P10|P10|Marcus V. Nunes|Executando Outro Servico|18.06.2024
+O4212093|Falha Na Molhabilidade Itens Pequenos.|PLA-01|P10.11|AMILCAR FERNANDO THEODORO|Troca De Turno|18.06.2024
 O4211637|Nao Aciona Botao Pneumatico De Fechament|PF-7|P10|GERSON LUIS DE FREITAS|Aguardando Material/peca|03.06.2024
