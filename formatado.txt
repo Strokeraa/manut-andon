@@ -4,7 +4,6 @@ A4212171|Falha Na Aplicacao Da Cola (vazamento)|1|BD-02|P10.10|18.06.2024  06:30
 A4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|GERSON LUIS DE FREITAS|MECA|Jefferson Da
 A4212187|Teperatura Da Base Caindo.|1|MOD-5/10|P10.2|18.06.2024  17:36:18|18.06.2024  22:22:13|Claudiomiro Aparecido de Souza|ELET|Severino Cam
 A4212192|Monitor Nao Liga|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|Washington J.O. Chaves|MECA|Elaine Crist
-V4212175|Falha Na Trava Do Kit|1|IJ-017|P10.6|18.06.2024  09:00:49|18.06.2024  15:30:01|18.06.2024  17:44:15|Marco Aurelio Maciel Zucoloto|MECA|Heverton Sie
 V4212185|Esteira De Entrada Travada|1|ML-91|P10.9|18.06.2024  15:37:08|18.06.2024  16:35:11|18.06.2024  17:46:47|Claudiomiro Aparecido de Souza|MECA|Kelly Cristi
 V4212183|Sensor De Borracha Nao Ta Lendo|1|ML-80|P10.9|18.06.2024  14:50:56|18.06.2024  17:48:14|18.06.2024  22:17:10|Claudiomiro Aparecido de Souza|ELET|Jefferson Da
 V4212189|Seg-09 Eap14|1|P10|P10|18.06.2024  21:50:18|18.06.2024  23:05:03|18.06.2024  23:27:56|Washington J.O. Chaves|MECA|Luciano de P
