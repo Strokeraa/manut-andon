@@ -5,12 +5,13 @@ A4212196|Ij-172 Quebra Do Puxador|1|P10|P10|19.06.2024  05:06:13|19.06.2024  05:
 A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Bruno H. Oliveira|ELET|Mariana Mart
 V4212187|Teperatura Da Base Caindo.|0|MOD-5/10|P10.2|18.06.2024  17:36:18|19.06.2024  05:02:23|19.06.2024  05:23:09|Washington J.O. Chaves|ELET|Severino Cam
 V4212188|Temperatura Da Base Caindo.|0|MOD-5/11|P10.2|18.06.2024  17:41:02|19.06.2024  05:23:37|19.06.2024  05:50:25|Washington J.O. Chaves|ELET|Severino Cam
-V4212192|Monitor Nao Liga|1|IJ-151|P10.3|18.06.2024  23:05:09|18.06.2024  23:30:07|19.06.2024  00:21:51|Washington J.O. Chaves|MECA|Elaine Crist
 V4212131|Home Dos Bercos Fora De Posicao|1|FC-08|P10.9|17.06.2024  05:31:18|17.06.2024  06:21:42|19.06.2024  02:17:33|Bruno M. Moraes|MECA|Jefferson Da
 V4212193|Falha No Vacuostato - Manipulador 01|1|MF-42|P10.8|19.06.2024  00:32:52|19.06.2024  02:18:30|19.06.2024  03:35:53|Washington J.O. Chaves|ELET|Ezequiel Apa
 V4212194|Queda De Temperatura Parametro 65|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|19.06.2024  05:02:00|Washington J.O. Chaves|ELET|Isac Natanae
 V4212195|Quebra Do Puxador|2|IJ-172|P10.11|19.06.2024  05:03:24|19.06.2024  05:21:05|19.06.2024  05:22:46|Willians A. Rocha|ELET|Mariana Mart
 W4212186|Reprovando 100% Camera 2|1|MI-100|P10.9|18.06.2024  15:49:04|ELET|Kelly Cristi
+W4212197|Freio Do Motor Da Pinca Travando|1|MF-85|P10.6|19.06.2024  06:27:35|ELET|Moacir De Ol
+W4212197|Freio Do Motor Da Pinca Travando|1|MF-85|P10.6|19.06.2024  06:27:35|MECA|Moacir De Ol
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
 O4212129|Vazamento De Oleo Na Unidade De Injecao|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024
