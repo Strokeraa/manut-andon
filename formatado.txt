@@ -2,18 +2,17 @@ A4212131|Home Dos Bercos Fora De Posicao|0|FC-08|P10.9|17.06.2024  05:31:18|17.0
 A4211958|Valvula Do Motor Do Hidraulico Vazamento|1|IJ-130|P10.10|12.06.2024  06:42:08|CAMPOSTEC MANUTENCAO|MECA|Claudio Rodr
 A4212051|Cilindro Da Pinca Nao Gira|1|MF-73|P10.8|14.06.2024  05:51:16|14.06.2024  06:10:07|17.06.2024  07:28:46|Cosme Cicero da Silva|MECA|Diego Negret
 A4212171|Falha Na Aplicacao Da Cola (vazamento)|1|BD-02|P10.10|18.06.2024  06:30:12|18.06.2024  11:22:29|Marcus V. Nunes|MECA|Luiz Fernand
-A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|Bruno H. Oliveira|ELET|Mariana Mart
-A4212198|Dosador De Carcaca Travando|1|SA-20|P10.8|19.06.2024  06:33:47|19.06.2024  06:40:34|Cosme Cicero da Silva|MECA|Alessandra A
 A4212197|Freio Do Motor Da Pinca Travando|1|MF-85|P10.6|19.06.2024  06:27:35|19.06.2024  07:39:47|Tiago S. Muchon|MECA|Moacir De Ol
 A4212196|Ij-172 Quebra Do Puxador|1|IJ-172|P10.11|19.06.2024  05:06:13|19.06.2024  05:58:16|Paulo R. Oliveira|MECA|Mariana Mart
+A4212200|Falha Na Pressao De Fechamento|1|IJ-113|P10.6|19.06.2024  07:55:13|19.06.2024  08:16:22|Cosme Cicero da Silva|MECA|Luiz Francis
+A4212093|Falha Na Molhabilidade Itens Pequenos.|1|PLA-01|P10.11|15.06.2024  02:41:51|15.06.2024  04:02:55|19.06.2024  08:34:55|Bruno H. Oliveira|ELET|Mariana Mart
 V4212187|Teperatura Da Base Caindo.|0|MOD-5/10|P10.2|18.06.2024  17:36:18|19.06.2024  05:02:23|19.06.2024  05:23:09|Washington J.O. Chaves|ELET|Severino Cam
 V4212188|Temperatura Da Base Caindo.|0|MOD-5/11|P10.2|18.06.2024  17:41:02|19.06.2024  05:23:37|19.06.2024  05:50:25|Washington J.O. Chaves|ELET|Severino Cam
 V4212193|Falha No Vacuostato - Manipulador 01|1|MF-42|P10.8|19.06.2024  00:32:52|19.06.2024  02:18:30|19.06.2024  03:35:53|Washington J.O. Chaves|ELET|Ezequiel Apa
 V4212194|Queda De Temperatura Parametro 65|1|IJ-039|P10.7|19.06.2024  01:39:33|19.06.2024  03:37:08|19.06.2024  05:02:00|Washington J.O. Chaves|ELET|Isac Natanae
+V4212198|Dosador De Carcaca Travando|1|SA-20|P10.8|19.06.2024  06:33:47|19.06.2024  06:40:34|19.06.2024  08:15:14|Cosme Cicero da Silva|MECA|Alessandra A
 V4212195|Quebra Do Puxador|2|IJ-172|P10.11|19.06.2024  05:03:24|19.06.2024  05:21:05|19.06.2024  05:22:46|Willians A. Rocha|ELET|Mariana Mart
 W4212186|Reprovando 100% Camera 2|1|MI-100|P10.9|18.06.2024  15:49:04|ELET|Kelly Cristi
-W4212200|Falha Na Pressao De Fechamento|1|IJ-113|P10.6|19.06.2024  07:55:13|ELET|Luiz Francis
-W4212200|Falha Na Pressao De Fechamento|1|IJ-113|P10.6|19.06.2024  07:55:13|MECA|Luiz Francis
 W4212199|Sensor Do Knerder Nao Esta Funcionando|1|KN-01|P10.13|19.06.2024  06:37:27|ELET|Cleber Domin
 O4212057|Nao Esta Fucionando|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024
 O4212009|Maquina Parando Constantemente Sem Alarm|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024
