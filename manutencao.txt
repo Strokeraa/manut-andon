@@ -13,8 +13,8 @@ V4212194|Queda De Temperatura Parametro 65|Corretiva|1|IJ-039|P10.7|19.06.2024  
 V4212195|Quebra Do Puxador|Corretiva|2|IJ-172|P10.11|19.06.2024  05:03:24|19.06.2024  05:21:05|19.06.2024  05:22:46|Willians A. Rocha|ELET|Mariana Mart|||
 W4212186|Reprovando 100% Camera 2|Corretiva|1|MI-100|P10.9|18.06.2024  15:49:04|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Kelly Cristi|||
 W4212199|Sensor Do Knerder Nao Esta Funcionando|Corretiva|1|P10|P10|19.06.2024  06:37:27|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Cleber Domin|||
-W4212200|Falha Na Pressao De Fechamento|Corretiva|2|IJ-113|P10.6|19.06.2024  07:55:13|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Luiz Francis|||
-W4212200|Falha Na Pressao De Fechamento|Corretiva|2|IJ-113|P10.6|19.06.2024  07:55:13|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luiz Francis|||
+W4212200|Falha Na Pressao De Fechamento|Corretiva|1|IJ-113|P10.6|19.06.2024  07:55:13|00.00.0000  00:00:00|00.00.0000  00:00:00||ELET|Luiz Francis|||
+W4212200|Falha Na Pressao De Fechamento|Corretiva|1|IJ-113|P10.6|19.06.2024  07:55:13|00.00.0000  00:00:00|00.00.0000  00:00:00||MECA|Luiz Francis|||
 O4212057|Nao Esta Fucionando|Corretiva|EX-19|P10.13|Tiago S. Muchon|Aguardando Material/peca|14.06.2024|||
 O4212009|Maquina Parando Constantemente Sem Alarm|Corretiva|MY-03|P10.9|Claudiomiro Aparecido de Souza|Assistencia Tecnica Especifica|13.06.2024|||
 O4212129|Vazamento De Oleo Na Unidade De Injecao|Corretiva|IJ-118|P10.3|Paulo R. Oliveira|Aguardando Material/peca|17.06.2024|||
